@@ -1,0 +1,3 @@
+- __Database Management System (DBMS)__ is a system and __SQL__ is a language.
+- The user writes _SQL_ and gives it to the _DBMS_ which optimizes the query and retrieve data from а database.
+- A __database__ is just data organized into a set of tables.

@@ -1,0 +1,4 @@
+- `brew services start mongodb-community@5.0` to run *mongod* process as a macOS service
+- `brew services stop mongodb-community@5.0` to stop *mongod*
+- `brew services list` to view all the macOS services running
+- 

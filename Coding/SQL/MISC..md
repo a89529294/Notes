@@ -1,0 +1,13 @@
+- For _numeric_ data types, most DBMS has two types
+	- INTEGER
+	- DECIMAL(precision, scale): precision represents the *maximum number of digits* in the number and scale represents the *exact number of digits after the decimal point*.
+- **NULL** value in SQL
+	- *Arithmetic* or *string expressions* with **NULL** among the operands are evaluated as **NULL**, `2 + NULL` results in NULL.
+	- *Comparisons* when at least one of the operands is **NULL** results in **UNKNOWN** or **NULL** depending on the DBMS, `NULL > 1` results in NULL/UNKNOWN
+	- Use `IS NULL` and `IS NOT NULL` to check whether an expression or value is **NULL**, `1 is NULL` results in FALSE. 
+	- In DBMS that has `UNKNOWN`, it is actually the NULL value of boolean type, so you have **TRUE**, **FALSE** and **UNKNOWN**.
+- AGGREGATE functions
+	- For `COUNT()` there are three cases:
+		- `COUNT(col)` counts number of cell values that are not null
+		- `COUNT(*)` counts number of rows
+		- `COUNT(DISTINCT col)` counts number of unique cell values that are not null

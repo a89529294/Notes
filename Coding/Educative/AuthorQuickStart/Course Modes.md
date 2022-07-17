@@ -1,0 +1,2 @@
+- Three modes: *edit*, *preview*, *published*
+- Note that if you click on create/update it will take you to *published* mode but the course is not actually published, it just shows you how it will look in a live state. Go back to preview by *preview* mode by appending `/draft` at the end of the URL.

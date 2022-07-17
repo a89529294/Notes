@@ -1,0 +1,3 @@
+- Middleware (also called pre and post _hooks_) are functions which are passed control during execution of asynchronous functions. Middleware is specified on the schema level and is useful for writing [plugins](https://mongoosejs.com/docs/plugins.html).
+- [doc](https://mongoosejs.com/docs/middleware.html)
+- 

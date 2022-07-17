@@ -1,0 +1,8 @@
+- **Title** of each lesson should be descriptive and written in title case, e.g. *Introduction to Kotlin*.
+- **Summary** should be a concise summary of keywords covered in the lesson.
+- **Headings** should use ## and they will automatically be included in the table of contents.
+- **keywords** can be added using `#key# word: information #key#` 
+- Variables/code should be enclosed in backticks.
+- **Hyperlinks** uses the following syntax: `[text](link)`
+- Don't put any setup requirements for a course at the start. Include them in an “Appendix” category at the end of the course.
+- Static code snippets should be avoided as much as possible. Put the code in an executable widget.

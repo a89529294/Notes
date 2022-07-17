@@ -1,0 +1,4 @@
+- In each mongo database, you can have multiple ***collections***; the equivalent of ***tables*** in SQL databases.
+- In each collection, you can put ***documents*** in to it. 
+- Unlike SQL **tables**, mongo **collections** do not by default enforce schema consistency, i.e. **documents** can look completely different.
+- 

@@ -1,0 +1,2 @@
+- `git remote add origin git@github.com:a89529294/website.git` add remote repo at *git@github.com:a89529294/website.git* with the name *origin*
+- `git push -u origin main` associate current branch with remote repo *origin*'s branch *main* and push, second time onwards just use `git push`

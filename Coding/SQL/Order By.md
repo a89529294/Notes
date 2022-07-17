@@ -1,0 +1,1 @@
+- `SELECT * FROM Titanic_passengers ORDER BY sibsp + parch DESC;`
