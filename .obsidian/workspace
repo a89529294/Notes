@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/LearnEnough/HTML/TBD.md",
+            "file": "Coding/LearnEnough/TextEditor/Chapter 1 Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "_bl",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/HTML/TBD.md",
+                "file": "Coding/LearnEnough/TextEditor/Chapter 1 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +88,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c56e077acc62db2",
+  "active": "269cd4a915ff44ed",
   "lastOpenFiles": [
+    "Coding/LearnEnough/HTML/TBD.md",
     "Coding/Node/Express/Middleswares.md",
     "Coding/LearnEnough/CommandLine/Chapter 3 Inspecting Files.md",
-    "Coding/LearnEnough/HTML/TBD.md",
     "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
     "Coding/LearnEnough/TextEditor/Chapter 3 Advanced Editing.md",
     "Books/DotComSecrets/Section One Sales Funnel Secrets/Secret 1 The Secret Formula.md",
