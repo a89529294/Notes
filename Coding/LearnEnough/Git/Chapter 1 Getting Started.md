@@ -23,6 +23,8 @@
 - `git diff branchB` compares tip of *branchB* to tip of current branch
 
 ### Misc.
+- `git rm -r --cached .` removes all files in current directory from being tracked
+- `git rm -r <file>` remove *file* from being tracked
 - `git add -A` does two things 
 	- for tracked files it stages them
 	- for untracked files it tracks then stages them

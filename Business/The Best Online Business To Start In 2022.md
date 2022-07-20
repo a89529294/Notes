@@ -1,0 +1,5 @@
+- It's not about making the right decision, it's about making **a decision**.
+- An **agency** is the best business to start. An agency is a business or organization providing a particular service on behalf of another business, person, or group.
+	- Traveling agency
+	- Employment agency
+	- Advertising agency
