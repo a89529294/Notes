@@ -1,0 +1,3 @@
+- *Ruby* installed at `/Users/albert/.rbenv/versions/2.7.4`
+- Check where a gem is installed using `gem info gem_name`. For example, `gem info jekyll`
+- 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/LearnEnough/CSS/How Browsers Resolve Style Declaration Conflicts.md",
+            "file": "Coding/LearnEnough/CSS/Position Absolute Bug with Overflow Scroll Or Auto.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "go to line",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/CSS/How Browsers Resolve Style Declaration Conflicts.md",
+                "file": "Coding/LearnEnough/CSS/Position Absolute Bug with Overflow Scroll Or Auto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "269cd4a915ff44ed",
   "lastOpenFiles": [
-    "Coding/LearnEnough/CSS/Specificity & Order.md",
-    "Coding/LearnEnough/CSS/How Browsers Resolve Style Declaration Conflicts.md",
-    "Coding/Node/Express/EJS.md",
-    "Business/The Best Online Business To Start In 2022.md",
-    "Coding/LearnEnough/Git/Chapter 1 Getting Started.md",
-    "Coding/LearnEnough/Git/Chapter 3 Branching & Merging.md",
-    "Coding/LearnEnough/TextEditor/Chapter 1 Introduction.md",
-    "Coding/LearnEnough/HTML/TBD.md",
-    "Coding/Node/Express/Middleswares.md",
-    "Coding/LearnEnough/CommandLine/Chapter 3 Inspecting Files.md"
+    "Coding/LearnEnough/CSS/Misc. Selectors.md",
+    "Work/sanjeou clarifications needed.md",
+    "Coding/LearnEnough/CSS/Jekyll.md",
+    "Coding/JavaScript/Array Methods.md",
+    "Coding/Node/Express/Error Handling.md",
+    "Coding/Node/Express/Middlewares.md",
+    "Coding/CSS/Prevent hovering effect on mobile.md",
+    "Coding/LearnEnough/DevEnvironment/Ruby.md",
+    "Coding/LearnEnough/DevEnvironment/Homebrew.md",
+    "Coding/NextJS/How to Initialize a NextJS Project.md"
   ]
 }
