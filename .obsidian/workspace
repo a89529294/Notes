@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/LearnEnough/CSS/Position Absolute Bug with Overflow Scroll Or Auto.md",
+            "file": "Coding/CSS/Max-width Min-width Trick.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "go to line",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/CSS/Position Absolute Bug with Overflow Scroll Or Auto.md",
+                "file": "Coding/CSS/Max-width Min-width Trick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "269cd4a915ff44ed",
   "lastOpenFiles": [
-    "Coding/LearnEnough/CSS/Misc. Selectors.md",
-    "Work/sanjeou clarifications needed.md",
-    "Coding/LearnEnough/CSS/Jekyll.md",
-    "Coding/JavaScript/Array Methods.md",
-    "Coding/Node/Express/Error Handling.md",
-    "Coding/Node/Express/Middlewares.md",
+    "Untitled.md",
+    "Coding/CSS/Hide Scrollbars.md",
     "Coding/CSS/Prevent hovering effect on mobile.md",
-    "Coding/LearnEnough/DevEnvironment/Ruby.md",
-    "Coding/LearnEnough/DevEnvironment/Homebrew.md",
-    "Coding/NextJS/How to Initialize a NextJS Project.md"
+    "Coding/LearnEnough/CSS/Color & Sizing.md",
+    "Coding/CSS/Hide up down arrows on input type number.md",
+    "Coding/Node/Express/Error Handling.md",
+    "Coding/LearnEnough/HTML/TBD.md",
+    "Coding/JavaScript/Array Methods.md",
+    "Coding/LearnEnough/CSS/Position Absolute Bug with Overflow Scroll Or Auto.md",
+    "Coding/LearnEnough/CSS/Misc. Selectors.md"
   ]
 }
