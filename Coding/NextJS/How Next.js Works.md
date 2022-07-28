@@ -1,0 +1,7 @@
+- ***Compiling*** refers to the process of taking code in *one language* and **outputting** it in *another language* or another version of that language.
+- ***Minification*** is the process of *removing* unnecessary code formatting and comments without changing the code’s functionality. 
+- ***Bundling*** is the process of resolving the web of dependencies and merging (or ‘packaging’) the files (or modules) into *optimized bundles* for the browser, with the goal of reducing the number of requests for files when a user visits a web page.
+- ***Code-splitting*** is the process of *splitting* the application’s bundle into *smaller chunks* required by each *entry point*. The goal is to improve the application's initial load time by only loading the code required to run that page.
+	- Next.js has built-in support for code splitting. Each file inside your `pages/` directory will be automatically code split into its own JavaScript bundle during the *build step*.
+	- After the initial page load, Next.js can start [pre-loading the code](https://nextjs.org/docs/api-reference/next/link#:~:text=Defaults%20to%20false-,prefetch,-%2D%20Prefetch%20the%20page) of other pages users are likely to navigate to.
+	- 

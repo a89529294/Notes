@@ -10,7 +10,12 @@ app.use((err,req,res,next)=>{
 })
 
 app.use((err,req,res,next)=>{
-	next(err) // The next error handler runs
+	next(err) // The next error handler runs, err can be anything, 
+			  // like a number
 })
 ```
 5.  In Express, *404 responses* are not the result of an error, so the error-handler middleware will not capture them. This behavior is because a 404 response simply indicates the absence of additional work to do; in other words, Express has executed all middleware functions and routes, and found that none of them responded.
+6. For **async** errors, you need to pass the error to *next()* explicitly `next(err)`, at least in *express* versions earlier than **5**. Things are different in *express5.0*. Starting with Express 5, route handlers and middleware that return a Promise will call `next(value)` automatically when they reject or throw an error.
+
+# Summary
+- For *synchronous* erros, *express* can handle them without additional tweaks. For *asynchronous* erros, we need to explicity pass the *error* object to `next(err)`. Usually this means wrapping `try..catch` around *async* callbacks/middlewares. 

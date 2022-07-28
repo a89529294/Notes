@@ -7,4 +7,4 @@
 - Always use relative units *rem*/*em* instead of *px*, easier when you refacter later on.
 - *em* represents the calculated [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) of the element. If used on the [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) property itself, it represents the _inherited_ font-size of the element
 - *rem* is equal to the computed value of font-size on the root element. **When specified on the font-size property of the root element, the rem units refer to the property’s initial value.**
-- 
+
