@@ -1,0 +1,3 @@
+- *Chrome*,*Edge*, and *Opera* is based on ***Blink***, which is based on ***WebKit***
+- *Safari*, plus all *IOS browsers* is based on ***WebKit***
+- *Firefox* is based on ***Gekco***

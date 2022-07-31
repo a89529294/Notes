@@ -1,0 +1,3 @@
+- default for *flex* property is `initial` which is equivalent to `0 1 auto`
+- `flex-basis:auto` is the default. It means *look at my width or height property*. For `flex-direction:row` it looks at the *width*, for `flex-direction:column` it looks at the height.
+- `flex-basis:content` indicates automatic sizing, based on the flex item's content.
