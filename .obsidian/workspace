@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Node/Express/Routing and Path Matching.md",
+            "file": "Coding/CSS/Prevent hovering effect on mobile.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mongo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Node/Express/Routing and Path Matching.md",
+                "file": "Coding/CSS/Prevent hovering effect on mobile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "269cd4a915ff44ed",
   "lastOpenFiles": [
+    "Coding/CSS/Truncate Texts.md",
+    "Coding/Node/Express/Routing and Path Matching.md",
     "Books/Books I'm reading.md",
     "Books/Your First Year in Code/Steps to Better Code.md",
     "Coding/CSS/Flex.md",
@@ -96,8 +98,6 @@
     "Coding/Misc./Browsers.md",
     "Purpose/What I Have Learned/Ways of becoming more physically attractive.md",
     "Purpose/What I Have Learned/2022-07-30.md",
-    "Purpose/Finding Your Purpose - Stanford Course/The Three Layers of Purpose.md",
-    "Coding/CSS/Using vh on mobile.md",
-    "Coding/NextJS/How Next.js Works.md"
+    "Purpose/Finding Your Purpose - Stanford Course/The Three Layers of Purpose.md"
   ]
 }
