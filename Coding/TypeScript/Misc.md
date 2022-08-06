@@ -1,0 +1,2 @@
+- `const obj:{} = 1;` is valid; the type `{}` simply refers to any *non null*, *non undefined* value.
+- 
