@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Misc./Some Observations About Stackoverflow 2022 Survey.md",
+            "file": "Coding/CSS/Animating Height.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Misc./Some Observations About Stackoverflow 2022 Survey.md",
+                "file": "Coding/CSS/Animating Height.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "269cd4a915ff44ed",
   "lastOpenFiles": [
-    "Coding/Misc./Language Typings.md",
+    "Coding/TypeScript/React TypeScript.md",
+    "Coding/LearnEnough/CSS/Jekyll.md",
+    "Coding/NextJS/How to View App on Phone.md",
+    "Coding/NextJS/About Next Link.md",
     "Coding/TypeScript/Misc.md",
-    "Work/sanjeuo.md",
-    "Coding/Misc./Browsers.md",
     "Coding/CSS/Hide Scrollbars.md",
-    "Work/Things to work on.md",
-    "Work/sanjeou clarifications needed.md",
-    "Work/bugs.md",
-    "Coding/CSS/Prevent hovering effect on mobile.md",
-    "Coding/CSS/Truncate Texts.md"
+    "Books/Your First Year in Code/DevOps Introduction.md",
+    "Books/Your First Year in Code/How to improve your chances at getting a better job.md",
+    "Books/Your First Year in Code/Steps to Better Code.md",
+    "Coding/Misc./Projects.md"
   ]
 }

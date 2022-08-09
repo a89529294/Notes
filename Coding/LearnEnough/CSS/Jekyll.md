@@ -12,6 +12,7 @@ gem 'jekyll', '4.2.1'
 ## bundle exec with or without
 - `bundle exec jekyll serve` runs the exact jekyll server version that is specified in your Gemfile
 - `jekyll servce` runs _some_ version of jekyll server
+- `bundle exec jekyll serve --host 0.0.0.0` to enable local view on mobile, use `ipconfig getifaddr en0` to get ip. Make sure that laptop and mobile is on same network.
 
 ## Four types of magic Jekyll files
 1. layouts, any files in the *_layouts* directory
