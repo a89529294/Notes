@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "269cd4a915ff44ed",
+        "id": "1cf35f3c1f9450ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/CSS/Animating Height.md",
+            "file": "Coding/Mongo/Mongo Relationships.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/CSS/Animating Height.md",
+                "file": "Coding/Mongo/Mongo Relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "269cd4a915ff44ed",
+  "active": "1cf35f3c1f9450ae",
   "lastOpenFiles": [
+    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
+    "Coding/Mongo/Mongo Relationships.md",
+    "Coding/Mongo/Mongoose/Basics.md",
+    "Coding/CSS/Animating Height.md",
     "Coding/TypeScript/React TypeScript.md",
     "Coding/LearnEnough/CSS/Jekyll.md",
     "Coding/NextJS/How to View App on Phone.md",
     "Coding/NextJS/About Next Link.md",
     "Coding/TypeScript/Misc.md",
-    "Coding/CSS/Hide Scrollbars.md",
-    "Books/Your First Year in Code/DevOps Introduction.md",
-    "Books/Your First Year in Code/How to improve your chances at getting a better job.md",
-    "Books/Your First Year in Code/Steps to Better Code.md",
-    "Coding/Misc./Projects.md"
+    "Coding/CSS/Hide Scrollbars.md"
   ]
 }
