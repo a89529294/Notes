@@ -1,0 +1,1 @@
+- Make sure the *title* tag, *meta* tags and *h1*, *h2* headings include all of the words you want to target for search results.
