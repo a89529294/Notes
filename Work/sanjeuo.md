@@ -1,8 +1,11 @@
-1. news page don't escape content [check]
-2. 公司簡介 專業認證點下去lightbox
-3. timeline most recent first [check]
-4. index video use the same one on about page [check]
-5. index aheivements link to achievements page instead of individual page [check]
-https://www.youtube.com/watch?v=Pc_QS53dU6Q
-
-https://www.youtube.com/embed/Pc_QS53dU6Q
+1. /api/products (產品)
+	1. locale en 裡許多產品的title, model, feature 都還是中文
+	2. locale zh 裡產品數量跟 en 不一樣. zh有21個, en 有50個
+2. /api/informations (動態資訊)
+	1. locale en 有18則, zh有12則
+3. /api/achievements (工程實績)
+	1. en, zh 數量不同
+4. /api/catalogs (電子型錄)
+	1. en, zh 數量不同
+5. /api/introduction (公司簡介)
+	1. locale en 缺少 certification(證照), company_timeline(企業沿革)

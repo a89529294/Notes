@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Shimmering Focus",
+  "baseFontSize": 20,
+  "translucency": true
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/CSS/Clip Path.md",
+            "file": "Coding/LearnEnough/CSS/Grid.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "link",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/CSS/Clip Path.md",
+                "file": "Coding/LearnEnough/CSS/Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1cf35f3c1f9450ae",
   "lastOpenFiles": [
-    "Coding/LearnEnough/CSS/SEO.md",
-    "Coding/Mongo/Mongo Relationships.md",
-    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
-    "Coding/Mongo/Mongoose/Basics.md",
-    "Coding/CSS/Animating Height.md",
-    "Coding/TypeScript/React TypeScript.md",
-    "Coding/LearnEnough/CSS/Jekyll.md",
-    "Coding/NextJS/How to View App on Phone.md",
-    "Coding/NextJS/About Next Link.md",
-    "Coding/TypeScript/Misc.md"
+    "Untitled.md",
+    "Coding/LearnEnough/CSS/Grid.md",
+    "Purpose/Finding Your Purpose - Stanford Course/The Three Layers of Purpose.md",
+    "Purpose/Finding Your Purpose - Stanford Course/Purpose & Meaing in Life.md",
+    "Purpose/Finding Your Purpose - Stanford Course/Headstone.md",
+    "Purpose/Finding Your Purpose - Stanford Course/Benifits of Having a Purpose.md",
+    "Purpose/Finding Your Purpose - Stanford Course/7 Questions.md",
+    "Purpose/Finding Your Purpose - Stanford Course/\"Right\" VS. \"Wrong\" Purposes.md",
+    "Work/sanjeuo.md",
+    "Work/Things to work on.md"
   ]
 }
