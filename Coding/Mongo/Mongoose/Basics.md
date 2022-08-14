@@ -10,4 +10,3 @@
 ### What is a Model?
 - A mongoose *model* is just a JavaScipt class that mongoose uses to map to a *collection*.
 - `const Movie = mongoose.model("Movie", movieSchema);` here we give the *Movie* model the string 'Movie' as the key, mongoose will lowercase and pluralize it to 'movies' and use it as the collection name.
-- 

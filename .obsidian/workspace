@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
+            "file": "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
+                "file": "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +90,14 @@
   "active": "1cf35f3c1f9450ae",
   "lastOpenFiles": [
     "Coding/LearnEnough/CSS/Grid/Alignment.md",
+    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
+    "Coding/Mongo/Mongoose/Basics.md",
+    "Readings/Addictions/How to quit porn.md",
+    "Readings/Addictions/Supernormal Stimulus.md",
+    "Readings/Addictions/Downsides of Video Games.md",
+    "Readings/Untitled 1.md",
+    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
     "Untitled.md",
-    "Purpose/Finding Your Purpose - Stanford Course/The Three Layers of Purpose.md",
-    "Purpose/Finding Your Purpose - Stanford Course/Purpose & Meaing in Life.md",
-    "Purpose/Finding Your Purpose - Stanford Course/Headstone.md",
-    "Purpose/Finding Your Purpose - Stanford Course/Benifits of Having a Purpose.md",
-    "Purpose/Finding Your Purpose - Stanford Course/7 Questions.md",
-    "Purpose/Finding Your Purpose - Stanford Course/\"Right\" VS. \"Wrong\" Purposes.md",
-    "Work/sanjeuo.md",
-    "Work/Things to work on.md"
+    "Purpose/Finding Your Purpose - Stanford Course/The Three Layers of Purpose.md"
   ]
 }
