@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
+            "file": "Coding/LearnEnough/Ruby/rbenv.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
+                "file": "Coding/LearnEnough/Ruby/rbenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1cf35f3c1f9450ae",
   "lastOpenFiles": [
+    "Coding/Misc./Homebrew.md",
+    "Coding/LearnEnough/Ruby/rbenv.md",
+    "Coding/LearnEnough/TextEditor/Chapter 1 Introduction.md",
+    "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
+    "Coding/LearnEnough/CommandLine/Chapter 2 Manipulating Files.md",
     "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
-    "Coding/Mongo/Mongoose/Basics.md",
+    "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
+    "Coding/TypeScript/React TypeScript.md",
     "Readings/Addictions/How to quit porn.md",
-    "Readings/Addictions/Supernormal Stimulus.md",
-    "Readings/Addictions/Downsides of Video Games.md",
-    "Readings/Untitled 1.md",
-    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
-    "Untitled.md",
-    "Purpose/Finding Your Purpose - Stanford Course/The Three Layers of Purpose.md"
+    "Coding/Mongo/CRUD using Mongo Legacy Shell.md"
   ]
 }

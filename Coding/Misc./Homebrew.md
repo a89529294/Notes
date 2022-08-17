@@ -1,0 +1,3 @@
+- `brew update` updates brew itself
+- `brew upgrade` updates the installed packages, like *rbenv*
+- 
