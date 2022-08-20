@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/LearnEnough/Ruby/rbenv.md",
+            "file": "Coding/Node/Express/Routing and Path Matching.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/Ruby/rbenv.md",
+                "file": "Coding/Node/Express/Routing and Path Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1cf35f3c1f9450ae",
   "lastOpenFiles": [
-    "Coding/Misc./Homebrew.md",
-    "Coding/LearnEnough/Ruby/rbenv.md",
-    "Coding/LearnEnough/TextEditor/Chapter 1 Introduction.md",
+    "Coding/LearnEnough/Ruby/Basics.md",
     "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
-    "Coding/LearnEnough/CommandLine/Chapter 2 Manipulating Files.md",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
-    "Coding/TypeScript/React TypeScript.md",
-    "Readings/Addictions/How to quit porn.md",
-    "Coding/Mongo/CRUD using Mongo Legacy Shell.md"
+    "Coding/LearnEnough/CSS/Jekyll.md",
+    "Coding/LearnEnough/Ruby/gems.md",
+    "Coding/NextJS/How to View App on Phone.md",
+    "Coding/LearnEnough/Ruby/rbenv.md",
+    "Coding/NextJS/How to Initialize a NextJS Project.md",
+    "Coding/NextJS/How Next.js Works.md",
+    "Coding/Misc./Homebrew.md",
+    "Coding/LearnEnough/TextEditor/Chapter 1 Introduction.md"
   ]
 }
