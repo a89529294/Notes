@@ -1,4 +1,5 @@
 ## Strings
+- *Strings* in *Ruby* are **mutable**.
 - interpolation in *Ruby*
 ```ruby
 first_name = 'Albert'

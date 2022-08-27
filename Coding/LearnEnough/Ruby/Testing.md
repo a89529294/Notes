@@ -1,0 +1,2 @@
+- `assert condition` passes when *condition* is true, i.e. we expect *condition* to be true.
+- `refute condition` passes when *condition* is false, i.e. we expect *condition* to be false.
