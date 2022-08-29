@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Node/Express/Sessions.md",
+            "file": "Coding/NextJS/About Next Link.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "link",
+                "query": "shell scr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Node/Express/Sessions.md",
+                "file": "Coding/NextJS/About Next Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3617fa139abd2201",
+  "active": "38cd7575f1f5cefb",
   "lastOpenFiles": [
-    "Coding/Misc./Sessions.md",
-    "Coding/Node/Express/Sessions.md",
-    "Coding/Misc./Cookies.md",
-    "Coding/LearnEnough/Ruby/Testing.md",
-    "Coding/LearnEnough/Ruby/Hashes.md",
-    "Coding/LearnEnough/Ruby/Arrays.md",
-    "Coding/LearnEnough/Ruby/Core Classes.md",
-    "Coding/LearnEnough/Ruby/Basics.md",
-    "Coding/Node/Express/Cookies.md",
-    "Coding/Node/Express/Routing and Path Matching.md"
+    "Coding/LearnEnough/TextEditor/Chapter 3 Advanced Editing.md",
+    "Coding/LearnEnough/TextEditor/Chapter 1 Introduction.md",
+    "Coding/LearnEnough/DevEnvironment/Homebrew.md",
+    "Coding/LearnEnough/DevEnvironment/Ruby.md",
+    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
+    "Coding/LearnEnough/CommandLine/commands.md",
+    "Coding/LearnEnough/Ruby/Requrie vs. Load.md",
+    "Coding/LearnEnough/Ruby/Ruby Return Keyword & Alternatives.md",
+    "Coding/Misc./Authentication/Bycrpt.md",
+    "Coding/Misc./Authentication/Hashing Functions.md"
   ]
 }
