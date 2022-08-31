@@ -1,2 +1,0 @@
-- `require` searches for the library in all the defined search paths and also appends .rb or .so to the file name you enter. It also makes sure that a library is only included once. So if your application requires library A and B and library B requries library A too A would be loaded only once.
-- With `load` you need to add the full name of the library and it gets loaded every time you call `load` - even if it already is in memory.
