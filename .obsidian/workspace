@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/LearnEnough/Ruby/Requrie vs. Load vs. Require relative.md",
+            "file": "Coding/LearnEnough/Ruby/Create New Rails App.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/Ruby/Requrie vs. Load vs. Require relative.md",
+                "file": "Coding/LearnEnough/Ruby/Create New Rails App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c56e077acc62db2",
+  "active": "3617fa139abd2201",
   "lastOpenFiles": [
-    "Coding/LearnEnough/Ruby/rbenv.md",
     "Coding/LearnEnough/Ruby/gems.md",
+    "Coding/LearnEnough/Ruby/Create New Rails App.md",
+    "Coding/LearnEnough/Ruby/rbenv.md",
+    "Coding/LearnEnough/Ruby/Requrie vs. Load vs. Require relative.md",
     "Coding/NextJS/About Next Link.md",
     "Coding/LearnEnough/TextEditor/Chapter 3 Advanced Editing.md",
     "Coding/LearnEnough/TextEditor/Chapter 1 Introduction.md",
     "Coding/LearnEnough/DevEnvironment/Homebrew.md",
     "Coding/LearnEnough/DevEnvironment/Ruby.md",
-    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
-    "Coding/LearnEnough/CommandLine/commands.md",
-    "Coding/LearnEnough/Ruby/Requrie vs. Load vs. Require relative.md"
+    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md"
   ]
 }
