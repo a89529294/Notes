@@ -1,0 +1,2 @@
+- `npm i express@~3.1.2` will install lastest version *less than* 3.2.0
+- `npm i express@^3.1.2` will install latest version *less than* 4.0.0
