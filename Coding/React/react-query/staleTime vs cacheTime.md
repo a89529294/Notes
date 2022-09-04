@@ -19,8 +19,11 @@ const {data} = useQuery(['posts'],fetchPosts,
 
 ### Conclusion
 - Usually there is no need to configure `cacheTime`. 
-- A query will be fetched *iff* the query is *stale* and one of the following four conditions is met:
+- A query will be *refetched* **automcatically** *iff* the query is *stale* and one of the following four conditions is met:
 	- window refocus
-	- new instances of the query mount
+	- new instances of the query mount, e.g. a component that uses that query remounts
 	- network reconection
 	- the query is configured with the `refetchInterval` option
+- A query can be *refetched* **imperatively** if
+	- manually triggering the refetch function
+	- query invalidation after a mutation

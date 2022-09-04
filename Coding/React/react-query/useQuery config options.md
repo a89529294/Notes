@@ -1,0 +1,3 @@
+- `keepPreviousData`
+	- defaults to `false`
+	- if `true`, any previous `data` will be kept when fetching new data because the query key changed. i.e. no loading state will be shown instead the old data will be shown then be replaced by new data.

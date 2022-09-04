@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/LearnEnough/CSS/Grid/Alignment.md",
+            "file": "Coding/React/react-query/useQuery config options.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/CSS/Grid/Alignment.md",
+                "file": "Coding/React/react-query/useQuery config options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "3617fa139abd2201",
   "lastOpenFiles": [
-    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
     "Coding/React/react-query/staleTime vs cacheTime.md",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md",
+    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
     "Coding/JavaScript/Native Fetch.md",
     "Coding/React/react-query/isLoading vs. isFetching.md",
     "Coding/Node/npm install.md",
     "Coding/LearnEnough/Ruby On Rails/Create New Rails App.md",
     "Coding/LearnEnough/Ruby On Rails/Deploying on Heroku.md",
     "Coding/LearnEnough/Git/Chapter 3 Branching & Merging.md",
-    "Coding/LearnEnough/Git/Chapter 2 Pushing to Remote.md",
-    "Coding/LearnEnough/Git/Chapter 1 Getting Started.md"
+    "Coding/LearnEnough/Git/Chapter 2 Pushing to Remote.md"
   ]
 }
