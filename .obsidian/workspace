@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/React/react-query/useQuery config options.md",
+            "file": "Coding/React/--legacy-peer-deps.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/React/react-query/useQuery config options.md",
+                "file": "Coding/React/--legacy-peer-deps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3617fa139abd2201",
   "lastOpenFiles": [
+    "Coding/React/react-query/prefetching.md",
+    "Coding/React/react-query/isLoading vs. isFetching.md",
+    "Coding/React/react-query/useQuery config options.md",
     "Coding/React/react-query/staleTime vs cacheTime.md",
     "Coding/LearnEnough/CSS/Grid/Alignment.md",
     "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
     "Coding/JavaScript/Native Fetch.md",
-    "Coding/React/react-query/isLoading vs. isFetching.md",
     "Coding/Node/npm install.md",
     "Coding/LearnEnough/Ruby On Rails/Create New Rails App.md",
-    "Coding/LearnEnough/Ruby On Rails/Deploying on Heroku.md",
-    "Coding/LearnEnough/Git/Chapter 3 Branching & Merging.md",
-    "Coding/LearnEnough/Git/Chapter 2 Pushing to Remote.md"
+    "Coding/LearnEnough/Ruby On Rails/Deploying on Heroku.md"
   ]
 }

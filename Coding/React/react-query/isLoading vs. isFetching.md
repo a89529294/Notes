@@ -3,3 +3,6 @@
 
 ## isLoading
 - *isFetching* plus there is **no cached data**
+
+# Conclusion
+*isLoading* is a subset of *isFetching*
