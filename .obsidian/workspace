@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/React/--legacy-peer-deps.md",
+            "file": "Coding/React/react-query/infinite scroll.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/React/--legacy-peer-deps.md",
+                "file": "Coding/React/react-query/infinite scroll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "3617fa139abd2201",
   "lastOpenFiles": [
+    "Coding/React/--legacy-peer-deps.md",
     "Coding/React/react-query/prefetching.md",
     "Coding/React/react-query/isLoading vs. isFetching.md",
     "Coding/React/react-query/useQuery config options.md",
@@ -97,7 +98,6 @@
     "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
     "Coding/JavaScript/Native Fetch.md",
     "Coding/Node/npm install.md",
-    "Coding/LearnEnough/Ruby On Rails/Create New Rails App.md",
-    "Coding/LearnEnough/Ruby On Rails/Deploying on Heroku.md"
+    "Coding/LearnEnough/Ruby On Rails/Create New Rails App.md"
   ]
 }
