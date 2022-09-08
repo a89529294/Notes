@@ -1,4 +1,4 @@
-### Properties on the grid container
+## Properties on the grid container
 
 #### Applicable to grid items
 - *justify-items* 
@@ -25,7 +25,7 @@ Note that in order for these properties to work the grid tracks total size in ei
 	- `place-content: end space-between;`
 	- `place-content: center;` is equivalent to `place-content: center center;`
 
-### Properties on the grid items
+## Properties on the grid items
 - *justify-self* 
 	- aligns the **grid** item horizontally within its cell. 
 	- `justify-self: auto;` is the **default**, which inherits the parents `justify-items` property's value.
