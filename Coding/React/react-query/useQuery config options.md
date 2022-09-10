@@ -1,3 +1,7 @@
-- `keepPreviousData`
+- `keepPreviousData: true`
 	- defaults to `false`
 	- if `true`, any previous `data` will be kept when fetching new data because the query key changed. i.e. no loading state will be shown instead the old data from the *previous key* will be shown then be replaced by new data from the *new key*.
+- `select: selectFn` (data)=>transformedData
+	- does not modify the cache
+	- only runs when data or `select` itself changes
+- `refetchInterval: interval` rerun queryFn every *interval* ms

@@ -2,7 +2,7 @@
 
 # Ways of Prefetching
 ## Saved to Cache
-- `queryClient.prefetchQuery([key], queryFn)` The syntax is exactly the same as `useQuery([key], queryFn)`. The main difference is this is not a hook.
+- `queryClient.prefetchQuery([key], queryFn)` The syntax is exactly the same as `useQuery([key], queryFn)`. 
 - `queryClient.setQueryData([key], data)` This is used when you already have the data. `data` can also be a synchronous function that returns some value
 - `useQuery([key], queryFn, {initialData:data})` `data` can also be a synchronous function that returns some value 
 ## Not saved to Cached
