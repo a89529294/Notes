@@ -1,0 +1,3 @@
+- `queryClient.removeQueries(['todo',todoId])`
+- Note that you can only remove one query at a time.
+- Call `removeQueries` multiple times to remove multiple queries.

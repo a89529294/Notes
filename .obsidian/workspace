@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/React/react-query/useQuery config options.md",
+            "file": "Coding/LearnEnough/Git/Misc.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peer",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/React/react-query/useQuery config options.md",
+                "file": "Coding/LearnEnough/Git/Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3617fa139abd2201",
   "lastOpenFiles": [
+    "Coding/LearnEnough/Git/Chapter 1 Getting Started.md",
+    "Coding/LearnEnough/Ruby On Rails/Scaffolding.md",
+    "Coding/LearnEnough/Ruby On Rails/Deploying on Heroku.md",
+    "Coding/LearnEnough/Ruby/gems.md",
+    "Coding/React/react-query/Keeping data in sync after mutation.md",
+    "Coding/React/react-query/global options.md",
+    "Coding/React/react-query/queryClient.removeQueries.md",
+    "Coding/React/react-query/useQuery config options.md",
     "Coding/React/react-query/Ways of Setting Cache Data.md",
-    "Coding/React/react-query/useQuery vs prefetchQuery.md",
-    "Coding/HTML/Forms.md",
-    "Coding/Node/npm install.md",
-    "Coding/LearnEnough/CommandLine/Chapter 3 Inspecting Files.md",
-    "Coding/LearnEnough/CommandLine/Chapter 2 Manipulating Files.md",
-    "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
-    "Coding/LearnEnough/CommandLine/commands.md",
-    "Coding/React/react-query/staleTime vs cacheTime.md",
-    "Coding/React/react-query/useIsFetching.md"
+    "Coding/React/react-query/useQuery vs prefetchQuery.md"
   ]
 }

@@ -1,0 +1,2 @@
+- `rails generate controller StaticPages home help` controller name `StaticPages` shoule be *PascalCased* and action names `home, help` should be in lowercase.
+- 

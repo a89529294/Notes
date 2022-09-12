@@ -5,4 +5,4 @@
 	- does not modify the cache
 	- only runs when data or `select` itself changes
 - `refetchInterval: interval` rerun queryFn every *interval* ms
-- `onSuccess:(data)=>{...}` runs everytime the data of a query key is updated.
+- `onSuccess:(data)=>{...}` runs everytime the data of a query is updated. e.g. `fetcher` of a `useQuery` runs or `setQueryData` runs
