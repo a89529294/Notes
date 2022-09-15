@@ -1,0 +1,2 @@
+- `head` is the symbolic name for the currently checked out commit.
+- 
