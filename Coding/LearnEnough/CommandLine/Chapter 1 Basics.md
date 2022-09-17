@@ -22,7 +22,9 @@ Notice the \ in the first line, it is used for line continuation
 
 ### Basic Maneuver
 - `^A`  to go to beginning of line; `^E`  to end of line; `^U` to delete everything; `option + left click`  or `left/right arrow key` to go to a specific part.
-- type `clear` or press `^L` to clear terminal screen; type `exit` or press `^D` to close current terminal tab;
+- type `clear` to clear terminal screen; 
+- `cmd k` to reset terminal screen;
+- type `exit` or press `^D` to close current terminal tab;
 - `ctrl k` removes all text from the cursor to the end of the line.
 - `ctrl d` removes the character the cursor is on top of.
 
