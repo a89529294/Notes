@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Git/Head First Git/2. Branches.md",
+            "file": "Coding/Git/Head First Git/7. Searching Git Repo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Git/Head First Git/2. Branches.md",
+                "file": "Coding/Git/Head First Git/7. Searching Git Repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3617fa139abd2201",
   "lastOpenFiles": [
-    "Coding/Git/Head First Git/Remote Tracking Branches.md",
-    "Coding/Git/Head First Git/6. Collaboarting - 2.md",
-    "Coding/Git/Head First Git/1. Beginning Git.md",
-    "Coding/Git/Head First Git/5. Collaborating - 1.md",
-    "Coding/Git/Head First Git/Pull Request aka Merge Request.md",
+    "Coding/Git/Head First Git/Feature Branch Workflow.md",
     "Coding/Git/Head First Git/2. Branches.md",
+    "Coding/Git/Head First Git/6. Collaboarting - 2.md",
+    "Coding/Git/Head First Git/5. Collaborating - 1.md",
+    "Coding/Git/Head First Git/Remote Tracking Branches.md",
+    "Coding/Git/Head First Git/1. Beginning Git.md",
+    "Coding/Git/Head First Git/Pull Request aka Merge Request.md",
     "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
     "Coding/Git/Head First Git/HEAD.md",
-    "Coding/Git/Head First Git/3. Git Log & Git Diff.md",
-    "Coding/LearnEnough/TextEditor/Chapter 1 Introduction.md"
+    "Coding/Git/Head First Git/3. Git Log & Git Diff.md"
   ]
 }
