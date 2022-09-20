@@ -20,3 +20,6 @@
 
 ## Auto-fill
 3. The extra 3 columns remain, so each column retain their *220px* width.
+
+## Note
+The difference between *auto-fit* & *auto-fill* only shows up if there are *less* items then columns.

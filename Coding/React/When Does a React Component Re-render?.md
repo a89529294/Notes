@@ -4,3 +4,4 @@
 3. It is consuming context values which have changed.
 4. Its parent re-renders
 
+
