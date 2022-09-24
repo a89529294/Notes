@@ -19,3 +19,5 @@ height: 0;
 
 }
 ```
+
+then just apply the *container* class on any element you wish to hide its scrollbar

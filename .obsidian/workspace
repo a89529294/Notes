@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/NextJS/Next Future Image.md",
+            "file": "Coding/TypeScript/Setting up TS.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grid",
+                "query": "clip",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/NextJS/Next Future Image.md",
+                "file": "Coding/TypeScript/Setting up TS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3617fa139abd2201",
   "lastOpenFiles": [
-    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/React/When Does a React Component Re-render?.md",
-    "Coding/NextJS/How to Initialize a NextJS Project.md",
-    "Coding/Git/Head First Git/2. Branches.md",
-    "Coding/Git/Head First Git/Misc..md",
-    "Coding/Git/Head First Git/6. Collaboarting - 2.md",
-    "Coding/Git/Head First Git/5. Collaborating - 1.md",
-    "Coding/LearnEnough/CommandLine/Chapter 3 Inspecting Files.md",
-    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md"
+    "Coding/TypeScript/reduce.md",
+    "Coding/CSS/sticky position.md",
+    "Readings/Books I'm reading.md",
+    "Readings/Addictions/Downsides of Video Games.md",
+    "Coding/HTML/Mouseenter vs Mouseover.md",
+    "Coding/Misc./Using Vite with Tailwind + React + TS.md",
+    "Coding/CSS/Clip Path.md",
+    "Coding/CSS/Hide Scrollbars.md",
+    "Coding/NextJS/Next Future Image.md",
+    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md"
   ]
 }
