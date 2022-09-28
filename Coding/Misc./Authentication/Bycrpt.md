@@ -9,14 +9,14 @@ Demo is located at [colt steele bootcamp](https://github.com/a89529294/Colt_Stee
 const bcrypt = require("bcrypt");
 
 const hashPassword = async (pw) => {
-const saltRounds = 10;
-const salt = await bcrypt.genSalt(saltRounds);
+	const saltRounds = 10;
+	const salt = await bcrypt.genSalt(saltRounds);
 
-/* You can pass in saltRounds or salt */
-const hashedPw = await bcrypt.hash(pw, saltRounds);
-/* const hashedPw = await bcrypt.hash(pw, salt); */
+	/* You can pass in saltRounds or salt */
+	const hashedPw = await bcrypt.hash(pw, saltRounds);
+	/* const hashedPw = await bcrypt.hash(pw, salt); */
 
-await bcrypt.compare(pw, hashedPw).then((r) => console.log(r));
+	await bcrypt.compare(pw, hashedPw).then((r) => console.log(r));
 };
 
 hashPassword("monkey");

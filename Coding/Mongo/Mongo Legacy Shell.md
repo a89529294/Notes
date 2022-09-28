@@ -1,5 +1,6 @@
 1. make sure you have `mongod` running
 2. enter `mongo` in cli to enter *mongo shell*
+3. or enter `mongosh` to enter new *mongo shell*
 
 ###### In mongo shell
 - `cmd k` to clear screen

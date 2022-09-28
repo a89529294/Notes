@@ -11,3 +11,6 @@
 6. `touch babel.config.json` in root of project then add `{ "presets": ["@babel/preset-env","@babel/preset-typescript"] }` in it.
 7. `npm run build` again and you will see the files in *src* are modified.
 8. By default *Babel* will only transpile *JS* files so you need to edit *script:build* to `"build":"babel src -d lib --extensions '.ts,.js'"` to also handle *TS* files. 
+
+## Misc.
+- *Babel* does not care about `tsconfig.json`. If you want to enable some typescipt compiler options you can `npx tsc` directly, note do not specify the files or `tsconfig.json` will be ignored.
