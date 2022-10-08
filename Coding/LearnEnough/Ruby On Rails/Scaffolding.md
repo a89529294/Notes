@@ -1,2 +1,5 @@
 - `rails generate controller StaticPages home help` controller name `StaticPages` shoule be *PascalCased* and action names `home, help` should be in lowercase.
-- 
+- `rails destroy controller StaticPages home help` cancel the above command.
+- `rails db:migrate` 
+	- to negate above use `rails db:rollback`
+	- to go back to the beginning use `rails db:migrate VERSION=0`

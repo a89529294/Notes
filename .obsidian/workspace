@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/DS & Algos/LinkedLists/Queue.md",
+            "file": "Coding/CSS/Background Position.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "revert",
+                "query": "forwardr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/DS & Algos/LinkedLists/Queue.md",
+                "file": "Coding/CSS/Background Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3617fa139abd2201",
   "lastOpenFiles": [
-    "Coding/DS & Algos/LinkedLists/Stack.md",
-    "Coding/DS & Algos/LinkedLists/Queue.md",
-    "Coding/DS & Algos/LinkedLists/LinkedList.md",
-    "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
-    "Coding/DS & Algos/Binary Search.md",
-    "Coding/DS & Algos/What are arrays?.md",
-    "Coding/DS & Algos/Big O.md",
-    "Coding/VSCode/Keybindings.md",
-    "Coding/LearnEnough/Git/Chapter 3 Branching & Merging.md",
-    "Coding/LearnEnough/Git/Chapter 2 Pushing to Remote.md"
+    "Coding/LearnEnough/Ruby On Rails/Scaffolding.md",
+    "Coding/LearnEnough/Ruby On Rails/Create New Rails App.md",
+    "Coding/CSS/TailwindCSS/Prevent hovering effect on mobile.md",
+    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
+    "Coding/TypeScript/React TypeScript.md",
+    "Coding/React/Misc. Hooks And When to Use Them.md",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md",
+    "Coding/CSS/Hide Scrollbars.md",
+    "Coding/Git/Head First Git/2. Branches.md",
+    "Coding/React/ReactElement vs ReactNode vs FC vs JSX.Element.md"
   ]
 }
