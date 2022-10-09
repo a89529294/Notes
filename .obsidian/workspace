@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/CSS/Background Position.md",
+            "file": "Coding/Ruby/Head First Ruby/Chapter 1 Basics.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forwardr",
+                "query": "grid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/CSS/Background Position.md",
+                "file": "Coding/Ruby/Head First Ruby/Chapter 1 Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3617fa139abd2201",
   "lastOpenFiles": [
-    "Coding/LearnEnough/Ruby On Rails/Scaffolding.md",
-    "Coding/LearnEnough/Ruby On Rails/Create New Rails App.md",
-    "Coding/CSS/TailwindCSS/Prevent hovering effect on mobile.md",
-    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
-    "Coding/TypeScript/React TypeScript.md",
-    "Coding/React/Misc. Hooks And When to Use Them.md",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/CSS/Hide Scrollbars.md",
-    "Coding/Git/Head First Git/2. Branches.md",
-    "Coding/React/ReactElement vs ReactNode vs FC vs JSX.Element.md"
+    "Coding/Ruby/Head First Ruby/Chapter 2 Methods & Classes.md",
+    "Coding/LearnEnough/Ruby/Requrie vs. Load vs. Require relative.md",
+    "Coding/Ruby/Untitled.md",
+    "Coding/Git/Head First Git/gitignore file.md",
+    "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
+    "Coding/LearnEnough/Ruby/rbenv.md",
+    "Coding/DS & Algos/ArrayBuffer.md",
+    "Coding/DS & Algos/ArrayList.md",
+    "Coding/DS & Algos/What are arrays?.md",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md"
   ]
 }
