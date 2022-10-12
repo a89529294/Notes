@@ -1,22 +1,14 @@
 ```css
-.container {
-
+.no-scrollbar {
 overflow-y: scroll;
-
 scrollbar-width: none; /* Firefox */
-
 -ms-overflow-style: none; /* Internet Explorer 10+ */
-
 }
 
-.container::-webkit-scrollbar {
-
+.no-scrollbar::-webkit-scrollbar {
 /* WebKit */
-
 width: 0;
-
 height: 0;
-
 }
 ```
 

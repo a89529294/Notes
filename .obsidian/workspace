@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coding/Ruby/Head First Ruby/Chapter 5 Arrays & Blocks.md",
+            "file": "Coding/Ruby/Head First Ruby/Chapter 6 Blocks Cont.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Head First Ruby/Chapter 5 Arrays & Blocks.md",
+                "file": "Coding/Ruby/Head First Ruby/Chapter 6 Blocks Cont.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3617fa139abd2201",
   "lastOpenFiles": [
-    "Coding/LearnEnough/Ruby/Ruby Return Keyword & Alternatives.md",
-    "Coding/LearnEnough/Ruby/Core Classes.md",
-    "Coding/LearnEnough/Ruby/Basics.md",
-    "Coding/LearnEnough/Ruby/Arrays.md",
-    "Coding/JavaScript/Node.contains.md",
     "Coding/Ruby/Head First Ruby/Chapter 5 Arrays & Blocks.md",
-    "Coding/Ruby/Head First Ruby/Chapter 4 Inheritance Cont.md",
-    "Coding/Ruby/Head First Ruby/Chapter 2 & 3 Classes & Inheritance.md",
-    "Coding/JavaScript/JustJavaScript/Ch1 Values.md",
-    "Coding/DS & Algos/Recursion.md"
+    "Coding/Ruby/Head First Ruby/Chapter 6 Blocks Cont.md",
+    "Coding/React/React Security/JWT Do's & Don'ts.md",
+    "Coding/Mongo/Starting and Stoping mongod Process.md",
+    "Coding/Mongo/Basics.md",
+    "Coding/Mongo/Mongoose/Basics.md",
+    "Coding/CSS/Hide Scrollbars.md",
+    "Coding/CSS/Truncate Texts.md",
+    "Coding/LearnEnough/Ruby/Ruby Return Keyword & Alternatives.md",
+    "Coding/LearnEnough/Ruby/Core Classes.md"
   ]
 }
