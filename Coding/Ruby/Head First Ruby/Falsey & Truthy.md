@@ -1,0 +1,1 @@
+In Ruby only *false* and *nil* are falsey

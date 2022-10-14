@@ -30,3 +30,7 @@ end
 other_method # Does not print out anything, fix it by simply removing
              # the return
 ```
+
+## Opening Files
+if you pass a block to `File.open` it will pass the file to the block and after the block ends it will close the file automcaically.
+
