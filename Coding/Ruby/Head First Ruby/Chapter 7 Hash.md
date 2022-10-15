@@ -49,6 +49,13 @@ Now if you pass in something not listed as a keyword you will get a warning. Not
 
 *Note* if you use positional params with keyword arguments,you have to list the keywords *last*.
 
+## Hash default object
+```ruby
+empty_elements = Hash.new(0) # pass in 0 to use as default object for 
+		                     # missing keys
+empty_elements[:wut] # 0 instead of nil
+```
+
 
 
 
