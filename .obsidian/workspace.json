@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a14648eca1e7473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Node/Intro_to_Node_MS/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea33df9b32c35f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Node/Intro_to_Node_MS/NPM commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d918bd989f5dfe60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Node/Intro_to_Node_MS/NPM commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "005d22038fe85a4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Node/Intro_to_Node_MS/npx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Head First Ruby/Chapter 9 Modules.md",
+                "file": "Coding/Node/Intro_to_Node_MS/NPM commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +147,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5c6bb3d63fee9c75",
+  "active": "d918bd989f5dfe60",
   "lastOpenFiles": [
+    "Coding/Node/Intro_to_Node_MS/Basics.md",
+    "Coding/Node/Intro_to_Node_MS/Updating Packages.md",
+    "Coding/Node/Intro_to_Node_MS/NPM commands.md",
+    "Coding/Node/Intro_to_Node_MS/npx.md",
+    "Coding/Ruby/Head First Ruby/Chapter 9 Modules.md",
     "Coding/Ruby/Head First Ruby/Chapter 2 & 3 Classes & Inheritance.md",
     "Coding/Ruby/Head First Ruby/Chapter 1 Basics.md",
-    "Coding/Ruby/Head First Ruby/Chapter 9 Modules.md",
     "Coding/CSS/TailwindCSS/Desktop First.md",
     "Coding/Ruby/Head First Ruby/Chapter 8 Hash Cont..md",
-    "Coding/Ruby/Head First Ruby/Chapter 7 Hash.md",
-    "Coding/Ruby/Mutability & Immutability.md",
-    "Coding/Ruby/Head First Ruby/Falsey & Truthy.md",
-    "Coding/Ruby/Head First Ruby/Chapter 6 Blocks Cont.md",
-    "Coding/Ruby/Head First Ruby/Chapter 5 Arrays & Blocks.md"
+    "Coding/Ruby/Head First Ruby/Chapter 7 Hash.md"
   ]
 }
