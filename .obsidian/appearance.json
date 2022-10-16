@@ -1,5 +1,7 @@
 {
   "cssTheme": "Shimmering Focus",
-  "baseFontSize": 21,
-  "translucency": true
+  "baseFontSize": 24,
+  "translucency": true,
+  "accentColor": "",
+  "interfaceFontFamily": ""
 }
