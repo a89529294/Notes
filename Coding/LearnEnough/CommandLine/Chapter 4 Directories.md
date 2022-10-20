@@ -5,6 +5,8 @@
 - `ls -dl my_dir`: lists info about directory instead of showing its content
 - `cd` & `cd ~` are equivalent
 - `find . -name '*.txt'`: find recursively file with name matching \*.txt
+- `find ~/Desktop/code -type d -name '*skeleton*'` find directory with *skeleton* in its name under the path *~/Desktop/code* 
+- `mdfind kind:folder 'skeleton' -onlyin some_path` this will look for directories with *skeleton* in its metadata
 - `cd -`: return to the previous directory
 
 ###### Combining Commands

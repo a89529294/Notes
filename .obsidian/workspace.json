@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "e5b1e9a1f32fd104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/VSCode/Keybindings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "005d22038fe85a4f",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grid",
+                "query": "find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Node/Intro_to_Node_MS/NPM commands.md",
+                "file": "Coding/VSCode/Keybindings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,17 +159,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d918bd989f5dfe60",
+  "active": "e5b1e9a1f32fd104",
   "lastOpenFiles": [
+    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
+    "Coding/Node/Intro_to_Node_MS/Debugging.md",
+    "Coding/Node/Intro_to_Node_MS/NPM commands.md",
     "Coding/Node/Intro_to_Node_MS/Basics.md",
     "Coding/Node/Intro_to_Node_MS/Updating Packages.md",
-    "Coding/Node/Intro_to_Node_MS/NPM commands.md",
     "Coding/Node/Intro_to_Node_MS/npx.md",
     "Coding/Ruby/Head First Ruby/Chapter 9 Modules.md",
     "Coding/Ruby/Head First Ruby/Chapter 2 & 3 Classes & Inheritance.md",
     "Coding/Ruby/Head First Ruby/Chapter 1 Basics.md",
-    "Coding/CSS/TailwindCSS/Desktop First.md",
-    "Coding/Ruby/Head First Ruby/Chapter 8 Hash Cont..md",
-    "Coding/Ruby/Head First Ruby/Chapter 7 Hash.md"
+    "Coding/CSS/TailwindCSS/Desktop First.md"
   ]
 }

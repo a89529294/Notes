@@ -15,4 +15,5 @@
 - `npm command_name --help` get help for specific command
 - `npm list` lists ALL dependencies
 - `npm list --depth=n` lists dependencies by levels, `n=0` will give you the same result listed in package.json. 
+- `npm ls package_name` lists specified package. `ls` is shorthand for `list`
 - `npm outdated` lists packages with newer versions.
