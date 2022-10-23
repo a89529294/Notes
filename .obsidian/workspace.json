@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "684526290f99bccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Head First Ruby/Chapter 10 Comparable and Enumerable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3ac43d74cb0aa80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Head First Ruby/Chapter 12 Exceptions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "005d22038fe85a4f",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -121,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Head First Ruby/Chapter 10 Comparable and Enumerable.md",
+                "file": "Coding/Ruby/Head First Ruby/Chapter 12 Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,17 +195,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2060e515a1585f6a",
+  "active": "a3ac43d74cb0aa80",
   "lastOpenFiles": [
+    "Coding/Ruby/Head First Ruby/Chapter 10 Comparable and Enumerable.md",
+    "Coding/Ruby/Head First Ruby/Chapter 11 Ruby Documentation.md",
+    "Coding/Ruby/Head First Ruby/Chapter 5 Arrays & Blocks.md",
+    "Coding/Ruby/Head First Ruby/Chapter 6 Blocks Cont.md",
+    "Coding/VSCode/Keybindings.md",
     "Coding/Ruby/Head First Ruby/Chapter 9 Modules.md",
     "Coding/Ruby/Head First Ruby/Chapter 2 & 3 Classes & Inheritance.md",
     "Coding/Ruby/Head First Ruby/Chapter 4 Inheritance Cont.md",
-    "Coding/Ruby/Head First Ruby/Chapter 10 Comparable and Enumerable.md",
-    "Coding/VSCode/Keybindings.md",
     "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
-    "Coding/Node/Intro_to_Node_MS/Debugging.md",
-    "Coding/Node/Intro_to_Node_MS/NPM commands.md",
-    "Coding/Node/Intro_to_Node_MS/Basics.md",
-    "Coding/Node/Intro_to_Node_MS/Updating Packages.md"
+    "Coding/Node/Intro_to_Node_MS/Debugging.md"
   ]
 }

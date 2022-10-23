@@ -21,6 +21,23 @@ b.grade = 'Choice'
 puts a > b #true
 ```
 
+## Enumerable
+- A mixin
+- To use the *Enumerable* mixin
+	1. `include Enumerable` in your class
+	2. Implement the `each` instance method. We want to iterate through each item in the collection while passing in each item to the `&block` received by `each`.
+```ruby
+class WordSplitter  
+  attr_accessor :string  
+  
+  include Enumerable  
+  
+  def each(&block)  
+    string.split(' ').each(&block)  
+  end  
+end
+```
+
 ### Constants
 - Must be *capitalized*
 - Convention is to uppercase every letter `MY_CONSTANT = {name:'A', last_name:'C'}`
