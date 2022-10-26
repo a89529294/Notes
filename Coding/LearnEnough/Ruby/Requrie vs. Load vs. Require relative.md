@@ -3,4 +3,6 @@
 - `require_relative` should be used for *importing* your own files. This simply means include the file 'relative to the location of the file with the require_relative statement'. You can do the same thing with `require` as well but it is recommended to use `require_relative` for code you wrote.
 
 # Summary
-Use `require` to import someone else's code(gems), use `require_relative` to import your own files.
+- Use `require` to import someone else's code(gems), use `require_relative` to import your own files.
+- `$LOAD_PATH` in irb or ruby file shows all the directories ruby will look into when using *require*.
+

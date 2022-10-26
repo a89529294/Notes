@@ -20,103 +20,19 @@
             }
           },
           {
-            "id": "7a14648eca1e7473",
+            "id": "a7d944ef78771f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Node/Intro_to_Node_MS/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea33df9b32c35f1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Node/Intro_to_Node_MS/NPM commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d918bd989f5dfe60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Node/Intro_to_Node_MS/NPM commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5b1e9a1f32fd104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/VSCode/Keybindings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2060e515a1585f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Head First Ruby/Chapter 10 Comparable and Enumerable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "684526290f99bccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Head First Ruby/Chapter 10 Comparable and Enumerable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3ac43d74cb0aa80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Head First Ruby/Chapter 12 Exceptions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "005d22038fe85a4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Node/Intro_to_Node_MS/npx.md",
+                "file": "Coding/Ruby/Class Variable vs. Class Instance Variable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Head First Ruby/Chapter 12 Exceptions.md",
+                "file": "Coding/Ruby/Class Variable vs. Class Instance Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +111,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a3ac43d74cb0aa80",
+  "active": "a7d944ef78771f99",
   "lastOpenFiles": [
-    "Coding/Ruby/Head First Ruby/Chapter 10 Comparable and Enumerable.md",
-    "Coding/Ruby/Head First Ruby/Chapter 11 Ruby Documentation.md",
-    "Coding/Ruby/Head First Ruby/Chapter 5 Arrays & Blocks.md",
-    "Coding/Ruby/Head First Ruby/Chapter 6 Blocks Cont.md",
-    "Coding/VSCode/Keybindings.md",
     "Coding/Ruby/Head First Ruby/Chapter 9 Modules.md",
-    "Coding/Ruby/Head First Ruby/Chapter 2 & 3 Classes & Inheritance.md",
-    "Coding/Ruby/Head First Ruby/Chapter 4 Inheritance Cont.md",
-    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
-    "Coding/Node/Intro_to_Node_MS/Debugging.md"
+    "Coding/Node/Intro_to_Node_MS/Basics.md",
+    "Coding/Node/Intro_to_Node_MS/NPM commands.md",
+    "Coding/Ruby/Constants.md",
+    "Coding/Ruby/OpenStruct.md",
+    "Coding/Misc./Find or Kill Process.md",
+    "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
+    "Coding/LearnEnough/CommandLine/commands.md",
+    "Coding/LearnEnough/Ruby/Requrie vs. Load vs. Require relative.md",
+    "Coding/Ruby/Head First Ruby/Chapter 4 Inheritance Cont.md"
   ]
 }

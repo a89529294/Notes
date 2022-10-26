@@ -6,8 +6,8 @@ class Animal
 	attr_accessor :type, :name
 
 	def initialize(type,name)
-		@type = type
-		@name = name
+		self.type = type
+		self.name = name
 	end
 end
 
