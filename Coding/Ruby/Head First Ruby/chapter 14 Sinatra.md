@@ -1,0 +1,2 @@
+- *Instance variables* defined within your Sinatra route blocks are also accessible within the *ERB template*.
+- 
