@@ -1,0 +1,2 @@
+- The keyword *self* refers to the default object. Self is a role that different objects play, depending on the execution context. Method calls that don’t specify a calling object are called on self.
+- 
