@@ -1,4 +1,0 @@
-- You can add *quizzes* at the end of every chapter to help the users evaluate their understanding of the concepts.
-- Each *quiz* should have a minimum of four questions.
-- *Assessments* can be added after a category in collection editor page.
-- The *project* feature is useful for project-based courses, as it allows users to incrementally build a project throughout the course.

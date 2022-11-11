@@ -8,7 +8,6 @@
 - `rbenv global 3.1.2` *changes* the *global* ruby version
 - `rbenv local` *shows* the *local* directory's ruby version
 - `rbenv local 2.7.4` *changes* the *local* directory's ruby version
-- 
 
 ### Misc.
 - `echo "gem: --no-document" >> ~/.gemrc` to skip installing gem documentation
