@@ -9,6 +9,7 @@
 
 ## A few gem commands
 - `gem list` shows all the installed gems.
+- `gem list | grep 'rails'` to filter displayed gems.
 - `gem env` prints out some metadata. 
 	- In particular it shows where all the gems are installed for the current *Ruby* version under `INSTALLATION DIRECTORY`.
 	- `EXECUTABLE INSTALLATION DIRECTORY` Some Gems provide commands that you can use directly from a terminal prompt.

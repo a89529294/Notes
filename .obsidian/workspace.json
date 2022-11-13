@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "831a49696899ab84",
+            "id": "6809b8ca2425db3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Ruby/Core Tools/rbenv.md",
+                "file": "Coding/LearnEnough/Ruby On Rails/Create New Rails App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43c5133adfe8f612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/LearnEnough/Ruby On Rails/Asset Pipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b5ca7c709252f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/LearnEnough/Ruby On Rails/Adding routes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Core Tools/rbenv.md",
+                "file": "Coding/LearnEnough/Ruby On Rails/Adding routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "831a49696899ab84",
+  "active": "7b5ca7c709252f57",
   "lastOpenFiles": [
-    "Coding/LearnEnough/Ruby/rbenv.md",
-    "Coding/Ruby/Core Tools/rbenv.md",
-    "Coding/CSS/TailwindCSS/Desktop First.md",
+    "Coding/LearnEnough/Ruby On Rails/Asset Pipeline.md",
+    "Coding/LearnEnough/Ruby On Rails/Create New Rails App.md",
+    "Coding/LearnEnough/Ruby On Rails/Deploying on Heroku.md",
+    "Coding/LearnEnough/Ruby On Rails/Scaffolding.md",
+    "Coding/Ruby/Core Tools/Rake.md",
+    "Coding/Ruby/Core Tools/Bundler.md",
     "Coding/Ruby/Core Tools/Gems.md",
-    "Coding/Ruby/Core Tools/What gets installed with Ruby.md",
-    "Coding/Misc./Setting up Google Embed Map.md",
-    "Coding/TypeScript/React TypeScript.md",
-    "Coding/React/ReactElement vs ReactNode vs FC vs JSX.Element.md",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/CSS/Resetting <input type='range'>.md"
+    "Coding/Ruby/Core Tools/rbenv.md",
+    "Coding/LearnEnough/Ruby/rbenv.md",
+    "Coding/CSS/TailwindCSS/Desktop First.md"
   ]
 }

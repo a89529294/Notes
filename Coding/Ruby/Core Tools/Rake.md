@@ -1,0 +1,5 @@
+- *Rake* is a Rubygem that automates many common functions required to build, test, package, and install programs.
+- No need to install just like *Bundler*, it comes with *Ruby* installation.
+- `rake -T` shows all the tasks
+- `Rakefile` describes the the tasks *Rake* can perform. This is a *Ruby* file despite not ending with `.rb`
+- `bundle exec rake task_name` or `rake task_name` depending on if you are using *Bundler*.
