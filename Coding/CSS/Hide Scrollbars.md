@@ -1,6 +1,5 @@
 ```css
 .no-scrollbar {
-overflow-y: scroll;
 scrollbar-width: none; /* Firefox */
 -ms-overflow-style: none; /* Internet Explorer 10+ */
 }

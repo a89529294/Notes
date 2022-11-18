@@ -1,0 +1,2 @@
+- `echo $SHELL` /bin/zsh
+- `chsh -s $(which zsh)` set zsh shell as default shell
