@@ -1,0 +1,19 @@
+- *Local variables* 
+	- starts with a letter or an underscore
+	- then consist of letters/underscores/digits
+- *Instance variables* serve the purpose of storing information within individual objects 
+	- starts with @
+	- then consist of letters/underscores/digits
+- *Class variables* store information per class hierarchy
+	- starts with @@
+	- then consist of letters/underscores/digits
+- *Global variables* 
+	- starts with $
+	- do not follow above restrictions
+- *Constants* 
+	- starts with an uppercase letter
+- *Keywords* predefined, reserved terms associated with specific programming tasks and contexts
+	- `if`, `__FILE__`(name of the file being executed), `def`, `class`, etc
+- *Method names* 
+	- Follow the same rules and conventions as *local variables*. 
+	- Except they can end with `?`, `!`, `=`

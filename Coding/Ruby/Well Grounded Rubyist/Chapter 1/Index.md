@@ -1,0 +1,20 @@
+- The keyword *self* refers to the default object. Self is a role that different objects play, depending on the execution context. *Method calls that don’t specify a calling object are called on self.*
+- Ruby *Identifiers*
+	- Variables
+		- Local
+		- Instance
+		- Class
+		- Global
+	- Constants
+	- Keywords
+	- Method names
+- Ruby sees all *data structures and values*—from simple scalar (atomic) values like integers and strings, to complex data structures like arrays—*as objects*.
+	- `x = "100".to_i`
+	- the *message* to the right of the dot is *sent* to the *object* to the left of the dot. 
+	- In Ruby, it’s more correct to say you send a message to a receiving object, and the object executes the corresponding method.
+	- `puts 'Hello'` we’re sending the *message* puts with the *argument* "Hello" to an object: the *default object self*.
+	- There’s always a *self* defined when your program is running, although which object is self changes, according to specific rules.
+- Ruby *Classes*
+	- A class defines an object’s functionality, and every object is an instance of exactly one class.
+	- objects can change, acquiring methods and behaviors that *weren’t defined in their class*.
+	- The ability of objects to adopt behaviors that their class didn’t give them is one of the most central defining principles of the design of Ruby as a language.

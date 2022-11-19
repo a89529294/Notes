@@ -1,0 +1,2 @@
+- When we use `overflow: scroll`, `overflow: auto`, or `overflow: hidden`, we create a *scroll container*. This is true whether we set the property on the X axis, the Y axis, or both.
+- A *scroll container* is like a portal to a pocket dimension. When an element is contained by a scroll container, it's guaranteed to be stuck inside. It will never overflow beyond the 4 corners of the scroll container.
