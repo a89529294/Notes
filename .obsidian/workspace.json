@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f380cf43f37bd3db",
+            "id": "09a01b2fb5a935c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 1/Index.md",
+                "file": "Coding/LearnEnough/Ruby On Rails/has_secure_password.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 1/Index.md",
+                "file": "Coding/LearnEnough/Ruby On Rails/has_secure_password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f380cf43f37bd3db",
+  "active": "09a01b2fb5a935c0",
   "lastOpenFiles": [
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/Identifiers.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/Index.md",
     "Coding/LearnEnough/Ruby On Rails/Scaffolding.md",
-    "Coding/CSS/TailwindCSS/Desktop First.md",
-    "Coding/CSS/Grid/Gird Misc..md",
-    "Coding/CSS/Overflow.md",
-    "Coding/CSS/Hide Scrollbars.md",
-    "Coding/Terminal/Basics.md",
-    "Coding/Misc./Open Link in New Tab.md",
-    "Coding/Terminal/Find large files.md"
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/Loading external files and extensions.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/irb and rbconfig.md",
+    "Coding/LearnEnough/Ruby On Rails/has_secure_password.md",
+    "Coding/Ruby/Core Tools/Gems.md",
+    "Coding/Ruby/Core Tools/Bundler.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/ruby switches.md",
+    "Coding/Terminal/Find files.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/Index.md",
+    "Coding/Ruby/Core Tools/rbenv.md"
   ]
 }

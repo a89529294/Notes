@@ -13,6 +13,8 @@
 - `gem env` prints out some metadata. 
 	- In particular it shows where all the gems are installed for the current *Ruby* version under `INSTALLATION DIRECTORY`.
 	- `EXECUTABLE INSTALLATION DIRECTORY` Some Gems provide commands that you can use directly from a terminal prompt.
+- `gem install rails -v 6.0.0` to install specific version of a gem
+- `rails _6.0.0_ new` to invoke specific version of a gem
 
 
 ## Debugging

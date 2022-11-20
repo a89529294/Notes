@@ -18,3 +18,4 @@
 	- A class defines an object’s functionality, and every object is an instance of exactly one class.
 	- objects can change, acquiring methods and behaviors that *weren’t defined in their class*.
 	- The ability of objects to adopt behaviors that their class didn’t give them is one of the most central defining principles of the design of Ruby as a language.
+- `ruby -cw file_name.rb` checks illegal syntax `-c` plus warn legal but questionable use of Ruby.
