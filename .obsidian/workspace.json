@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09a01b2fb5a935c0",
+            "id": "c1bde4024b67a5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Git/Head First Git/2. Branches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "604ff44caa3432ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09a01b2fb5a935c0",
+  "active": "604ff44caa3432ed",
   "lastOpenFiles": [
-    "Coding/LearnEnough/Ruby On Rails/Scaffolding.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/Loading external files and extensions.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/irb and rbconfig.md",
+    "Coding/LearnEnough/Ruby On Rails/Rails ENV.md",
+    "Coding/Git/Head First Git/2. Branches.md",
+    "Coding/Git/Head First Git/1. Beginning Git.md",
+    "Coding/Git/Head First Git/6. Collaboarting - 2.md",
+    "Coding/Git/Head First Git/5. Collaborating - 1.md",
+    "Coding/Deployment/Deployment From Scratch/Chapter 3 Operating Systems.md",
+    "Coding/Terminal/Basics.md",
+    "Coding/Deployment/Deployment From Scratch/Chapter 2 Bird's Eye.md",
     "Coding/LearnEnough/Ruby On Rails/has_secure_password.md",
-    "Coding/Ruby/Core Tools/Gems.md",
-    "Coding/Ruby/Core Tools/Bundler.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/ruby switches.md",
-    "Coding/Terminal/Find files.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 1/Index.md",
-    "Coding/Ruby/Core Tools/rbenv.md"
+    "Coding/Deployment/Untitled.md"
   ]
 }
