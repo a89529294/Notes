@@ -1,0 +1,2 @@
+-  *Methods* defined in any *helper* file are automatically available in any view.
+- 

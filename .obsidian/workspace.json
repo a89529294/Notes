@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "604ff44caa3432ed",
+            "id": "1349213a330f3d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/LearnEnough/Ruby On Rails/has_secure_password.md",
+                "file": "Coding/LearnEnough/Ruby On Rails/Misc..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ff9bec610dbb955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 2/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/Ruby On Rails/has_secure_password.md",
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 2/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "604ff44caa3432ed",
+  "active": "9ff9bec610dbb955",
   "lastOpenFiles": [
-    "Coding/LearnEnough/Ruby On Rails/Rails ENV.md",
+    "Coding/LearnEnough/Ruby On Rails/Misc..md",
+    "Coding/Ruby/Well Grounded Rubyist/Untitled.md",
     "Coding/Git/Head First Git/2. Branches.md",
+    "Coding/LearnEnough/Ruby On Rails/has_secure_password.md",
+    "Coding/LearnEnough/Ruby On Rails/Rails ENV.md",
     "Coding/Git/Head First Git/1. Beginning Git.md",
     "Coding/Git/Head First Git/6. Collaboarting - 2.md",
     "Coding/Git/Head First Git/5. Collaborating - 1.md",
     "Coding/Deployment/Deployment From Scratch/Chapter 3 Operating Systems.md",
-    "Coding/Terminal/Basics.md",
-    "Coding/Deployment/Deployment From Scratch/Chapter 2 Bird's Eye.md",
-    "Coding/LearnEnough/Ruby On Rails/has_secure_password.md",
-    "Coding/Deployment/Untitled.md"
+    "Coding/Terminal/Basics.md"
   ]
 }
