@@ -1,0 +1,2 @@
+- Typical *class* consists of a *collection of method* definitions. Classes usually exist for the purpose of being instantiated.
+- 

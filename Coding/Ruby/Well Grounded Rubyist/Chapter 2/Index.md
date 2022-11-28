@@ -1,4 +1,4 @@
-- You can teach *methods* to *objects* directly
+- You can teach *methods* to *objects* directly, these methods are called *singleton* methods.
 ```ruby
 obj = Object.new
 def obj.talk
