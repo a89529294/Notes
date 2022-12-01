@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 2/Index.md",
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 3/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e407e12651f71cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 3/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0774b672d3d1afa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 3/Constants.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 2/Index.md",
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 3/Constants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82a1285764cea214",
+  "active": "0774b672d3d1afa7",
   "lastOpenFiles": [
     "Coding/Ruby/Well Grounded Rubyist/Chapter 3/Index.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 3/Classes.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 2/Index.md",
     "Coding/Terminal/Find files.md",
     "Coding/TypeScript/Contravariance and Covariance.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 2/Index.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 2/freeze, dup, clone.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 2/Variable References.md",
     "Coding/LearnEnough/Ruby On Rails/Misc..md",
     "Coding/Git/Head First Git/2. Branches.md",
-    "Coding/LearnEnough/Ruby On Rails/has_secure_password.md",
-    "Coding/LearnEnough/Ruby On Rails/Rails ENV.md"
+    "Coding/LearnEnough/Ruby On Rails/has_secure_password.md"
   ]
 }
