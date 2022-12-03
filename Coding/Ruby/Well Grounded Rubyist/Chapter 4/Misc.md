@@ -1,0 +1,3 @@
+- `a ||= b` the *or-equals* operator. 
+	- If `a` is `nil` or `false`, evaluate `b` and assign `a` the result.
+	- Otherwise, simply return `a`
