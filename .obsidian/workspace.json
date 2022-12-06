@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e6d00c3b3944d46",
+            "id": "666384238c0d9ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Misc..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2e4c02a91a89ad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,31 @@
             }
           },
           {
-            "id": "d9a5fb3faf9c0725",
+            "id": "ff7bcc295e663b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Scope.md",
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Misc..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b9b8dc6642fcc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Top level method definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "map ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Scope.md",
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Top level method definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9a5fb3faf9c0725",
+  "active": "7b9b8dc6642fcc9c",
   "lastOpenFiles": [
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Misc..md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Method Access Levels.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Self.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Scope.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 4/super keyword.md",
-    "Coding/Ruby/Well Grounded Rubyist/Untitled.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 4/method_missing.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 4/Index.md",
-    "Coding/Ruby/Core Tools/rbenv.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 4/Misc.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 3/Constants.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 3/Index.md"
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Scope.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Class Variables.md",
+    "Coding/Misc./Setting up Google Embed Map.md",
+    "Coding/Ruby/Core Tools/rbenv.md",
+    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 4/super keyword.md"
   ]
 }
