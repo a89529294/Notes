@@ -8,48 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "666384238c0d9ca7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Misc..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2e4c02a91a89ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Self.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff7bcc295e663b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Misc..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b9b8dc6642fcc9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Top level method definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8ec6a2872c6dd3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/If.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b09c80d96630a0b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/If.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92bcb47f0d42c98b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/When.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Top level method definition.md",
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/When.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b9b8dc6642fcc9c",
+  "active": "92bcb47f0d42c98b",
   "lastOpenFiles": [
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/If.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Triple Equals.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Top level method definition.md",
+    "Coding/Ruby/Well Grounded Rubyist/Untitled.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Misc..md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Method Access Levels.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Self.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 4/Misc.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Scope.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Class Variables.md",
-    "Coding/Misc./Setting up Google Embed Map.md",
-    "Coding/Ruby/Core Tools/rbenv.md",
-    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 4/super keyword.md"
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Class Variables.md"
   ]
 }
