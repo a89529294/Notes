@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b9b8dc6642fcc9c",
+            "id": "5454937f22d29a3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Top level method definition.md",
+                "file": "Coding/Ruby/Misc/Disable Rubocop.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8ec6a2872c6dd3a",
+            "id": "1c5313f17a1855c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/If.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b09c80d96630a0b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/If.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92bcb47f0d42c98b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/When.md",
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Exceptions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/When.md",
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92bcb47f0d42c98b",
+  "active": "1c5313f17a1855c8",
   "lastOpenFiles": [
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/If.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Triple Equals.md",
+    "Coding/Ruby/Misc/Disable Rubocop.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Exceptions.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Blocks.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/loop, while, until.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Iterators.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Anatomy of a method call.md",
+    "Coding/NextJS/Suppressing Server Client Mismatch.md",
+    "Coding/NextJS/Load Component Only on Client.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Top level method definition.md",
-    "Coding/Ruby/Well Grounded Rubyist/Untitled.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Misc..md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Method Access Levels.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Self.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 4/Misc.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Scope.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Class Variables.md"
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/When.md"
   ]
 }
