@@ -1,0 +1,5 @@
+- A *query* will be in **exactly one** of the following states
+	- `success`
+	- `loading`
+	- `error`
+- Queries *can* be in addtional states such as `isFetching`, `isPaused`, `isRefetching`.

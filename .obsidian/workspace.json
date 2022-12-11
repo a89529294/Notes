@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5454937f22d29a3c",
+            "id": "0488f62505e655ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Ruby/Misc/Disable Rubocop.md",
+                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Blocks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c5313f17a1855c8",
+            "id": "349e3f1a6b5f504e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Exceptions.md",
+                "file": "Coding/React/react-query/PlaceholderData vs InitialData.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Exceptions.md",
+                "file": "Coding/React/react-query/PlaceholderData vs InitialData.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c5313f17a1855c8",
+  "active": "349e3f1a6b5f504e",
   "lastOpenFiles": [
-    "Coding/Ruby/Misc/Disable Rubocop.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Exceptions.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Blocks.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/loop, while, until.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Iterators.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 7/Inspection & Reflection.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 7/Comparable.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 7/Object Equality.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 3/Classes.md",
+    "Coding/Ruby/Well Grounded Rubyist/Untitled.md",
     "Coding/Ruby/Well Grounded Rubyist/Chapter 6/Anatomy of a method call.md",
-    "Coding/NextJS/Suppressing Server Client Mismatch.md",
-    "Coding/NextJS/Load Component Only on Client.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 5/Top level method definition.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 6/When.md"
+    "Coding/React/react-query/TypeScript & React Query.md",
+    "Coding/React/react-query/Query State.md",
+    "Coding/React/react-query/staleTime vs cacheTime.md"
   ]
 }
