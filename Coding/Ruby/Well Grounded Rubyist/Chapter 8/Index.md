@@ -1,0 +1,2 @@
+- **Scalars** are objects that represent *single values*, such as *integers* & *strings*.
+- **Non-scalars** are collection objects that hold *multiple values*.
