@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a6ddc8199db23ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 8/String Manipulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca404d0af4909dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 8/String Enconding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "af1fd8f41b462870",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 8/Symbols.md",
+                "file": "Coding/LearnEnough/TextEditor/Chapter 1 Vim & Less.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64ba5575bcf4deb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/TypeScript/Type Predicate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f9723c4e7f43c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/TypeScript/Enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Ruby/Well Grounded Rubyist/Chapter 8/Symbols.md",
+                "file": "Coding/TypeScript/Enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af1fd8f41b462870",
+  "active": "1f9723c4e7f43c81",
   "lastOpenFiles": [
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 8/String Enconding.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 8/String Manipulation.md",
-    "Coding/Misc./Character Mapping Systems.md",
-    "Coding/Misc./Language Typings.md",
-    "Coding/Misc./Some Observations About Stackoverflow 2022 Survey.md",
-    "Coding/Misc./Setting up Google Embed Map.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 7/Object Equality.md",
-    "Coding/Ruby/Well Grounded Rubyist/Chapter 7/Comparable.md",
-    "Coding/Ruby/Misc/Disable Rubocop.md",
-    "Coding/HTML/Mouseenter vs Mouseover.md"
+    "Coding/TypeScript/Type Predicate.md",
+    "Coding/LearnEnough/TextEditor/Chapter 1 Vim & Less.md",
+    "Coding/LearnEnough/TextEditor/Chapter 3 Advanced Editing.md",
+    "Coding/LearnEnough/TextEditor/Chapter 2 Basic Editing.md",
+    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
+    "Coding/LearnEnough/CommandLine/commands.md",
+    "Coding/LearnEnough/CommandLine/Chapter 2 Manipulating Files.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 8/Index.md",
+    "Coding/Ruby/Well Grounded Rubyist/Chapter 8/Symbols.md",
+    "Coding/Terminal/Folder Size.md"
   ]
 }
