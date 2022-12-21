@@ -1,0 +1,3 @@
+- When you run `tsc` with empty tsconfig.json file, it compiles all the _.ts_ files in the *current folder* and generates a _.js_ file for each one. You can tweak this behavior by modifying the tsconfig.json.
+- If you run `tsc` by itself with no tsconfig.json, it will list out the ts version and available commands.
+- `tsc utility_functions.ts` to compile one file. Note this will cause `tsc` to *ignore tsconfig.json* if there is one.

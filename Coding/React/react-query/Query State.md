@@ -2,4 +2,4 @@
 	- `success`
 	- `loading`
 	- `error`
-- Queries *can* be in addtional states such as `isFetching`, `isPaused`, `isRefetching`.
+- Queries *can* be in addtional states such as `isFetching`, `isPaused`, `isRefetching`

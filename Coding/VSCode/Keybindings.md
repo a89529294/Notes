@@ -1,4 +1,6 @@
-- *Reveal* active tab in file explorer `opt cmd e`
+- Open *file explorer* `shift cmd e`
+- Reveal *current tab in file explorer* `opt cmd e`
+- Reveal *current tab in finder* `opt cmd r`
 - Go to next *error* `fn f8`
 - *Delete* current line `cmd shift k`
 - `cmd ,` to open *settings*
