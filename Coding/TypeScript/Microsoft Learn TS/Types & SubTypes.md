@@ -1,5 +1,5 @@
 - All types in TS are subtypes of a single top type `any`. This is the only type that can represent any JS value with no constraints.
-- All other types are categorized as `primitive type`, `object type` or `type parameter`.
+- All other types are categorized as `primitive type`, `object type` or `type parameter`/`generic parameter`.
 - *Primitive types* consists of `string`, `number`, `boolean`, `null`, `undefined`, `void` and `enum`.
 	- The `void` type exists purely to indicate the absence of a value, such as in a function with no return value.
 	- The `null` and `undefined` types are subtypes of all other types. Note usually this is disabled by the `strictNullChecks: true`.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/TypeScript/Microsoft Learn TS/Types Vs. Interfaces.md",
+                "file": "Coding/TypeScript/Microsoft Learn TS/Literal Types & the type {}.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/LearnEnough/CSS/Grid/Alignment.md",
+                "file": "Coding/CSS/TailwindCSS/Fixing vh on Mobile with TailwindCSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/LearnEnough/CSS/Grid/Alignment.md",
+                "file": "Coding/TypeScript/Microsoft Learn TS/Literal Types & the type {}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +107,26 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1aeb5cb550a2ac6c",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "1f9723c4e7f43c81",
   "lastOpenFiles": [
-    "Coding/CSS/Grid/Gird Misc..md",
-    "Coding/React/react-query/Query State.md",
-    "Coding/TypeScript/Microsoft Learn TS/Functions.md",
-    "Coding/TypeScript/Microsoft Learn TS/Types Vs. Interfaces.md",
-    "Coding/Misc./Language Typings.md",
-    "Coding/TypeScript/Microsoft Learn TS/enums.md",
     "Coding/TypeScript/Microsoft Learn TS/Types & SubTypes.md",
-    "Coding/VSCode/Keybindings.md",
+    "Coding/TypeScript/Microsoft Learn TS/Type Assertion & Type Guards.md",
     "Coding/TypeScript/Microsoft Learn TS/tsc.md",
-    "Coding/TypeScript/Microsoft Learn TS/Literal Types.md"
+    "Coding/TypeScript/Microsoft Learn TS/Types Vs. Interfaces.md",
+    "Coding/CSS/TailwindCSS/Fixing vh on Mobile with TailwindCSS.md",
+    "Coding/React/react-query/useQuery config options.md",
+    "Coding/React/react-query/useQuery vs prefetchQuery.md",
+    "Coding/React/react-query/Ways of Setting Cache Data.md",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md",
+    "Coding/CSS/Grid/Gird Misc..md"
   ]
 }
