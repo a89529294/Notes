@@ -1,0 +1,2 @@
+- *Reducers* should be 100% synchronous 
+- In order to do asynchrous work you need either *async thunk functions* or *rtk query*.

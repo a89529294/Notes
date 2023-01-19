@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f9723c4e7f43c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Misc./Open Link in New Tab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2974bf646f37894f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Coding/React/Portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9895480fdc7b962b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/NextJS/How to Initialize a NextJS Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/React/Portal.md",
+                "file": "Coding/NextJS/How to Initialize a NextJS Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2974bf646f37894f",
+  "active": "9895480fdc7b962b",
   "lastOpenFiles": [
-    "Coding/Misc./Open Link in New Tab.md",
-    "Coding/Misc./Browsers.md",
-    "Coding/Git/Head First Git/2. Branches.md",
-    "Coding/TypeScript/React TypeScript.md",
-    "Coding/TypeScript/Microsoft Learn TS/Literal Types & the type {}.md",
-    "Coding/TypeScript/Microsoft Learn TS/Types & SubTypes.md",
-    "Coding/TypeScript/Microsoft Learn TS/Type Assertion & Type Guards.md",
-    "Coding/TypeScript/Microsoft Learn TS/tsc.md",
-    "Coding/TypeScript/Microsoft Learn TS/Types Vs. Interfaces.md",
-    "Coding/CSS/TailwindCSS/Fixing vh on Mobile with TailwindCSS.md"
+    "Coding/DS & Algos/Learning Algorithms Book/Chapter 1 Problem Solving.md",
+    "Coding/React/Portal.md",
+    "Coding/Terminal/Folder Size.md",
+    "Coding/React/Redux/Set up.md",
+    "Coding/React/react-query/TypeScript & React Query.md",
+    "Coding/React/react-query/isLoading vs. isFetching.md",
+    "Coding/React/react-query/Ways of Setting Cache Data.md",
+    "Coding/React/react-query/useQuery vs prefetchQuery.md",
+    "Coding/React/react-query/useIsFetching.md",
+    "Coding/React/react-query/Query State.md"
   ]
 }
