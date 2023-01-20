@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/React/Portal.md",
+                "file": "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9895480fdc7b962b",
+            "id": "1afcca38ad024f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/NextJS/How to Initialize a NextJS Project.md",
+                "file": "Coding/Misc./Debounce Vs Throttle.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/NextJS/How to Initialize a NextJS Project.md",
+                "file": "Coding/Misc./Debounce Vs Throttle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9895480fdc7b962b",
+  "active": "1afcca38ad024f79",
   "lastOpenFiles": [
-    "Coding/DS & Algos/Learning Algorithms Book/Chapter 1 Problem Solving.md",
+    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
+    "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
+    "Coding/Misc./Find or Kill Process.md",
     "Coding/React/Portal.md",
-    "Coding/Terminal/Folder Size.md",
-    "Coding/React/Redux/Set up.md",
-    "Coding/React/react-query/TypeScript & React Query.md",
-    "Coding/React/react-query/isLoading vs. isFetching.md",
-    "Coding/React/react-query/Ways of Setting Cache Data.md",
-    "Coding/React/react-query/useQuery vs prefetchQuery.md",
+    "Coding/React/react-query/Query State.md",
+    "Coding/React/react-query/global options.md",
     "Coding/React/react-query/useIsFetching.md",
-    "Coding/React/react-query/Query State.md"
+    "Coding/NextJS/How to Initialize a NextJS Project.md",
+    "Coding/DS & Algos/Learning Algorithms Book/Chapter 1 Problem Solving.md",
+    "Coding/Terminal/Folder Size.md"
   ]
 }

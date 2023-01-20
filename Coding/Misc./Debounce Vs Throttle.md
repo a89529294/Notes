@@ -1,0 +1,1 @@
+*Throttle* fires througout, *debounce* fires at the end.
