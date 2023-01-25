@@ -1,0 +1,4 @@
+- Use feature based setup
+- add `index.ts` to each feature and component folder.
+- use kebab case to name files `my-component.tsx`, `use-my-hook.ts`.
+- use absolute imports.

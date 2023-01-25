@@ -2,11 +2,14 @@
 npx create-next-app@latest --ts --use-npm project_name
 ```
 
-Tweak pathing to use absolute paths
+Tweak pathing to use absolute paths (tsconfig.json)
 ```json
-"baseUrl": ".",
-"paths": {
-	"@/*": ["./src/*"],
+{
+	"compilerOptions":{
+		"baseUrl": ".",
+		"paths": {
+			"@/*": ["./src/*"],
+	}
 }
 // src/components is the same as @/components
 ```

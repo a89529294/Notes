@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2974bf646f37894f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1afcca38ad024f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Coding/Misc./Debounce Vs Throttle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f673a21fdee0d8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/The Joy of React/useId hook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee404b72e32e08c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/React/Project Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Misc./Debounce Vs Throttle.md",
+                "file": "Coding/Courses/The Joy of React/useId hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +129,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1afcca38ad024f79",
+  "active": "f673a21fdee0d8c3",
   "lastOpenFiles": [
+    "Coding/Misc./Debounce Vs Throttle.md",
+    "Coding/React/Project Setup.md",
+    "Coding/Courses/Untitled.md",
+    "Coding/NextJS/How to Initialize a NextJS Project.md",
+    "Coding/React/Context.md",
     "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
     "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
     "Coding/Misc./Find or Kill Process.md",
     "Coding/React/Portal.md",
-    "Coding/React/react-query/Query State.md",
-    "Coding/React/react-query/global options.md",
-    "Coding/React/react-query/useIsFetching.md",
-    "Coding/NextJS/How to Initialize a NextJS Project.md",
-    "Coding/DS & Algos/Learning Algorithms Book/Chapter 1 Problem Solving.md",
-    "Coding/Terminal/Folder Size.md"
+    "Coding/React/react-query/Query State.md"
   ]
 }
