@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/The Joy of React/Context.md",
+                "file": "Coding/Courses/The Joy of React/Strict Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/The Joy of React/Context.md",
+                "file": "Coding/Courses/The Joy of React/Strict Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   "active": "25fb4ce739082294",
   "lastOpenFiles": [
     "Coding/Courses/The Joy of React/When does React Rerenders?.md",
+    "Coding/Courses/The Joy of React/Context.md",
     "Coding/Courses/The Joy of React/Strict Mode.md",
     "Coding/Courses/The Joy of React/Ref prop.md",
     "Coding/Courses/The Joy of React/useId hook.md",
@@ -187,7 +188,6 @@
     "Coding/React/Project Setup.md",
     "Coding/Courses/Untitled.md",
     "Coding/NextJS/How to Initialize a NextJS Project.md",
-    "Coding/React/Context.md",
-    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md"
+    "Coding/React/Context.md"
   ]
 }

@@ -8,3 +8,7 @@ function Decoration(){
 
 export default React.memo(Decoration)
 ```
+
+	## Pure Components
+A component wrapper with `React.memo`
+- A pure component will re-render if a **prop, state variable,** or **context value** changes.
