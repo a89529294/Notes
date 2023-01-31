@@ -97,14 +97,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/Just JavaScript/Prototypes.md",
+                "file": "Coding/NextJS/How to Initialize a NextJS Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "501e9723d0bb1913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/TypeScript/React TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91164f18da3afea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/NextJS/Redirect 404 to home page.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -162,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/Just JavaScript/Prototypes.md",
+                "file": "Coding/NextJS/Redirect 404 to home page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +213,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5b762fbf99286be3",
+  "active": "91164f18da3afea3",
   "lastOpenFiles": [
+    "Coding/TypeScript/React TypeScript.md",
+    "Coding/Courses/Github-Minesweeper/Trunk Based Development.md",
+    "Coding/NextJS/How to Initialize a NextJS Project.md",
+    "Coding/Courses/Just JavaScript/Prototypes.md",
     "Coding/Courses/Just JavaScript/Mutation.md",
     "Coding/Courses/Just JavaScript/Properties.md",
     "Coding/Courses/Just JavaScript/Equality of Values.md",
     "Coding/Courses/Just JavaScript/Meeting the Primitives.md",
     "Coding/Courses/Just JavaScript/Meeting Objects and functions.md",
-    "Coding/Courses/Just JavaScript/Values and Variables.md",
-    "Coding/Courses/Just JavaScript/JavaScript Universe.md",
-    "Coding/React/Project Setup.md",
-    "Coding/Courses/The Joy of React/Modal.md",
-    "Coding/Courses/The Joy of React/Strict Mode.md"
+    "Coding/Courses/Just JavaScript/Values and Variables.md"
   ]
 }
