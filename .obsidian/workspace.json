@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/CSS/disable autofill.md",
+                "file": "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "785478bbd4a26526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Git/Head First Git/Sync local repo with remote repo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/CSS/disable autofill.md",
+                "file": "Coding/Git/Head First Git/Sync local repo with remote repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +141,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b43f13a5dfd9ea55",
+  "active": "785478bbd4a26526",
   "lastOpenFiles": [
+    "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
+    "Coding/Git/Head First Git/2. Branches.md",
+    "Coding/CSS/disable autofill.md",
     "Coding/NextJS/Redirect 404 to home page.md",
     "Coding/TypeScript/React TypeScript.md",
     "Coding/Courses/Github-Minesweeper/Trunk Based Development.md",
     "Coding/NextJS/How to Initialize a NextJS Project.md",
     "Coding/Courses/Just JavaScript/Prototypes.md",
     "Coding/Courses/Just JavaScript/Mutation.md",
-    "Coding/Courses/Just JavaScript/Properties.md",
-    "Coding/Courses/Just JavaScript/Equality of Values.md",
-    "Coding/Courses/Just JavaScript/Meeting the Primitives.md",
-    "Coding/Courses/Just JavaScript/Meeting Objects and functions.md"
+    "Coding/Courses/Just JavaScript/Properties.md"
   ]
 }
