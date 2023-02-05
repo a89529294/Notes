@@ -1,0 +1,2 @@
+- In order to use the `useDroppable` and `useDraggable` hooks you need wrap the components that use them with `DndContext`.
+- It is highly recommended to use `touch-action:none` css property on draggable items. This is to prevent unwatned scrolling on mobile devices.

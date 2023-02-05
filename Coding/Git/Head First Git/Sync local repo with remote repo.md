@@ -1,5 +1,5 @@
 ```
 git fetch --prune origin
-git reset --hard origin/master
+git reset --hard origin/main
 git clean -f -d
 ```

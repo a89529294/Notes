@@ -1,6 +1,8 @@
 ## No Transpilers (babel)
 1. `npm i typescript --save-dev` in root of project
-2. `npx tsc path_to_file` to convert *TS* to *JS*
+2. `npx tsc --init`
+3. open up `tsconfig.json`, uncomment and change `outDir:"./build"`
+4. `npx tsc`
 
 ## With Babel
 1. `npm i typescript @babel/core @babel/cli --save-dev` in root of project

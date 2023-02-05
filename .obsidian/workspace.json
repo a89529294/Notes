@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "501e9723d0bb1913",
+            "id": "a88a343cfee8f0fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/TypeScript/React TypeScript.md",
+                "file": "Coding/DS & Algos/Grokking Algo/Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91164f18da3afea3",
+            "id": "7fcb0727fbac83ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/NextJS/Redirect 404 to home page.md",
+                "file": "Coding/DS & Algos/Grokking Algo/Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b43f13a5dfd9ea55",
+            "id": "3b8a95d73b321f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "785478bbd4a26526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Git/Head First Git/Sync local repo with remote repo.md",
+                "file": "Coding/DS & Algos/Grokking Algo/Hash Tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Git/Head First Git/Sync local repo with remote repo.md",
+                "file": "Coding/DS & Algos/Grokking Algo/Hash Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +129,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "785478bbd4a26526",
+  "active": "3b8a95d73b321f55",
   "lastOpenFiles": [
-    "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
+    "Coding/DS & Algos/Grokking Algo/Intro.md",
+    "Coding/DS & Algos/Grokking Algo/Recursion.md",
+    "Coding/TypeScript/Microsoft Learn TS/tsc.md",
+    "Coding/TypeScript/Misc.md",
+    "Coding/TypeScript/Setting up TS.md",
+    "Coding/DS & Algos/ArrayBuffer.md",
+    "Coding/Git/Head First Git/Detached HEAD.md",
     "Coding/Git/Head First Git/2. Branches.md",
-    "Coding/CSS/disable autofill.md",
-    "Coding/NextJS/Redirect 404 to home page.md",
-    "Coding/TypeScript/React TypeScript.md",
-    "Coding/Courses/Github-Minesweeper/Trunk Based Development.md",
-    "Coding/NextJS/How to Initialize a NextJS Project.md",
-    "Coding/Courses/Just JavaScript/Prototypes.md",
-    "Coding/Courses/Just JavaScript/Mutation.md",
-    "Coding/Courses/Just JavaScript/Properties.md"
+    "Coding/Git/Head First Git/1. Beginning Git.md",
+    "Coding/React/dndkit/DragOverlay.md"
   ]
 }
