@@ -8,55 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a88a343cfee8f0fc",
+            "id": "de62a1c5a566a4d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/DS & Algos/Grokking Algo/Intro.md",
+                "file": "Coding/DS & Algos/Grokking Algo/Recursion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7fcb0727fbac83ba",
+            "id": "e98f0efdcecb3918",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/DS & Algos/Grokking Algo/Intro.md",
+                "file": "Coding/Courses/React Native SG/Init Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b8a95d73b321f55",
+            "id": "649995d2bac8fb09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Misc./Setting up Google Embed Map.md",
+                "file": "Coding/Courses/React Native SG/Navigation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bfb36bb6da5f9c8d",
+            "id": "7bc3ecbe6402f446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/React/React Application Structure.md",
+                "file": "Coding/Courses/React Native SG/Icons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5316dbf026227c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/React Native SG/Things to watch out for.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/React/React Application Structure.md",
+                "file": "Coding/Courses/React Native SG/Things to watch out for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +153,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bfb36bb6da5f9c8d",
+  "active": "5316dbf026227c3f",
   "lastOpenFiles": [
-    "Coding/Misc./Setting up Google Embed Map.md",
-    "Coding/DS & Algos/Grokking Algo/Hash Tables.md",
-    "Coding/DS & Algos/Grokking Algo/Intro.md",
+    "Coding/Courses/React Native SG/Icons.md",
+    "Coding/Courses/React Native SG/Navigation.md",
+    "Coding/Courses/React Native SG/Init Project.md",
     "Coding/DS & Algos/Grokking Algo/Recursion.md",
-    "Coding/TypeScript/Microsoft Learn TS/tsc.md",
-    "Coding/TypeScript/Misc.md",
-    "Coding/TypeScript/Setting up TS.md",
-    "Coding/DS & Algos/ArrayBuffer.md",
-    "Coding/Git/Head First Git/Detached HEAD.md",
-    "Coding/Git/Head First Git/2. Branches.md"
+    "Coding/DS & Algos/Grokking Algo/Intro.md",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md",
+    "Coding/CSS/Grid/Gird Misc..md",
+    "Coding/Misc./Authentication/JWT Flow.md",
+    "Coding/Misc./Authentication/Hashing Functions.md",
+    "Coding/Misc./Authentication/Bycrpt.md"
   ]
 }
