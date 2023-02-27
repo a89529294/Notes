@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de62a1c5a566a4d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/DS & Algos/Grokking Algo/Recursion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e98f0efdcecb3918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/React Native SG/Init Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "649995d2bac8fb09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/React Native SG/Navigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bc3ecbe6402f446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/React Native SG/Icons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5316dbf026227c3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/React Native SG/Things to watch out for.md",
+                "file": "Coding/DS & Algos/Grokking Algo/Hash Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21633841e03b11aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/DS & Algos/Grokking Algo/Breadth First Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/React Native SG/Things to watch out for.md",
+                "file": "Coding/DS & Algos/Grokking Algo/Breadth First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,17 +117,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5316dbf026227c3f",
+  "active": "21633841e03b11aa",
   "lastOpenFiles": [
+    "Coding/DS & Algos/Grokking Algo/Hash Tables.md",
+    "Coding/DS & Algos/Grokking Algo/Breadth First Search.md",
+    "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
+    "Coding/LearnEnough/TextEditor/Chapter 2 Basic Editing.md",
     "Coding/Courses/React Native SG/Icons.md",
-    "Coding/Courses/React Native SG/Navigation.md",
+    "Coding/NextJS/How to Initialize a NextJS Project.md",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md",
+    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
+    "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
     "Coding/Courses/React Native SG/Init Project.md",
+    "Coding/Courses/React Native SG/Things to watch out for.md",
+    "Coding/Courses/React Native SG/Navigation.md",
     "Coding/DS & Algos/Grokking Algo/Recursion.md",
     "Coding/DS & Algos/Grokking Algo/Intro.md",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/CSS/Grid/Gird Misc..md",
-    "Coding/Misc./Authentication/JWT Flow.md",
-    "Coding/Misc./Authentication/Hashing Functions.md",
-    "Coding/Misc./Authentication/Bycrpt.md"
+    "Coding/CSS/Grid/Gird Misc..md"
   ]
 }
