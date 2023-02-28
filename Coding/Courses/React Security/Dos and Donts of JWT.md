@@ -1,0 +1,8 @@
+- *Don't* store jwt in localStorage.
+- *Do* use long strong *Secret key*.
+- *Do* store jwt in http-only cookies.
+- *Do* store jwt in React state. 
+- *Do* keep *payload* small.
+- *Secret keys* should *ONLY EXISTS* on the server.
+- *Don't* decode jwt on the client.
+- 

@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b57e2d9e356e6491",
+        "id": "6efd15d39fd4abb0",
         "type": "tabs",
         "children": [
           {
-            "id": "5316dbf026227c3f",
+            "id": "3f0a9964e57a70ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/DS & Algos/Grokking Algo/Hash Tables.md",
+                "file": "Coding/Terminal/Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "21633841e03b11aa",
+            "id": "6689ac05e0bd770b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/DS & Algos/Grokking Algo/Breadth First Search.md",
+                "file": "Coding/Courses/React Security/Dos and Donts of JWT.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 407.5
   },
   "right": {
     "id": "8904194934255bee",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/DS & Algos/Grokking Algo/Breadth First Search.md",
+                "file": "Coding/Courses/React Security/Dos and Donts of JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +117,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "21633841e03b11aa",
+  "active": "6689ac05e0bd770b",
   "lastOpenFiles": [
+    "Coding/Terminal/Basics.md",
+    "Coding/Courses/React Security/Dos and Donts of JWT.md",
+    "Coding/Courses/React Security",
+    "Coding/Courses/Untitled.md",
+    "Coding/Mongo/Basics.md",
+    "Coding/Mongo/Mongo Relationships.md",
+    "Coding/Mongo/Mongo Legacy Shell.md",
     "Coding/DS & Algos/Grokking Algo/Hash Tables.md",
+    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
     "Coding/DS & Algos/Grokking Algo/Breadth First Search.md",
+    "Coding/Mongo/Mongoose/Basics.md",
+    "Coding/Mongo/Starting and Stoping mongod Process.md",
+    "Coding/DS & Algos/Grokking Algo/Djikstra's Algorithm.md",
     "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
     "Coding/LearnEnough/TextEditor/Chapter 2 Basic Editing.md",
     "Coding/Courses/React Native SG/Icons.md",

@@ -4,7 +4,7 @@
 
 ###### In mongo shell
 - `cmd k` to clear screen
-- `help` to find helpful commands
+	- `help` to find helpful commands
 - `exit` to quit mongo shell
 - You can type JavaScript
 - `show dbs` list available databases, does not show db with no content

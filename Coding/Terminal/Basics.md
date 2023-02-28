@@ -1,2 +1,4 @@
 - `echo $SHELL` /bin/zsh
 - `chsh -s $(which zsh)` set zsh shell as default shell
+- `sudo lsof -i :3000` find process on port 3000
+- `kill -9 <PID>` kill process using PID
