@@ -10,4 +10,5 @@
 - `show dbs` list available databases, does not show db with no content
 - `use <dbName>`  switch to or create then switch to dbName
 - `db` shows current db
+- Once inside a `db`, run `show collections` 
 

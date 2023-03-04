@@ -1,3 +1,6 @@
+## Find Collections to Search
+Once in a `db` run `show collections`
+
 ### Create
 - `db.collectionName.insertOne({...})` 
 	- If *collectionName* does not exist, one will be created

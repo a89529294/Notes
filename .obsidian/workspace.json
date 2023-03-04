@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Terminal/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6689ac05e0bd770b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/React Security/Dos and Donts of JWT.md",
+                "file": "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/React Security/Dos and Donts of JWT.md",
+                "file": "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,20 +104,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6689ac05e0bd770b",
+  "active": "3f0a9964e57a70ec",
   "lastOpenFiles": [
+    "Coding/Mongo/Mongo Shell.md",
+    "Coding/Mongo/Mongo Relationships.md",
+    "Coding/Mongo/Starting and Stoping mongod Process.md",
+    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
+    "Coding/Mongo/Basics.md",
     "Coding/Terminal/Basics.md",
+    "Coding/Courses/React Native WhatsApp/Misc.md",
+    "Coding/Courses/React Native WhatsApp/Setup.md",
+    "Coding/Courses/Untitled.md",
+    "Coding/Courses/React Native WhatsApp",
     "Coding/Courses/React Security/Dos and Donts of JWT.md",
     "Coding/Courses/React Security",
-    "Coding/Courses/Untitled.md",
-    "Coding/Mongo/Basics.md",
-    "Coding/Mongo/Mongo Relationships.md",
-    "Coding/Mongo/Mongo Legacy Shell.md",
     "Coding/DS & Algos/Grokking Algo/Hash Tables.md",
-    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
     "Coding/DS & Algos/Grokking Algo/Breadth First Search.md",
     "Coding/Mongo/Mongoose/Basics.md",
-    "Coding/Mongo/Starting and Stoping mongod Process.md",
     "Coding/DS & Algos/Grokking Algo/Djikstra's Algorithm.md",
     "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
     "Coding/LearnEnough/TextEditor/Chapter 2 Basic Editing.md",
@@ -143,7 +133,6 @@
     "Coding/Courses/React Native SG/Things to watch out for.md",
     "Coding/Courses/React Native SG/Navigation.md",
     "Coding/DS & Algos/Grokking Algo/Recursion.md",
-    "Coding/DS & Algos/Grokking Algo/Intro.md",
-    "Coding/CSS/Grid/Gird Misc..md"
+    "Coding/DS & Algos/Grokking Algo/Intro.md"
   ]
 }
