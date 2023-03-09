@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
+                "file": "Coding/TypeScript/Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4249fe35f103243c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/TypeScript/Intersection and Union.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
+                "file": "Coding/TypeScript/Intersection and Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +117,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3f0a9964e57a70ec",
+  "active": "4249fe35f103243c",
   "lastOpenFiles": [
+    "Coding/TypeScript/Misc.md",
+    "Coding/TypeScript/Intersection and Union.md",
+    "Coding/TypeScript/React TypeScript.md",
+    "Coding/TypeScript/Type Predicate.md",
+    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
     "Coding/Mongo/Mongo Shell.md",
     "Coding/Mongo/Mongo Relationships.md",
     "Coding/Mongo/Starting and Stoping mongod Process.md",
-    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
     "Coding/Mongo/Basics.md",
     "Coding/Terminal/Basics.md",
     "Coding/Courses/React Native WhatsApp/Misc.md",
@@ -129,10 +146,6 @@
     "Coding/LearnEnough/CSS/Grid/Alignment.md",
     "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
     "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
-    "Coding/Courses/React Native SG/Init Project.md",
-    "Coding/Courses/React Native SG/Things to watch out for.md",
-    "Coding/Courses/React Native SG/Navigation.md",
-    "Coding/DS & Algos/Grokking Algo/Recursion.md",
-    "Coding/DS & Algos/Grokking Algo/Intro.md"
+    "Coding/Courses/React Native SG/Init Project.md"
   ]
 }
