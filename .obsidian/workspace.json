@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/TypeScript/Types of Readonly.md",
+                "file": "Coding/TypeScript/Type Predicate & Assertion Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/TypeScript/Types of Readonly.md",
+                "file": "Coding/TypeScript/Type Predicate & Assertion Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,21 +143,21 @@
   },
   "active": "50ec1f02ab14e43c",
   "lastOpenFiles": [
-    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
+    "Coding/TypeScript/Misc.md",
     "Coding/TypeScript/Types of Readonly.md",
+    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
     "Coding/TypeScript/Distributive Conditional Types.md",
     "Coding/Courses/React Native SG/Init Project.md",
     "Coding/Courses/React Native WhatsApp/Setup.md",
     "Coding/Expo React Native/Misc.md",
     "Coding/TypeScript/When does TS disallow Structural Typing.md",
     "Coding/TypeScript/Where to put generics.md",
-    "Coding/TypeScript/Misc.md",
     "Coding/TypeScript/Infer.md",
     "Coding/Expo React Native",
     "Coding/TypeScript/When is it ok to use any?.md",
     "Coding/TypeScript/Intersection and Union.md",
     "Coding/TypeScript/React TypeScript.md",
-    "Coding/TypeScript/Type Predicate.md",
+    "Coding/TypeScript/Type Predicate & Assertion Function.md",
     "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
     "Coding/Mongo/Mongo Shell.md",
     "Coding/Mongo/Mongo Relationships.md",
