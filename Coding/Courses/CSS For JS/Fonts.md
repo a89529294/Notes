@@ -1,0 +1,7 @@
+- *Font Categories*, there are many classifications. One list is 
+	- serif
+	- sans serif
+	- script
+	- monospaced
+	- display
+- The reason when specifying fonts we use `font-family: Roboto;` is because `Roboto` actually represents *12 sets*, 6 font weights(100-600) and 2 font styles(normal and italic).

@@ -1,2 +1,3 @@
-`npx expo install expo-linking` provides utilities for your app to interact with other installed apps using deep links.
-`npx expo install expo-location` to get user location
+- `npx expo install expo-linking` provides utilities for your app to interact with other installed apps using deep links.
+- `npx expo install expo-location` to get user location
+- `ctrl cmd z` in ios simulator mode toddles options panel.

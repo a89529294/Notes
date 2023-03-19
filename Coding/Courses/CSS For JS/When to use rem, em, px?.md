@@ -1,0 +1,1 @@
+If the value should increase with the default font size, I use `rem`. Otherwise, I use `px`.

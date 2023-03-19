@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f0a9964e57a70ec",
+            "id": "bad41b87b36d14d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/TypeScript/Where to put generics.md",
+                "file": "Coding/Courses/Type Level TypeScript/Types are just data.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fad6072337d7fe22",
+            "id": "e61ed676a507b142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/React Native SG/Init Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c72e14077f318a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ec1f02ab14e43c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/TypeScript/Type Predicate & Assertion Function.md",
+                "file": "Coding/Courses/Type Level TypeScript/Objects and values.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/TypeScript/Type Predicate & Assertion Function.md",
+                "file": "Coding/Courses/Type Level TypeScript/Objects and values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,36 +117,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "50ec1f02ab14e43c",
+  "active": "e61ed676a507b142",
   "lastOpenFiles": [
+    "Coding/Courses/Type Level TypeScript/Types are just data.md",
+    "Coding/Courses/Type Level TypeScript/Objects and values.md",
+    "Coding/Courses/Type Level TypeScript/Misc.md",
+    "Coding/Misc./Object Key Order.md",
+    "Coding/Courses/Type Level TypeScript",
+    "Coding/Courses/CSS For JS/Fonts.md",
+    "Coding/Courses/CSS For JS/Fundamentals.md",
+    "Coding/Courses/CSS For JS/When to use rem, em, px?.md",
+    "Coding/Expo React Native/Misc.md",
+    "Coding/Courses/CSS For JS",
+    "Coding/Courses/React Native WhatsApp/Misc.md",
+    "Coding/Courses/React Native WhatsApp/Setup.md",
+    "Coding/Courses/React Native SG/Icons.md",
+    "Coding/Courses/React Native SG/Init Project.md",
+    "Coding/Courses/React Native SG/Navigation.md",
+    "Coding/Courses/React Native SG/Things to watch out for.md",
+    "Coding/Mongo/Basics.md",
+    "Coding/TypeScript/Where to put generics.md",
+    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
+    "Coding/TypeScript/Type Predicate & Assertion Function.md",
     "Coding/TypeScript/Misc.md",
     "Coding/TypeScript/Types of Readonly.md",
-    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
     "Coding/TypeScript/Distributive Conditional Types.md",
-    "Coding/Courses/React Native SG/Init Project.md",
-    "Coding/Courses/React Native WhatsApp/Setup.md",
-    "Coding/Expo React Native/Misc.md",
     "Coding/TypeScript/When does TS disallow Structural Typing.md",
-    "Coding/TypeScript/Where to put generics.md",
     "Coding/TypeScript/Infer.md",
     "Coding/Expo React Native",
     "Coding/TypeScript/When is it ok to use any?.md",
     "Coding/TypeScript/Intersection and Union.md",
     "Coding/TypeScript/React TypeScript.md",
-    "Coding/TypeScript/Type Predicate & Assertion Function.md",
-    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
-    "Coding/Mongo/Mongo Shell.md",
-    "Coding/Mongo/Mongo Relationships.md",
-    "Coding/Mongo/Starting and Stoping mongod Process.md",
-    "Coding/Mongo/Basics.md",
-    "Coding/Terminal/Basics.md",
-    "Coding/Courses/React Native WhatsApp/Misc.md",
-    "Coding/Courses/Untitled.md",
     "Coding/Courses/React Native WhatsApp",
-    "Coding/Courses/React Security/Dos and Donts of JWT.md",
-    "Coding/Courses/React Security",
-    "Coding/DS & Algos/Grokking Algo/Hash Tables.md",
-    "Coding/DS & Algos/Grokking Algo/Breadth First Search.md",
-    "Coding/Mongo/Mongoose/Basics.md"
+    "Coding/Courses/React Security"
   ]
 }

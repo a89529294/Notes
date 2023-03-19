@@ -1,0 +1,1 @@
+- A completely unrestricted function type is `Function`. This type places no restriction on the parameters or the return.
