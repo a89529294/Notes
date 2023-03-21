@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/Type Level TypeScript/Types are just data.md",
+                "file": "Coding/Courses/CSS For JS/Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e61ed676a507b142",
+            "id": "2cfd257b6c4bbfaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/Type Level TypeScript/Objects and values.md",
+                "file": "Coding/Courses/CSS For JS/Rendering Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/Type Level TypeScript/Objects and values.md",
+                "file": "Coding/Courses/CSS For JS/Rendering Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e61ed676a507b142",
+  "active": "2cfd257b6c4bbfaf",
   "lastOpenFiles": [
+    "Coding/Courses/CSS For JS/Fundamentals.md",
+    "Coding/Courses/CSS For JS/Rendering Logic.md",
+    "Coding/Misc./Find or Kill Process.md",
+    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
     "Coding/Courses/Type Level TypeScript/Types are just data.md",
-    "Coding/Courses/Type Level TypeScript/Objects and values.md",
     "Coding/Courses/Type Level TypeScript/Misc.md",
+    "Coding/Courses/Type Level TypeScript/Objects and Records.md",
+    "Coding/Misc./Untitled.md",
+    "Coding/JavaScript/Misc..md",
     "Coding/Misc./Object Key Order.md",
     "Coding/Courses/Type Level TypeScript",
     "Coding/Courses/CSS For JS/Fonts.md",
-    "Coding/Courses/CSS For JS/Fundamentals.md",
     "Coding/Courses/CSS For JS/When to use rem, em, px?.md",
     "Coding/Expo React Native/Misc.md",
     "Coding/Courses/CSS For JS",
@@ -137,17 +142,12 @@
     "Coding/Courses/React Native SG/Things to watch out for.md",
     "Coding/Mongo/Basics.md",
     "Coding/TypeScript/Where to put generics.md",
-    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
     "Coding/TypeScript/Type Predicate & Assertion Function.md",
     "Coding/TypeScript/Misc.md",
     "Coding/TypeScript/Types of Readonly.md",
     "Coding/TypeScript/Distributive Conditional Types.md",
     "Coding/TypeScript/When does TS disallow Structural Typing.md",
-    "Coding/TypeScript/Infer.md",
     "Coding/Expo React Native",
-    "Coding/TypeScript/When is it ok to use any?.md",
-    "Coding/TypeScript/Intersection and Union.md",
-    "Coding/TypeScript/React TypeScript.md",
     "Coding/Courses/React Native WhatsApp",
     "Coding/Courses/React Security"
   ]

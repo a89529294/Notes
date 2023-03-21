@@ -1,0 +1,5 @@
+- `currentColor` is always a reference to the element's derived text color (whether set explicitly or inherited), and it can be used anywhere a color might be used
+- `border` vs `outline` The core difference is that _outline doesn't affect layout_. 
+	- Outlines are stacked outside border. 
+	- Outlines will follow the curve set with `border-radius`
+	- Outlines have a special `outline-offset` property. It allows you to add a bit of a gap between the element and its outline.
