@@ -7,7 +7,7 @@
 - *Replaced elements* like `<img/>`,`<video/>`,`<canvas/>` are *inline* elements that can be affected by `width, height, margin-block`. Think of them as *foreign objects within an inline wrapper*.
 
 ## Flow Layout
-- `inline` elements are not affected by `width,height, margin-block` `margin-inline` has an effect since its in the inline direction.
+- `inline` elements are not affected by `width,height, margin-block`. `margin-inline` has an effect since its in the inline direction.
 - `block` elements always start and occupy a new line. You can resize the `block` element but no other element will naturally occupy the same line.
 - An `inline-block` element is a block-level element that can be placed in an inline context. From the outside it acts like an *inline* element, From the inside it acts like a *block* element. One thing to note is it *cannot line wrap*, unless it cannot be avoided.
 
