@@ -16,3 +16,7 @@ flex-shrink: 1;
 flex-basis: 0;
 ```
 - `flex: 2;` is the same as `flex: 2 1 0`;
+
+## align-content
+- *Only* applies when there are *multiple lines*, this can be enabled by setting `flex-wrap: wrap;`.
+- `align-content` applies to how the *lines* place themselves in the cross axis direction. `align-items` applies to the *items* place themselves within each line in the cross axis direction.
