@@ -30,3 +30,7 @@ flex-basis: 0;
 	3. **only _one_ of these properties can be active at once.**
 4. In addition to the _hypothetical_ size, there's another important size that the Flexbox algorithm cares about: _the minimum size_. The Flexbox algorithm refuses to shrink a child below its minimum size. The content will overflow rather than shrink further. We can override this by setting `min-width: 0;`. 
 5. When we set `flex-wrap: wrap`, **items won't shrink below their hypothetical size**.
+6. When there is a conflict between layout modes, **positioned layout always wins.**
+7. _Margin collapse is exclusive to Flow layout._ It doesn't happen when elements are laid out inside a flexbox parent.
+8. CSS is comprised of layout modes, and each layout mode decides what each property should do. *Positioned*, *Flexbox*, and *Grid* all implement *support for z-index*. Flow layout does not.
+9. 

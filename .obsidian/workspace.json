@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Flexbox.md",
+                "file": "Coding/Courses/CSS For JS/Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "115fc0c7279b9904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/CSS For JS/Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf363935205fc82e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/CSS For JS/Media Queries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fae560f31b1cfcad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/CSS For JS/Responsive & Behavioral CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 371.5
   },
   "right": {
     "id": "8904194934255bee",
@@ -77,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Flexbox.md",
+                "file": "Coding/Courses/CSS For JS/Responsive & Behavioral CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +141,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4fe0cf56b7735a22",
+  "active": "5c56e077acc62db2",
   "lastOpenFiles": [
+    "Coding/Courses/CSS For JS/Media Queries.md",
+    "Coding/Courses/CSS For JS/Responsive & Behavioral CSS.md",
+    "Coding/Courses/CSS For JS/Misc.md",
+    "Screenshot 2023-04-04 at 3.10.48 PM.png",
+    "Coding/Misc./View App on Mobile.md",
+    "Coding/NextJS/How to View App on Phone.md",
+    "Coding/Courses/CSS For JS/Flexbox.md",
     "Coding/Terminal/Basics.md",
     "Coding/Courses/CSS For JS/Stacking Context.md",
-    "Coding/Courses/CSS For JS/Flexbox.md",
     "Coding/Courses/CSS For JS/Overflow.md",
     "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Coding/Courses/CSS For JS/Rendering Logic Flow Layout.md",
-    "Coding/Courses/CSS For JS/Misc.md",
     "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
     "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
     "Coding/LearnEnough/CommandLine/commands.md",
-    "Coding/Misc./Untitled.md",
     "Coding/Courses/CSS For JS/Hidden Content.md",
     "Coding/Courses/CSS For JS/Fundamentals.md",
     "Coding/Courses/CSS For JS/Containing Block.md",
@@ -130,10 +171,7 @@
     "Coding/JavaScript/Misc..md",
     "Coding/Misc./Object Key Order.md",
     "Coding/Courses/Type Level TypeScript",
-    "Coding/Courses/CSS For JS/Fonts.md",
-    "Coding/Courses/CSS For JS/When to use rem, em, px?.md",
     "Coding/Courses/CSS For JS",
-    "Coding/Courses/React Native WhatsApp/Misc.md",
     "Coding/Expo React Native",
     "Coding/Courses/React Native WhatsApp",
     "Coding/Courses/React Security"
