@@ -24,3 +24,38 @@
 	- The `lvh` unit works like the `vh` unit does; it always refers to the _full_ viewport height, once the browser UI has shrunk down.
 	`svh` always refers to the _smaller_ height, the height that first shows when the page loads.
 	Finally, `dvh` will dynamically adjust as the viewport height changes. This is the way our `height: 100%` alternative works.
+
+## clamp function
+```css
+/* Method 1 */
+.column {
+	min-width: 500px;
+	width: 65%;
+	max-width: 800px;
+} 
+
+/* Method 2 */
+.column {
+	width: clamp(500px, 65%, 800px);
+}
+
+/* Method 3 */
+.column {
+	width: clamp(500px, 65%, 800px);
+	max-width: 100%;
+}
+```
+- `method 1` and `method 2` are functionally *identical*.
+- The advantage of `clamp` is we free up `min-width` & `max-width`.
+- In `method 3` we are essentially applying two `max-width`, now `.column` cannot be larger than 800px or 100%. i.e. it needs to satisfy both.
+- Note that `clamp` is a *value* not a *property*! It can be applied to used with a lot of *properties*.
+
+## min and max
+```css
+.box {
+    /* it evaluates to the smaller one */
+	padding: min(32px, 5vw);
+	/* it evalues to the larger one */ 
+	width: max(100px, 100%);
+}
+```
