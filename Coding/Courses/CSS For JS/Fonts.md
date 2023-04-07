@@ -1,7 +1,11 @@
 - *Font Categories*, there are many classifications. One list is 
 	- serif
 	- sans serif
-	- script
+	- cursive
 	- monospaced
 	- display
 - The reason when specifying fonts we use `font-family: Roboto;` is because `Roboto` actually represents *12 sets*, 6 font weights(100-600) and 2 font styles(normal and italic).
+- When specifying `font-family` its better to end on a *category font*, like so `font-family: 'Lato', Futura, Helvetica, Arial, sans-serif;`
+- To control how a font should be rendered before it's available, we can take advantage of the `font-display` property.
+	- [read more](https://courses.joshwcomeau.com/css-for-js/06-typography-and-media/09-font-display)
+	- `block`, `swap`, `fallback`, `optional`

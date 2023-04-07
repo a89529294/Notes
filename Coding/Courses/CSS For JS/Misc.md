@@ -26,3 +26,5 @@ return elementsWiderThanViewport
 }
 ```
 
+- *justify texts* - this means that the spacing between each word is tweaked so that each line fills the available horizontal space. `text-align: justify;`
+
