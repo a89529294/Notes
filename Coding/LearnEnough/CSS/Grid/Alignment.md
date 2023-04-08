@@ -16,7 +16,7 @@
 Note that in order for these properties to work the grid tracks total size in either the horizontal or vertical direction has to be smaller than the grid itself.
 - *justify-content* 
 	- aligns the **grid tracks** horizontally. 
-	- `justify-content: start;` is the **default**.
+	- `justify-content: stretch;` is the **default**.
 - *align-content* 
 	- aligns the **grid tracks** vertically. 
 	- `align-content: start;` is the **default**.

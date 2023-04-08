@@ -19,5 +19,13 @@
 	font-weight: 500;
 	font-style: normal;
 }
+
+/* for variable fonts */
+font-weight: 300 900;
 ```
 This associates a set of *declarations* with a font file. e,g. `font-family: 'Wotfard'` + `font-weight: 400` + `font-style: normal` means we want the file specified in `src`. 
+
+## dowloading variable fonts on google
+```
+https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,100..900;1,8..30,100..900&display=swap
+```

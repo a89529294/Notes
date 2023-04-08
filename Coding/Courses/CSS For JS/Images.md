@@ -21,3 +21,24 @@ img {
 ```
 - first percentage is the *horizontal offset*; second is the *vertical offset*. 
 - percentage refers to width and height of element(`<img>` tag) itself
+
+## images and flexbox
+When dealing with images inside a `flex` container, often times it's just easier to wrap images in a `div` and set `img` to have `width:100%;`. Now the image wrappers are the flex items.
+
+## picture element
+```html
+<picture>
+  <source
+    srcset="
+      /cfj-mats/responsive-diamond.png 1x,
+      /cfj-mats/responsive-diamond@2x.png 2x,
+      /cfj-mats/responsive-diamond@3x.png 3x
+    "
+  />
+  <img
+    alt=""
+    src="/cfj-mats/responsive-diamond.png"
+  />
+</picture>
+```
+- for styling, style the `<img>` tag.
