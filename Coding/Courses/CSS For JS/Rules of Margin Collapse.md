@@ -1,5 +1,5 @@
-1. Only *vertical margins* collapse. Technically block-direction margin. We can change this by setting `writing-mode: vertical-lr`, now block-direction becomes horizontal.
-2. Margin collapses *only in Flow layout*.
+1. Margin collapses only in **Flow layout**.
+2. Only *vertical margins* collapse. Technically block-direction margin. We can change this by setting `writing-mode: vertical-lr`, now block-direction becomes horizontal.
 3. Only *adjacent* elements collapse.
 4. The *bigger* margin wins.
 5. *Nesting doesn't prevent collapsing*. Margin is meant to increase the distance between siblings. It is _not_ meant to increase the gap between a child and its parent's bounding box; that's what padding is for.

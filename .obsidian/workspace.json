@@ -13,26 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/LearnEnough/CSS/Grid/Alignment.md",
+                "file": "Coding/Courses/CSS For JS/Typography.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2308300f110fcda7",
+            "id": "1f11a1b99f47c602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/The Joy of React/useId hook.md",
+                "file": "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a49159f5dbc045c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/CSS For JS/Animation/Transition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60d89bc2c9fc5dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/CSS For JS/Animation/Animation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/The Joy of React/useId hook.md",
+                "file": "Coding/Courses/CSS For JS/Animation/Animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,13 +141,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2308300f110fcda7",
+  "active": "60d89bc2c9fc5dda",
   "lastOpenFiles": [
+    "Coding/Courses/CSS For JS/Animation/Transition.md",
+    "Coding/Courses/CSS For JS/Animation/Animation.md",
+    "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
+    "Coding/Courses/CSS For JS/Typography.md",
+    "Coding/Courses/CSS For JS/Animation",
+    "Coding/Courses/CSS For JS/Rules of Margin Collapse.md",
+    "Coding/Courses/CSS For JS/Rendering Logic Flow Layout.md",
+    "Coding/Courses/The Joy of React/useId hook.md",
     "Coding/Courses/CSS For JS/Grid.md",
     "Coding/LearnEnough/CSS/Grid/Alignment.md",
     "Coding/CSS/Grid/Gird Misc..md",
     "Coding/Courses/CSS For JS/Ways of Dowloading Fonts.md",
-    "Coding/Courses/CSS For JS/Typography.md",
     "Coding/Courses/CSS For JS/Misc.md",
     "Coding/Courses/CSS For JS/Overflow.md",
     "Coding/Courses/CSS For JS/Responsive & Behavioral CSS.md",
@@ -140,12 +171,6 @@
     "Coding/Terminal/Basics.md",
     "Coding/Courses/CSS For JS/Stacking Context.md",
     "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
-    "Coding/Courses/CSS For JS/Rendering Logic Flow Layout.md",
-    "Coding/LearnEnough/CommandLine/Chapter 4 Directories.md",
-    "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
-    "Coding/LearnEnough/CommandLine/commands.md",
-    "Coding/Courses/CSS For JS/Hidden Content.md",
-    "Coding/Courses/CSS For JS/Containing Block.md",
     "Coding/Courses/Type Level TypeScript",
     "Coding/Courses/CSS For JS",
     "Coding/Expo React Native",
