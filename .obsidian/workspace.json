@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Animation/Animation.md",
+                "file": "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Animation/Animation.md",
+                "file": "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +143,8 @@
   },
   "active": "60d89bc2c9fc5dda",
   "lastOpenFiles": [
-    "Coding/Courses/CSS For JS/Animation/Transition.md",
     "Coding/Courses/CSS For JS/Animation/Animation.md",
+    "Coding/Courses/CSS For JS/Animation/Transition.md",
     "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
     "Coding/Courses/CSS For JS/Typography.md",
     "Coding/Courses/CSS For JS/Animation",

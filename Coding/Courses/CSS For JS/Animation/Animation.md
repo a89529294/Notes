@@ -67,3 +67,7 @@
 	2. `forwards` applies styles in `to/100%` after animation ends
 	3. `backwards` applies styles in `from/0%` before animation starts
 	4. `both` combies `forwards` & `backwards`
+
+## animation-play-state
+- Instead of adding/removing `animation` to trigger/stop animation, we can use `animation-play-state` to trigger/pause an animation. The upside is the *animation when paused will not snap back to its default position*.
+- Takes two values: `running`, `paused`.
