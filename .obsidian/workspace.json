@@ -13,50 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Typography.md",
+                "file": "Coding/Misc./Find or Kill Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f11a1b99f47c602",
+            "id": "85c21964c8655381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a49159f5dbc045c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/CSS For JS/Animation/Transition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60d89bc2c9fc5dda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
+                "file": "Coding/Courses/CSS For JS/3D Transforms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
+                "file": "Coding/Courses/CSS For JS/3D Transforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,12 +117,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "60d89bc2c9fc5dda",
+  "active": "85c21964c8655381",
   "lastOpenFiles": [
-    "Coding/Courses/CSS For JS/Animation/Animation.md",
-    "Coding/Courses/CSS For JS/Animation/Transition.md",
-    "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
+    "Coding/Misc./Find or Kill Process.md",
+    "Coding/Courses/CSS For JS/3D Transforms.md",
+    "Coding/LearnEnough/CommandLine/commands.md",
     "Coding/Courses/CSS For JS/Typography.md",
+    "Coding/Courses/CSS For JS/Animation/Transform Functions.md",
+    "Coding/Courses/CSS For JS/Animation/Transition.md",
+    "Coding/Courses/CSS For JS/Animation/Animation.md",
     "Coding/Courses/CSS For JS/Animation",
     "Coding/Courses/CSS For JS/Rules of Margin Collapse.md",
     "Coding/Courses/CSS For JS/Rendering Logic Flow Layout.md",
@@ -168,9 +147,6 @@
     "Coding/Misc./View App on Mobile.md",
     "Coding/NextJS/How to View App on Phone.md",
     "Coding/Courses/CSS For JS/Flexbox.md",
-    "Coding/Terminal/Basics.md",
-    "Coding/Courses/CSS For JS/Stacking Context.md",
-    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Coding/Courses/Type Level TypeScript",
     "Coding/Courses/CSS For JS",
     "Coding/Expo React Native",
