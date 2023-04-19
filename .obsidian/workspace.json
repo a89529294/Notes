@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fae560f31b1cfcad",
+            "id": "985e215cda6d155e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Misc./Find or Kill Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85c21964c8655381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/CSS For JS/3D Transforms.md",
+                "file": "Coding/Courses/CSS For JS/Misc/Shadows.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/CSS For JS/3D Transforms.md",
+                "file": "Coding/Courses/CSS For JS/Misc/Shadows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "85c21964c8655381",
+  "active": "985e215cda6d155e",
   "lastOpenFiles": [
+    "Coding/Courses/CSS For JS/Misc/Border Radius.md",
+    "Coding/Courses/CSS For JS/Misc/Shadows.md",
+    "border-radius.svg",
+    "Coding/Courses/CSS For JS/Misc/CSS Filters.md",
     "Coding/Misc./Find or Kill Process.md",
+    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
+    "Coding/Courses/CSS For JS/Misc",
+    "Coding/Courses/React Native WhatsApp/Setup.md",
+    "Coding/Expo React Native/Misc.md",
     "Coding/Courses/CSS For JS/3D Transforms.md",
     "Coding/LearnEnough/CommandLine/commands.md",
     "Coding/Courses/CSS For JS/Typography.md",
@@ -140,13 +135,7 @@
     "Coding/Courses/CSS For JS/Images.md",
     "Coding/Courses/CSS For JS/Fonts.md",
     "Coding/Courses/CSS For JS/Fundamentals.md",
-    "Coding/Courses/CSS For JS/Obscure Layout Modes.md",
-    "Coding/Courses/CSS For JS/Pseudo Element vs Pseudo Class.md",
-    "Coding/Courses/CSS For JS/Media Queries.md",
     "Screenshot 2023-04-04 at 3.10.48 PM.png",
-    "Coding/Misc./View App on Mobile.md",
-    "Coding/NextJS/How to View App on Phone.md",
-    "Coding/Courses/CSS For JS/Flexbox.md",
     "Coding/Courses/Type Level TypeScript",
     "Coding/Courses/CSS For JS",
     "Coding/Expo React Native",
