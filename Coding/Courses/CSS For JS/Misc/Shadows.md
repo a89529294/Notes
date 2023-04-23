@@ -44,3 +44,9 @@ p {
       2px 4px 8px hsl(0deg 0% 0% / 1);
   }
 ```
+
+## Designing Shadows
+1. Each element on the page should be lit from the *same global light source*.
+2. The `box-shadow` property represents the light source's position using *horizontal and vertical offsets*. To ensure consistency, each shadow should use the same ratio between these two numbers.
+3. As an element gets closer to the user, the offset should increase, the blur radius should increase, and the shadow's opacity should decrease.
+[shadow generator](https://www.joshwcomeau.com/shadow-palette/)

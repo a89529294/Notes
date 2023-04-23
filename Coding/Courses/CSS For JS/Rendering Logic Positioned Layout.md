@@ -13,7 +13,7 @@ Applying `position: absolute;`
 2. `top,left,bottom,right` are *relative to its containing block*.
 3. By default, i.e. no `top,left,bottom,right` specified, the element will stay in its default *in flow* position. Although other elements will act as if the *absolutely positioned* element does not exist.
 
-*Centering trick*: 
+*Centering trick* (works with `position:fixed` as well): 
 1. absolute positioning (`position: absolute`)
 2. Equal distances from each edge (ideally `0px`), `inset: 0;`
 3. A fixed size (defined `width` and `height` properties)

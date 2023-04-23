@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "985e215cda6d155e",
+            "id": "560c6eb087a77513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Misc/Shadows.md",
+                "file": "Coding/Courses/CSS For JS/Misc/gradients/Linear Gradients.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24c2fed42fba132a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/CSS For JS/Misc/pointer-events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cb6f9ec249b16e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/CSS For JS/Misc/clip-path.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Misc/Shadows.md",
+                "file": "Coding/Courses/CSS For JS/Misc/clip-path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +129,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "985e215cda6d155e",
+  "active": "0cb6f9ec249b16e5",
   "lastOpenFiles": [
-    "Coding/Courses/CSS For JS/Misc/CSS Filters.md",
+    "Coding/Courses/CSS For JS/Misc/pointer-events.md",
+    "Coding/Courses/CSS For JS/Misc/clip-path.md",
+    "Coding/Courses/CSS For JS/Misc/gradients/Linear Gradients.md",
     "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
+    "Coding/Courses/CSS For JS/Misc.md",
+    "Coding/Courses/CSS For JS/Misc/gradients/Conic Gradients.md",
+    "Coding/Courses/CSS For JS/Misc/gradients/Radial Gradients.md",
+    "Coding/Courses/CSS For JS/Misc/background property.md",
+    "Coding/Courses/CSS For JS/Misc/<position> css data type.md",
     "Coding/Courses/CSS For JS/Misc/Shadows.md",
+    "Pasted image 20230423124417.png",
+    "Untitled.md",
+    "Coding/Courses/CSS For JS/Misc/gradients",
+    "output-onlinepngtools.png",
+    "css_linear-gradient_function.png",
+    "Coding/React/useEffect Deep Dive.md",
+    "Coding/Courses/CSS For JS/Misc/CSS Filters.md",
     "Coding/Courses/CSS For JS/Misc/Border Radius.md",
     "border-radius.svg",
     "Coding/Misc./Find or Kill Process.md",
@@ -125,16 +164,6 @@
     "Coding/Courses/CSS For JS/Rules of Margin Collapse.md",
     "Coding/Courses/CSS For JS/Rendering Logic Flow Layout.md",
     "Coding/Courses/The Joy of React/useId hook.md",
-    "Coding/Courses/CSS For JS/Grid.md",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/CSS/Grid/Gird Misc..md",
-    "Coding/Courses/CSS For JS/Ways of Dowloading Fonts.md",
-    "Coding/Courses/CSS For JS/Misc.md",
-    "Coding/Courses/CSS For JS/Overflow.md",
-    "Coding/Courses/CSS For JS/Responsive & Behavioral CSS.md",
-    "Coding/Courses/CSS For JS/Images.md",
-    "Coding/Courses/CSS For JS/Fonts.md",
-    "Coding/Courses/CSS For JS/Fundamentals.md",
     "Screenshot 2023-04-04 at 3.10.48 PM.png",
     "Coding/Courses/Type Level TypeScript",
     "Coding/Courses/CSS For JS",
