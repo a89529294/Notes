@@ -1,6 +1,7 @@
 
 ![[output-onlinepngtools.png]]
-- The above image shows the angle at `45deg`, default is `180deg`, which is equivalent to the keyword `to bottom`. The 45deg is measured against an invisible vertical line right through the center of the element.
+- The above image shows the angle at `45deg`, the 45deg is measured against an invisible vertical line right through the center of the element.
+- Default is `180deg`, which is equivalent to the keyword `to bottom`.
 - *Default is 180deg*, if you increase the value, gradient line rotates in the *clockwise direction*. If you decrease the value, gradient line rotates in the *counter-clockwise* direction. 
 ```css
 /* from left ro right, the colors are equidistant by default, the percentages are not needed */

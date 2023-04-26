@@ -34,7 +34,7 @@ When you apply `box-shadow` to an element, that element's box will cast a simu
 - One thing to note is it produces a *softer, more blended shadow* since the third argument specifies a standard deviation.
 - if we use `filter: drop-shadow` on an image that supports transparency (eg. png, gif, svg), the shadow will apply to the non-transparent parts of the image.
 - When we apply `filter: drop-shadow` to an element, it contours that **element and all of its descendants** (even non-contiguous ones, like the smaller circle!), and applies the shadow to that shape.
-
+- In summary, the `box-shadow` property applies a **shadow to an element's entire border box**, while the `drop-shadow` property only applies to the **visible content of an element**, which is why the latter requires content to be present.
 
 ## text-shadow
 `text-shadow` is a shadow that applies only to the typography within the selected element.
