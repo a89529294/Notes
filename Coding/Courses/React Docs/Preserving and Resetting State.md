@@ -1,0 +1,2 @@
+-  React keeps state for as long as the same component is rendered at the same position or key.
+- State is not kept in JSX tags. It’s associated with the tree position in which you put that JSX.
