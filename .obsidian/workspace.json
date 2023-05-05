@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/Programming TypeScript/High Level Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "630f1933b77a00ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/Programming TypeScript/All About Types.md",
+                "file": "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1295beb6ce5a42eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -90,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/Programming TypeScript/All About Types.md",
+                "file": "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,11 +112,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "630f1933b77a00ea",
+  "active": "2857cbdbe895803a",
   "lastOpenFiles": [
-    "Pasted image 20230503180129.png",
-    "Coding/Courses/Programming TypeScript/High Level Overview.md",
+    "Coding/Courses/Programming TypeScript/Advanced Types.md",
+    "Coding/Courses/Programming TypeScript/Typing Functions.md",
+    "Coding/Courses/Programming TypeScript/Generics.md",
     "Coding/Courses/Programming TypeScript/All About Types.md",
+    "Coding/Courses/Programming TypeScript/High Level Overview.md",
+    "Coding/NextJS/How to Initialize a NextJS Project.md",
+    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
+    "Pasted image 20230503180129.png",
     "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Screenshot 2023-05-03 at 5.05.06 PM.png",
     "Pasted image 20230503165015.png",
@@ -147,10 +147,6 @@
     "Coding/Courses/Just JavaScript/JavaScript Universe.md",
     "Coding/Courses/Just JavaScript/Equality of Values.md",
     "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
-    "Coding/Courses/CSS For JS/Misc/gradients/Linear Gradients.md",
-    "Coding/Courses/CSS For JS/Misc/pointer-events.md",
-    "Coding/Courses/CSS For JS/Misc/gradients/Radial Gradients.md",
-    "Coding/Courses/CSS For JS/Grid.md",
     "Pasted image 20230423124417.png",
     "Coding/Courses/CSS For JS/Misc/gradients",
     "output-onlinepngtools.png",

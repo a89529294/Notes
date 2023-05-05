@@ -1,5 +1,5 @@
 ```bash
-npx create-next-app@latest --ts --use-npm project_name
+npx create-next-app@latest
 ```
 
 Tweak pathing to use absolute paths (tsconfig.json)
