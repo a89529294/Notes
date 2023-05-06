@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
+                "file": "Coding/Courses/Git Bootcamp/Git Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
+                "file": "Coding/Courses/Git Bootcamp/Git Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,13 +114,16 @@
   },
   "active": "2857cbdbe895803a",
   "lastOpenFiles": [
+    "Coding/Courses/Programming TypeScript/Working with 3rd party javascript.md",
+    "Coding/Courses/Git Bootcamp/Git Basics.md",
+    "Coding/Courses/Git Bootcamp",
     "Coding/Courses/Programming TypeScript/Advanced Types.md",
+    "Coding/Courses/Programming TypeScript/All About Types.md",
+    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
     "Coding/Courses/Programming TypeScript/Typing Functions.md",
     "Coding/Courses/Programming TypeScript/Generics.md",
-    "Coding/Courses/Programming TypeScript/All About Types.md",
     "Coding/Courses/Programming TypeScript/High Level Overview.md",
     "Coding/NextJS/How to Initialize a NextJS Project.md",
-    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
     "Pasted image 20230503180129.png",
     "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Screenshot 2023-05-03 at 5.05.06 PM.png",
@@ -145,8 +148,6 @@
     "Coding/Courses/CSS For JS/Misc/scrolling",
     "Coding/Courses/CSS For JS/Misc/Shadows.md",
     "Coding/Courses/Just JavaScript/JavaScript Universe.md",
-    "Coding/Courses/Just JavaScript/Equality of Values.md",
-    "Coding/LearnEnough/CommandLine/Chapter 1 Basics.md",
     "Pasted image 20230423124417.png",
     "Coding/Courses/CSS For JS/Misc/gradients",
     "output-onlinepngtools.png",
@@ -157,7 +158,6 @@
     "Screenshot 2023-04-04 at 3.10.48 PM.png",
     "Coding/Courses/Type Level TypeScript",
     "Coding/Courses/CSS For JS",
-    "Coding/Expo React Native",
-    "Coding/Courses/React Native WhatsApp"
+    "Coding/Expo React Native"
   ]
 }
