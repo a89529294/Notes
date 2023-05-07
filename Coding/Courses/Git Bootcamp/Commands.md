@@ -1,0 +1,3 @@
+- `git commit --amend`: *Replace the tip of the current branch* by creating a new commit. This will automatically open commit message file in your text editor, therefore you *can also use this to just edit commit message*.
+- `git branch`: list all branches
+- `git switch -c <branch-name>`: creates then switches to the new branch based upon `HEAD`. 

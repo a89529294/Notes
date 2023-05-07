@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/Git Bootcamp/Git Basics.md",
+                "file": "Coding/Courses/Git Bootcamp/git diff.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/Git Bootcamp/Git Basics.md",
+                "file": "Coding/Courses/Git Bootcamp/git diff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,13 @@
   },
   "active": "2857cbdbe895803a",
   "lastOpenFiles": [
-    "Coding/Courses/Programming TypeScript/Working with 3rd party javascript.md",
+    "Coding/Courses/Git Bootcamp/Branches.md",
+    "Coding/Courses/Git Bootcamp/git diff.md",
     "Coding/Courses/Git Bootcamp/Git Basics.md",
+    "Coding/Courses/Git Bootcamp/Commands.md",
+    "Coding/Git/git config file.md",
+    "Coding/Git/gitconfig.txt.md",
+    "Coding/Courses/Programming TypeScript/Working with 3rd party javascript.md",
     "Coding/Courses/Git Bootcamp",
     "Coding/Courses/Programming TypeScript/Advanced Types.md",
     "Coding/Courses/Programming TypeScript/All About Types.md",
@@ -142,12 +147,7 @@
     "Coding/Courses/CSS For JS/Misc/scrolling/Untitled.md",
     "scrollbar.svg",
     "Untitled 1.md",
-    "Coding/React/useEffect Deep Dive.md",
-    "Coding/React/When Does a React Component Re-render?.md",
-    "Coding/Courses/CSS For JS/Misc/clip-path.md",
     "Coding/Courses/CSS For JS/Misc/scrolling",
-    "Coding/Courses/CSS For JS/Misc/Shadows.md",
-    "Coding/Courses/Just JavaScript/JavaScript Universe.md",
     "Pasted image 20230423124417.png",
     "Coding/Courses/CSS For JS/Misc/gradients",
     "output-onlinepngtools.png",

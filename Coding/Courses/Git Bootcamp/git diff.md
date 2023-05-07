@@ -1,0 +1,6 @@
+- `git diff`: comparing *working* and *staging*, shows all the changes in the working directory that are NOT staged.
+- `git diff HEAD`: comparing *working* and the *commit* `HEAD` is pointing at.
+- `git diff --staged`: comparing *staging* and *commit* `HEAD` is pointing at.
+- `git diff HEAD <file1> <file2>`: comparing *working* and the *commit* `HEAD` is pointing at for specific files.
+- `git diff branch1 branch2`: comparing the *commits* these two branches are pointing at.
+- `git diff commit1 commit2`: comparing two *commits*.
