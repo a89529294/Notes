@@ -3,12 +3,12 @@
 - grid items (the elements in the grid container)
 
 ## inline direction
-- `justify-content` applies to the grid structure, changing the columns. Defaults to *stretch*.
+- `justify-content` applies to the grid structure, changing the columns widths. Defaults to *stretch*.
 - `justify-items` applies to the child elements within each cell, without affecting the shape of the grid. Defaults to *stretch*.
 - `justify-self` applies to one child element.
 
 ## block direction
-- `align-content` applies to the grid structure, changing the rows. Defaults to *stretch*.
+- `align-content` applies to the grid structure, changing the rows height. Defaults to *stretch*.
 - `align-items` applies to the child elements within each cell, without affecting the shape of the grid. Defaults to *stretch*.
 - `align-self` applies to one child element.
 

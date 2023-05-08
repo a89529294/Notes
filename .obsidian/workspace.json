@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/Git Bootcamp/git diff.md",
+                "file": "Coding/Expo React Native/Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/Git Bootcamp/git diff.md",
+                "file": "Coding/Expo React Native/Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,12 @@
   },
   "active": "2857cbdbe895803a",
   "lastOpenFiles": [
-    "Coding/Courses/Git Bootcamp/Branches.md",
+    "Coding/NextJS/App/Component Hierarchy.md",
+    "Coding/NextJS/App/React Server Components.md",
+    "Coding/Courses/CSS For JS/Grid.md",
     "Coding/Courses/Git Bootcamp/git diff.md",
+    "Coding/NextJS/App",
+    "Coding/Courses/Git Bootcamp/Branches.md",
     "Coding/Courses/Git Bootcamp/Git Basics.md",
     "Coding/Courses/Git Bootcamp/Commands.md",
     "Coding/Git/git config file.md",
@@ -143,10 +147,7 @@
     "Coding/Courses/CSS For JS/Misc/Focus",
     "Coding/Courses/CSS For JS/Misc/scrolling/Scroll Snapping.md",
     "Coding/Courses/CSS For JS/Misc/scrolling/Smooth Scrolling.md",
-    "Coding/Courses/CSS For JS/Misc/scrolling/Scrollbar.md",
-    "Coding/Courses/CSS For JS/Misc/scrolling/Untitled.md",
     "scrollbar.svg",
-    "Untitled 1.md",
     "Coding/Courses/CSS For JS/Misc/scrolling",
     "Pasted image 20230423124417.png",
     "Coding/Courses/CSS For JS/Misc/gradients",
@@ -157,7 +158,6 @@
     "Coding/Courses/CSS For JS/Animation",
     "Screenshot 2023-04-04 at 3.10.48 PM.png",
     "Coding/Courses/Type Level TypeScript",
-    "Coding/Courses/CSS For JS",
-    "Coding/Expo React Native"
+    "Coding/Courses/CSS For JS"
   ]
 }
