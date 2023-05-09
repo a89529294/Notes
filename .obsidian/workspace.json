@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Expo React Native/Misc.md",
+                "file": "Coding/Courses/Git Bootcamp/Stash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Expo React Native/Misc.md",
+                "file": "Coding/Courses/Git Bootcamp/Stash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,14 @@
   },
   "active": "2857cbdbe895803a",
   "lastOpenFiles": [
+    "Coding/NextJS/App/Fetching Data/Fetching.md",
+    "Coding/Courses/Git Bootcamp/Stash.md",
+    "Coding/NextJS/App/Fetching Data/Overview.md",
+    "Coding/NextJS/App/Fetching Data",
+    "Coding/NextJS/App/Routing.md",
+    "Coding/NextJS/App/Misc.md",
+    "Coding/Courses/CSS For JS/Typography.md",
+    "Coding/Expo React Native/Misc.md",
     "Coding/NextJS/App/Component Hierarchy.md",
     "Coding/NextJS/App/React Server Components.md",
     "Coding/Courses/CSS For JS/Grid.md",
@@ -139,14 +147,7 @@
     "Pasted image 20230503165015.png",
     "Coding/Courses/Programming TypeScript",
     "Coding/Courses/The Joy of React/useId hook.md",
-    "Coding/Courses/React Docs/Preserving and Resetting State.md",
-    "Coding/Courses/React Docs/How Does React Keep Track of Components' Identities?.md",
-    "Coding/Courses/CSS For JS/Misc/Floats.md",
-    "Coding/Courses/CSS For JS/Misc/Focus.md",
-    "Coding/React/React Rendering.md",
     "Coding/Courses/CSS For JS/Misc/Focus",
-    "Coding/Courses/CSS For JS/Misc/scrolling/Scroll Snapping.md",
-    "Coding/Courses/CSS For JS/Misc/scrolling/Smooth Scrolling.md",
     "scrollbar.svg",
     "Coding/Courses/CSS For JS/Misc/scrolling",
     "Pasted image 20230423124417.png",
@@ -157,7 +158,6 @@
     "Coding/Courses/CSS For JS/Misc",
     "Coding/Courses/CSS For JS/Animation",
     "Screenshot 2023-04-04 at 3.10.48 PM.png",
-    "Coding/Courses/Type Level TypeScript",
-    "Coding/Courses/CSS For JS"
+    "Coding/Courses/Type Level TypeScript"
   ]
 }
