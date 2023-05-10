@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/Git Bootcamp/Stash.md",
+                "file": "Coding/Courses/Git Bootcamp/Undoing Changes & Time Traveling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/Git Bootcamp/Stash.md",
+                "file": "Coding/Courses/Git Bootcamp/Undoing Changes & Time Traveling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,14 @@
   },
   "active": "2857cbdbe895803a",
   "lastOpenFiles": [
-    "Coding/NextJS/App/Fetching Data/Fetching.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Coding/Courses/Git Bootcamp/Undoing Changes & Time Traveling.md",
+    "Coding/Courses/Git Bootcamp/Branches.md",
+    "Coding/Courses/Git Bootcamp/Git Basics.md",
+    "Coding/Courses/Git Bootcamp/Commands.md",
     "Coding/Courses/Git Bootcamp/Stash.md",
+    "Coding/NextJS/App/Fetching Data/Fetching.md",
     "Coding/NextJS/App/Fetching Data/Overview.md",
     "Coding/NextJS/App/Fetching Data",
     "Coding/NextJS/App/Routing.md",
@@ -127,9 +133,6 @@
     "Coding/Courses/CSS For JS/Grid.md",
     "Coding/Courses/Git Bootcamp/git diff.md",
     "Coding/NextJS/App",
-    "Coding/Courses/Git Bootcamp/Branches.md",
-    "Coding/Courses/Git Bootcamp/Git Basics.md",
-    "Coding/Courses/Git Bootcamp/Commands.md",
     "Coding/Git/git config file.md",
     "Coding/Git/gitconfig.txt.md",
     "Coding/Courses/Programming TypeScript/Working with 3rd party javascript.md",
@@ -140,13 +143,10 @@
     "Coding/Courses/Programming TypeScript/Typing Functions.md",
     "Coding/Courses/Programming TypeScript/Generics.md",
     "Coding/Courses/Programming TypeScript/High Level Overview.md",
-    "Coding/NextJS/How to Initialize a NextJS Project.md",
     "Pasted image 20230503180129.png",
-    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Screenshot 2023-05-03 at 5.05.06 PM.png",
     "Pasted image 20230503165015.png",
     "Coding/Courses/Programming TypeScript",
-    "Coding/Courses/The Joy of React/useId hook.md",
     "Coding/Courses/CSS For JS/Misc/Focus",
     "scrollbar.svg",
     "Coding/Courses/CSS For JS/Misc/scrolling",

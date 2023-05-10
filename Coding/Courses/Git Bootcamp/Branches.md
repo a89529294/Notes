@@ -1,8 +1,8 @@
 A *branch* in Git *always points to the latest commit* on that branch.
 
-When you create a new branch, Git creates a new pointer that initially points to the same commit as the branch you created it from (usually the latest commit on the main development branch). As you make new commits on the new branch, Git updates the branch pointer to point to the most recent commit on that branch.
+When you *create a new branch*, Git creates a *new pointer that initially points to the same commit as the branch* you created it from (usually the latest commit on the main development branch). As you make new commits on the new branch, Git updates the branch pointer to point to the most recent commit on that branch.
 
-the *HEAD* in Git points to the *current commit your working directory is based on*, and it can be either pointing to the latest commit on a branch or a specific commit in a detached HEAD state.
+the *HEAD* in Git points to the *current commit your working directory is based on*, and it can be either pointing to a *branch*(latest commit on a series of commits) or a specific *commit* in a detached HEAD state.
 
 ## deleting branches
 `git branch -d <branch-name>`
