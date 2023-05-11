@@ -32,3 +32,5 @@ aliases = config --get-regexp alias
 
 [push]
 default = simple
+[pull]
+ff = only

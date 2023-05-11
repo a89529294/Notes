@@ -20,6 +20,12 @@ Say we have two branches `A` and `B`, if we want to merge `B` into `A`:
 1. `git sw A`
 2. `git merge B`
 
+## commands
+- `git branch` lists local branches
+- `git branch -a` lists all branches
+- `git branch -r` lists remote branches
+- `git branch -vv` lists local bracnhes and their upstreams
+
 ## misc
 - the term *"branch"* in Git can refer to a *series of commits* that represent a separate line of development, or it can refer to the *latest commit on a branch*, which represents the current state of the branch.
 - When you create a new file in branch A but haven't committed the changes, the new file is still present in the working directory of branch A. When you switch to branch B, the working directory is updated to reflect the contents of branch B, but *any uncommitted changes in new files in the working directory will still be present*. It is a good idea to commit/stash any changes before switching branches.
