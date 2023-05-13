@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/Git Bootcamp/Collaboration.md",
+                "file": "Coding/Courses/Git Bootcamp/Undoing Changes & Time Traveling.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2f1d170bec0db367",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/Git Bootcamp/Collaboration.md",
+                "file": "Coding/Courses/Git Bootcamp/Undoing Changes & Time Traveling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,22 +112,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2f1d170bec0db367",
+  "active": "2857cbdbe895803a",
   "lastOpenFiles": [
-    "Coding/Git/git config file.md",
-    "Coding/Courses/Git Bootcamp/Collaboration.md",
+    "Coding/Courses/Git Bootcamp/Reflog.md",
+    "Coding/Courses/Git Bootcamp/Undoing Changes & Time Traveling.md",
+    "Coding/Courses/Git Bootcamp/Behind the Scenes.md",
+    "Coding/Courses/Git Bootcamp/Commands.md",
+    "Coding/Courses/Git Bootcamp/Tags.md",
     "Coding/Courses/Git Bootcamp/Branches.md",
+    "Coding/Courses/Git Bootcamp/Rebase.md",
+    "Coding/Courses/Git Bootcamp/Workflows.md",
+    "Coding/Courses/Git Bootcamp/Collaboration.md",
+    "Coding/Git/git config file.md",
     "Coding/Deployment/Overview.md",
     "Coding/Untitled",
     "Coding/NextJS/App/Fetching Data/Fetching.md",
     "Coding/NextJS/App/Fetching Data/Overview.md",
     "Coding/NextJS/App/Misc.md",
     "Coding/NextJS/App/Component Hierarchy.md",
-    "Coding/Courses/Git Bootcamp/Undoing Changes & Time Traveling.md",
     "Untitled 1.md",
     "Untitled.md",
     "Coding/Courses/Git Bootcamp/Git Basics.md",
-    "Coding/Courses/Git Bootcamp/Commands.md",
     "Coding/Courses/Git Bootcamp/Stash.md",
     "Coding/NextJS/App/Fetching Data",
     "Coding/NextJS/App/Routing.md",
@@ -149,12 +143,7 @@
     "Coding/Courses/Git Bootcamp/git diff.md",
     "Coding/NextJS/App",
     "Coding/Git/gitconfig.txt.md",
-    "Coding/Courses/Programming TypeScript/Working with 3rd party javascript.md",
     "Coding/Courses/Git Bootcamp",
-    "Coding/Courses/Programming TypeScript/Advanced Types.md",
-    "Coding/Courses/Programming TypeScript/All About Types.md",
-    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
-    "Coding/Courses/Programming TypeScript/Typing Functions.md",
     "Pasted image 20230503180129.png",
     "Screenshot 2023-05-03 at 5.05.06 PM.png",
     "Pasted image 20230503165015.png",

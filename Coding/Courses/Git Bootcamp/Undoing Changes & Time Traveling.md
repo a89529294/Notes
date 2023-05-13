@@ -20,7 +20,7 @@ the *HEAD* in Git points to the *current commit your working directory is based 
 
 ## git reset
 *removes the commits, but not the changes in your working directory*.
-`git reset <commit>` removes all the commits after `<commit>`.
+`git reset <commit>` removes all the commits after `<commit>`. In other words, your commit history becomes the same as when you added `commit`. 
 
 ## git reset --hard
 *removes the commits, as well as all the changes in working directory*.
