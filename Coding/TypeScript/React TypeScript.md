@@ -29,3 +29,11 @@ export function Button(props: ButtonProps) {
   return <button {...rest} >{children}</button>;
 }
 ```
+- *css custom properties*
+```tsx
+<span
+style={{
+	'--before-color': s.color,
+	  } as CSSProperties }
+>
+```

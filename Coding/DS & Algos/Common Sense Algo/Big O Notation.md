@@ -1,0 +1,3 @@
+- **Big O Notation** generally refers to *worst-case scenario* unless specified otherwise.
+- O(1) simply means that the algorithm takes the *same number of steps* no matter how much data there is.
+- O(N) *for N elements* inside an array, the algorithm would *take N steps* to complete.
