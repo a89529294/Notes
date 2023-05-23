@@ -1,3 +1,6 @@
 - **Big O Notation** generally refers to *worst-case scenario* unless specified otherwise.
 - O(1) simply means that the algorithm takes the *same number of steps* no matter how much data there is.
 - O(N) *for N elements* inside an array, the algorithm would *take N steps* to complete.
+- It ignores constants.
+- The purpose of Big O is that for different classifications, there will be a point at which one classification supersedes the other in speed, and will remain faster forever.
+- the main takeaway of this chapter is that when two algorithms fall under the same classification of Big O, it doesn’t necessarily mean that both algorithms process at the same speed.

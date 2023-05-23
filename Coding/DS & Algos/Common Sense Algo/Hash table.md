@@ -1,0 +1,2 @@
+- **hash function** needs to meet only one criterion to be valid: a hash function must convert the *same string to the same number* every single time it’s applied.
+- **Hash tables** are indispensable when it comes to building efficient software. With their *O(1) reads and insertions*, it’s a difficult data structure to beat.

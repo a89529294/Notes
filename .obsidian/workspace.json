@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6efd15d39fd4abb0",
+        "id": "4b4a8d2926fa3543",
         "type": "tabs",
         "children": [
           {
-            "id": "2857cbdbe895803a",
+            "id": "857e8f2b49af8edb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/DS & Algos/Common Sense Algo/Big O Notation.md",
+                "file": "Coding/Courses/VSCode/Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/DS & Algos/Common Sense Algo/Big O Notation.md",
+                "file": "Coding/Courses/VSCode/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +112,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2857cbdbe895803a",
+  "active": "857e8f2b49af8edb",
   "lastOpenFiles": [
-    "Coding/DS & Algos/Common Sense Algo/Why Algo Matters.md",
+    "Coding/VSCode/Keybindings.md",
+    "Coding/DS & Algos/Common Sense Algo/Node Based Data Structures.md",
+    "Coding/HTML/Forms.md",
+    "Coding/Misc./Browsers.md",
+    "Coding/Courses/CSS For JS/Misc/Focus.md",
+    "Coding/Misc./Authentication/SSO.md",
+    "Coding/DS & Algos/Common Sense Algo/Recursion.md",
+    "Coding/DS & Algos/Common Sense Algo/Stacks & Queues.md",
+    "Coding/Expo React Native/Misc.md",
+    "Coding/DS & Algos/Common Sense Algo/Hash table.md",
+    "Untitled 2.md",
     "Coding/DS & Algos/Common Sense Algo/Big O Notation.md",
+    "Coding/DS & Algos/Common Sense Algo/Why Algo Matters.md",
     "Coding/DS & Algos/Common Sense Algo/Why DS Matters.md",
     "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Coding/DS & Algos/Common Sense Algo",
@@ -132,17 +143,6 @@
     "Coding/Postgresql",
     "Coding/SQL/JOINS.md",
     "Coding/SQL/DBMS.md",
-    "Coding/Misc./Debounce Vs Throttle.md",
-    "Coding/Misc./encodeURI vs.encodeURIComponent.md",
-    "Coding/Courses/Server Side Programming MDN/Terminology.md",
-    "Untitled 1.md",
-    "Coding/Mongo/CRUD using Mongo Legacy Shell.md",
-    "Coding/Mongo/Mongo Shell.md",
-    "Coding/Mongo/Basics.md",
-    "Coding/Mongo/Starting and Stoping mongod Process.md",
-    "Coding/Mongo/Mongo Relationships.md",
-    "Coding/Courses/Server Side Programming MDN/Mongoose Primer.md",
-    "Coding/Courses/Server Side Programming MDN/Express & Databases.md",
     "Coding/Courses/Server Side Programming MDN",
     "Coding/VSCode/keyboard-shortcuts-macos.pdf",
     "Coding/Courses/VSCode",
