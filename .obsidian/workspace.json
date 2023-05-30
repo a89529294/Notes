@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/VSCode/Commands.md",
+                "file": "Coding/Courses/CSS For JS/Misc/scrolling/Scrollbar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/VSCode/Commands.md",
+                "file": "Coding/Courses/CSS For JS/Misc/scrolling/Scrollbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,11 @@
   },
   "active": "857e8f2b49af8edb",
   "lastOpenFiles": [
+    "Coding/CSS/Hide Scrollbars.md",
+    "Coding/TypeScript/React TypeScript.md",
+    "Coding/Expo React Native/Misc.md",
+    "Coding/Misc./CORS.md",
+    "Coding/Courses/VSCode/Commands.md",
     "Coding/VSCode/Keybindings.md",
     "Coding/DS & Algos/Common Sense Algo/Node Based Data Structures.md",
     "Coding/HTML/Forms.md",
@@ -122,7 +127,6 @@
     "Coding/Misc./Authentication/SSO.md",
     "Coding/DS & Algos/Common Sense Algo/Recursion.md",
     "Coding/DS & Algos/Common Sense Algo/Stacks & Queues.md",
-    "Coding/Expo React Native/Misc.md",
     "Coding/DS & Algos/Common Sense Algo/Hash table.md",
     "Untitled 2.md",
     "Coding/DS & Algos/Common Sense Algo/Big O Notation.md",
@@ -131,18 +135,14 @@
     "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Coding/DS & Algos/Common Sense Algo",
     "Coding/CSS/TailwindCSS/Auto Sort Classes.md",
-    "Coding/TypeScript/React TypeScript.md",
     "Coding/CSS/TailwindCSS/Fixing vh on Mobile with TailwindCSS.md",
     "Coding/Courses/CSS For JS/Misc/gradients/Radial Gradients.md",
-    "Coding/Courses/VSCode/Commands.md",
     "Coding/Postgresql/Setup.md",
     "Coding/Prisma",
     "Coding/Postgresql/Connection.md",
     "Coding/Postgresql/Basic Commands.md",
     "Coding/SQL/MISC..md",
     "Coding/Postgresql",
-    "Coding/SQL/JOINS.md",
-    "Coding/SQL/DBMS.md",
     "Coding/Courses/Server Side Programming MDN",
     "Coding/VSCode/keyboard-shortcuts-macos.pdf",
     "Coding/Courses/VSCode",

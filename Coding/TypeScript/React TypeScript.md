@@ -37,3 +37,10 @@ style={{
 	  } as CSSProperties }
 >
 ```
+- _extracting prop types from 3rd party libraries_
+```tsx
+import { ComponentProps } from "react";
+import { Button } from "some-external-library";
+
+type MyButtonProps = ComponentProps<typeof Button>;
+```

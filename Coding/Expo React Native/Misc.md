@@ -3,3 +3,4 @@
 - `ctrl cmd z` in ios simulator mode toddles options panel.
 - `eas build --platform (ios/android) --local`
 - `npx eas-cli build -p android --profile preview` build apk
+- `eas build -p ios` 
