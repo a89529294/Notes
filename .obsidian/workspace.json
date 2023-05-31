@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Misc/scrolling/Scrollbar.md",
+                "file": "Coding/Courses/Web Auth/Enhanced Login Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Misc/scrolling/Scrollbar.md",
+                "file": "Coding/Courses/Web Auth/Enhanced Login Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +114,14 @@
   },
   "active": "857e8f2b49af8edb",
   "lastOpenFiles": [
+    "Coding/Courses/Web Auth/Overview.md",
+    "Coding/Courses/Web Auth/Enhanced Login Form.md",
+    "Coding/Expo React Native/Misc.md",
+    "Coding/Courses/Web Auth",
+    "Coding/Courses/Untitled.md",
+    "Coding/Courses/CSS For JS/Misc/scrolling/Scrollbar.md",
     "Coding/CSS/Hide Scrollbars.md",
     "Coding/TypeScript/React TypeScript.md",
-    "Coding/Expo React Native/Misc.md",
     "Coding/Misc./CORS.md",
     "Coding/Courses/VSCode/Commands.md",
     "Coding/VSCode/Keybindings.md",
@@ -137,11 +142,7 @@
     "Coding/CSS/TailwindCSS/Auto Sort Classes.md",
     "Coding/CSS/TailwindCSS/Fixing vh on Mobile with TailwindCSS.md",
     "Coding/Courses/CSS For JS/Misc/gradients/Radial Gradients.md",
-    "Coding/Postgresql/Setup.md",
     "Coding/Prisma",
-    "Coding/Postgresql/Connection.md",
-    "Coding/Postgresql/Basic Commands.md",
-    "Coding/SQL/MISC..md",
     "Coding/Postgresql",
     "Coding/Courses/Server Side Programming MDN",
     "Coding/VSCode/keyboard-shortcuts-macos.pdf",
@@ -152,7 +153,6 @@
     "Pasted image 20230503180129.png",
     "Screenshot 2023-05-03 at 5.05.06 PM.png",
     "Pasted image 20230503165015.png",
-    "Coding/Courses/Programming TypeScript",
     "scrollbar.svg",
     "Pasted image 20230423124417.png",
     "output-onlinepngtools.png",
