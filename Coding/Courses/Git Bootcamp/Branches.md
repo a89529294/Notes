@@ -24,7 +24,7 @@ Say we have two branches `A` and `B`, if we want to merge `B` into `A`:
 - `git branch` lists local branches
 - `git branch -a` lists all branches
 - `git branch -r` lists remote branches
-- `git branch -vv` lists local bracnhes and their upstreams
+- `git branch -vv` lists local branches and their upstreams
 
 ## misc
 - the term *"branch"* in Git can refer to a *series of commits* that represent a separate line of development, or it can refer to the *latest commit on a branch*, which represents the current state of the branch.

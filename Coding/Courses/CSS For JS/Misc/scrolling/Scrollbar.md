@@ -25,11 +25,11 @@ html {
 Note we are *wrapping the scrollbar styles* in a media query *targeting non mobile devices*. Mobile scrollbars are unobtrusive and you can't style IOS mobile scrollbars anyway. 
 
 ## Misc
-- `scrollbar-gutter` controls wherether to reserve space for potential scrollbars. 
+- `scrollbar-gutter` controls whether to reserve space for potential scrollbars. 
 ```css
 * {
 	scrollbar-gutter: stable; /* reserve space */
 	scrollbar-gutter: auto; /* default, no space reserved */
 }
 ```
-- For *tailwind*, use `https://www.npmjs.com/package/tailwind-scrollbar` 
+- For *tailwind*, use [tailwind-scrollbar](https://www.npmjs.com/package/tailwind-scrollbar)

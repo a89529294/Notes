@@ -7,13 +7,14 @@ How does the browser decide which element to render "on top" when elements overl
 ## How browser determines whos on top
 1. As a general rule, **positioned elements will always render on top of non-positioned ones**.
 2. First, all of the non-positioned elements are rendered (everything using Flow, Flexbox, Grid…). Next, all of the positioned elements are rendered on top (relative, absolute, fixed, sticky).
-3. If we set _both_ elements to use relative positioning? In that case, the DOM order wins. We can tweak this using z-index.
+3. If we set _both_ elements to use relative positioning? In that case, the DOM order wins. We can tweak this using z-index. 
 
 ## Summary
 - When all siblings are rendered in Flow layout, the DOM order controls how the background elements overlap, but the content will always float to the front. 
 - If one sibling uses positioned layout, it will appear above its non-positioned sibling, no matter what the DOM order is. 
 - If both siblings use positioned layout, the DOM order controls which element will be on top. Unlike in Flow layout, the content does not float to the front.
 - The above is the default behavior. We can override it using `z-index`.
+- Keep `z-index` *positive*. This makes sure that all positioned elements will be *on top of* non positioned elements.
 
 ## z-index
 *z-index* works with *positioned* elements, *flex* & *grid* children.

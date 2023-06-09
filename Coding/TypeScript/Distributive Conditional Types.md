@@ -1,3 +1,5 @@
+When *conditional types act on a generic type*, they become _distributive_ when given a union type.
+
 ```ts
 type MyExclude<Original , ToExclude> = Original extends ToExclude ? never : Original
 ```
