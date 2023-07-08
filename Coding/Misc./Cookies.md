@@ -6,4 +6,9 @@
 ## What are signed cookies?
 - Cookies by default are *unsigned*, meaning it can be *tampered* with by the *client* and the *server* would not know better.
 - *Signed* cookies let the *server* know if a *signed* cookie has been *tampered* with. 
-- For concreate examples see [[Coding/Node/Express/Cookies]]
+- For concrete examples see [[Coding/Node/Express/Cookies]]
+
+## How to set up cookies?
+Cookie can be set by:
+- Server with `Set-cookie` header.
+- Client side with `document.cookie`.
