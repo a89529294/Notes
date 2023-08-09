@@ -4,8 +4,8 @@
 - What if we want a *non breaking space*? `&nbsp;` What happens is the word to the left of `&nbsp;` will join the word on the right, essentially becoming a new word.
 
 ## Dealing with long words
-- If a *single word* is too long to fit it a container, it will overflow. Remeber the definition, a *word* is a collection of *characters that can't be broken up*.
-- This can be overriden using `overflow-wrap: break-word;`.
+- If a *single word* is too long to fit it a container, it will overflow. Remember the definition, a *word* is a collection of *characters that can't be broken up*.
+- This can be overridden using `overflow-wrap: break-word;`.
 - The browser algo for breaking words:
 	1. line break on the closet *soft wrap opportunity* to the left.
 	2. If none exists, text will overflow unless
