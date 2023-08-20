@@ -10,4 +10,5 @@ anything underlined is a variable
 - Common _wild cards_:
 	- `*` zero or more characters
 	- `?` any single character
+- Best way to _end terminal session_: type `exit` 
 
