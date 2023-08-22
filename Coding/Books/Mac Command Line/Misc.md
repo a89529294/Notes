@@ -1,0 +1,1 @@
+- `defaults write com.apple.finder AppleShowAllFiles true; killall Finder` run this in terminal to show all hidden files in finder; switch `true` to `false` to revert.
