@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Books/Mac Command Line/Misc.md",
+                "file": "Coding/Books/TypeScript Cookbook/Chapter 1 Project Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#absolute",
+                "query": "npx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Books/Mac Command Line/Misc.md",
+                "file": "Coding/Books/TypeScript Cookbook/Chapter 1 Project Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,17 @@
   },
   "active": "ad5b2f74424ed605",
   "lastOpenFiles": [
-    "Coding/Books/Mac Command Line/Command Line Shortcuts.md",
+    "Coding/Misc./npx.md",
+    "Coding/Node/Intro_to_Node_MS/npx.md",
+    "Coding/Books/TypeScript Cookbook/Chapter 1 Project Setup.md",
+    "Coding/Courses/React.gg/useReducer vs. useState.md",
+    "Coding/Courses/React.gg/Managing Effects.md",
+    "Coding/Go/A Tour of Go",
+    "Coding/Go",
+    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
+    "Coding/Books/TypeScript Cookbook",
     "Coding/Books/Mac Command Line/Misc.md",
+    "Coding/Books/Mac Command Line/Command Line Shortcuts.md",
     "Coding/Books/Mac Command Line/Find Files.md",
     "Coding/Courses/Git Bootcamp/Undoing Changes & Time Traveling.md",
     "Coding/Books/Mac Command Line/Creating shell scripts.md",
@@ -124,7 +133,6 @@
     "Coding/Books/Mac Command Line/Running Programs.md",
     "Coding/Books/Mac Command Line/Reading Files.md",
     "Coding/Books/Mac Command Line/Permissions.md",
-    "Coding/Courses/React.gg/Managing Effects.md",
     "Coding/NextJS/Protecting Routes.md",
     "Coding/Books/Mac Command Line/Basics.md",
     "Coding/Books/Mac Command Line/Working with Files & Directories.md",
@@ -138,20 +146,12 @@
     "Coding/Books/The Recursive Book of Recursion",
     "Coding/Books",
     "Coding/Misc./rel='noopener' vs rel='noreferrer'.md",
-    "Coding/Misc./Debounce Vs Throttle.md",
-    "Coding/Oauth/index.md",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",
-    "Coding/Brew/index.md",
     "Coding/Oauth",
-    "Coding/Misc./Cookies.md",
     "Coding/Brew",
-    "Coding/Node/Express/Cookies.md",
     "Coding/Courses/Web Dev Quiz",
     "Coding/Courses/React.gg",
-    "Coding/Courses/Colt - DS & Algo",
-    "Misc",
-    "Coding/Courses/Web Auth",
     "Pasted image 20230503180129.png",
     "Screenshot 2023-05-03 at 5.05.06 PM.png",
     "Pasted image 20230503165015.png",
