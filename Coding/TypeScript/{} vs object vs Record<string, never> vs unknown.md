@@ -1,4 +1,4 @@
-`{}` type means any non nullish value
+`{}` type means any non null-ish value
 `object` means any object
-`Record<string, never>` means emtpy object
+`Record<string, never>` means empty object
 `unknown` means any value
