@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2874c166bf2effbe",
+        "id": "be7f4e5a718b3715",
         "type": "tabs",
         "children": [
           {
-            "id": "ad5b2f74424ed605",
+            "id": "f926e6bdcdec6c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Books/TypeScript Cookbook/Basic Types.md",
+                "file": "Coding/Courses/React.gg/Pure Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find ",
+                "query": "\"pure function\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Books/TypeScript Cookbook/Basic Types.md",
+                "file": "Coding/Courses/React.gg/Pure Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,53 +113,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ad5b2f74424ed605",
+  "active": "f926e6bdcdec6c38",
   "lastOpenFiles": [
-    "Coding/Books/TypeScript Cookbook/Basic Types.md",
-    "Coding/Books/Mac Command Line/Find Files.md",
-    "Coding/Terminal/Find files.md",
-    "Coding/Terminal/Folder Size.md",
-    "Coding/Mongo/Starting and Stoping mongod Process.md",
-    "Coding/Misc./Homebrew.md",
-    "Coding/Postgresql/Setup.md",
-    "Coding/Postgresql/Connection.md",
-    "Coding/Postgresql/Basic Commands.md",
-    "Coding/Courses/PlanetScale MySQL/Schema.md",
-    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
+    "Coding/Courses/Intro to SQL/Joins.md",
+    "Coding/Courses/Intro to SQL/Querying Data.md",
+    "Coding/Courses/Intro to SQL/Set Theory for SQL Joins.md",
+    "Coding/Courses/Intro to SQL/Sub Queries.md",
+    "Coding/Courses/Intro to SQL/Execution Order.md",
+    "Purpose/Self-Control/Is Self Control Limited?.md",
+    "Purpose/Self-Control/What is Self Control?.md",
+    "Coding/Node/Intro_to_Node_MS/npx.md",
+    "Purpose/Self-Control",
+    "Coding/Misc./npx.md",
+    "Coding/TypeScript/Setting up TS.md",
+    "Coding/Courses/DevOps/MS Azure Fundamentals/Cloud Concepts.md",
+    "shared-responsibility.svg",
+    "Coding/Courses/Intro to SQL/Aggregate Functions.md",
+    "Coding/Courses/Intro to SQL/Sorting.md",
+    "Coding/Courses/Intro to SQl/WHERE vs. HAVING.md",
+    "Coding/Courses/Intro to SQL/Writing Queries.md",
+    "Coding/Courses/Intro to SQL/Arithmetic and Aliasing.md",
+    "Coding/Courses/React.gg/Pure Functions.md",
+    "Coding/Courses/Intro to SQL",
+    "Misc/A New System.md",
+    "Coding/Books/Mac Command Line/Command Line Shortcuts.md",
+    "Coding/Books/Mac Command Line/Creating shell scripts.md",
+    "Coding/Books/Mac Command Line/Misc.md",
+    "Coding/Courses/CSS For JS/Misc/Focus.md",
+    "Coding/Git/Head First Git/6. Collaboarting - 2.md",
+    "Coding/Courses/Git Bootcamp/Collaboration.md",
+    "Coding/LearnEnough/Git/Chapter 3 Branching & Merging.md",
+    "Coding/Courses/Git Bootcamp/Branches.md",
+    "Coding/Courses/DevOps/MS Azure Fundamentals",
+    "Coding/Courses/DevOps",
+    "Coding/Courses/Harvard CS50X",
     "Coding/Courses/PlanetScale MySQL",
     "Coding/Courses/UI The Hard Parts",
-    "Coding/Courses/CSS For JS/Misc/gradients/Radial Gradients.md",
-    "Coding/Books/TypeScript Cookbook/Chapter 1 Project Setup.md",
-    "Coding/Misc./npx.md",
-    "Coding/Node/Intro_to_Node_MS/npx.md",
-    "Coding/Courses/React.gg/useReducer vs. useState.md",
-    "Coding/Courses/React.gg/Managing Effects.md",
     "Coding/Go/A Tour of Go",
     "Coding/Go",
-    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Coding/Books/TypeScript Cookbook",
-    "Coding/Books/Mac Command Line/Misc.md",
-    "Coding/Books/Mac Command Line/Command Line Shortcuts.md",
-    "Coding/Courses/Git Bootcamp/Undoing Changes & Time Traveling.md",
-    "Coding/Books/Mac Command Line/Creating shell scripts.md",
-    "Coding/Books/Mac Command Line/Grep.md",
-    "Coding/Books/Mac Command Line/Pipe and Redirect Data.md",
-    "Coding/Books/Mac Command Line/Running Programs.md",
-    "Coding/Books/Mac Command Line/Reading Files.md",
-    "Coding/Books/Mac Command Line",
-    "Coding/Books/The Recursive Book of Recursion",
-    "Coding/Books",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",
-    "Coding/Oauth",
-    "Coding/Brew",
     "Pasted image 20230503180129.png",
     "Screenshot 2023-05-03 at 5.05.06 PM.png",
     "Pasted image 20230503165015.png",
     "scrollbar.svg",
     "Pasted image 20230423124417.png",
     "output-onlinepngtools.png",
-    "css_linear-gradient_function.png",
-    "border-radius.svg"
+    "css_linear-gradient_function.png"
   ]
 }

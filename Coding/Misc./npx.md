@@ -1,4 +1,0 @@
-When you use `npx` to run a command, it follows this order of checking:
-1. **Local Project**: It first checks if the command is listed as a dependency in the `package.json` of the current project. If it's found, it uses that local version. It basically checks `node_modules/.bin` to see if the command is there.
-2. **Global**: If the command is not found locally, it checks if the command is installed globally on your system (in the global `node_modules/.bin` directory). If it's found there, it uses the global version.
-3. **Download and Execute**: If the command is not found both locally and globally, `npx` will download the latest version of the package from the npm registry and temporarily install it in a local hidden `.npm` directory. It then executes the command using this locally installed package.
