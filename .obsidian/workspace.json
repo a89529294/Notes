@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/React.gg/Pure Functions.md",
+                "file": "Readings/Ultra Learning/1. Meta Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"pure function\"",
+                "query": "auto-fill",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/React.gg/Pure Functions.md",
+                "file": "Readings/Ultra Learning/1. Meta Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,12 +114,28 @@
   },
   "active": "f926e6bdcdec6c38",
   "lastOpenFiles": [
+    "Readings/Ultra Learning/1. Meta Learning.md",
+    "Readings/Ultra Learning/Nine Principles of Ultra Learning.md",
+    "Purpose/Self-Control/Virtuous Cycle.md",
+    "Readings/Ultra Learning",
+    "Purpose/Self-Control/Mindfulness.md",
+    "Purpose/Self-Control/Strategies to Prevent Self Control Conflicts.md",
+    "Misc/work out.md",
+    "Purpose/Self-Control/Construal & Reappraisal.md",
+    "Misc/A New System.md",
+    "Purpose/Self-Control/Self Affirmation.md",
+    "Purpose/Self-Control/Motivation.md",
+    "Purpose/Self-Control/How Beliefs Impact Your Willpower.md",
+    "Purpose/Self-Control/Self Control Strategies to Avoid.md",
+    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
+    "Coding/Git/Head First Git/4. Fixing Your Mistakes.md",
+    "Coding/Courses/CSS For JS/Grid.md",
+    "Coding/Courses/React.gg/Pure Functions.md",
     "Coding/Courses/Intro to SQL/Joins.md",
     "Coding/Courses/Intro to SQL/Querying Data.md",
     "Coding/Courses/Intro to SQL/Set Theory for SQL Joins.md",
     "Coding/Courses/Intro to SQL/Sub Queries.md",
     "Coding/Courses/Intro to SQL/Execution Order.md",
-    "Purpose/Self-Control/Is Self Control Limited?.md",
     "Purpose/Self-Control/What is Self Control?.md",
     "Coding/Node/Intro_to_Node_MS/npx.md",
     "Purpose/Self-Control",
@@ -128,22 +143,7 @@
     "Coding/TypeScript/Setting up TS.md",
     "Coding/Courses/DevOps/MS Azure Fundamentals/Cloud Concepts.md",
     "shared-responsibility.svg",
-    "Coding/Courses/Intro to SQL/Aggregate Functions.md",
-    "Coding/Courses/Intro to SQL/Sorting.md",
-    "Coding/Courses/Intro to SQl/WHERE vs. HAVING.md",
-    "Coding/Courses/Intro to SQL/Writing Queries.md",
-    "Coding/Courses/Intro to SQL/Arithmetic and Aliasing.md",
-    "Coding/Courses/React.gg/Pure Functions.md",
     "Coding/Courses/Intro to SQL",
-    "Misc/A New System.md",
-    "Coding/Books/Mac Command Line/Command Line Shortcuts.md",
-    "Coding/Books/Mac Command Line/Creating shell scripts.md",
-    "Coding/Books/Mac Command Line/Misc.md",
-    "Coding/Courses/CSS For JS/Misc/Focus.md",
-    "Coding/Git/Head First Git/6. Collaboarting - 2.md",
-    "Coding/Courses/Git Bootcamp/Collaboration.md",
-    "Coding/LearnEnough/Git/Chapter 3 Branching & Merging.md",
-    "Coding/Courses/Git Bootcamp/Branches.md",
     "Coding/Courses/DevOps/MS Azure Fundamentals",
     "Coding/Courses/DevOps",
     "Coding/Courses/Harvard CS50X",
@@ -151,7 +151,6 @@
     "Coding/Courses/UI The Hard Parts",
     "Coding/Go/A Tour of Go",
     "Coding/Go",
-    "Coding/Books/TypeScript Cookbook",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",
     "Pasted image 20230503180129.png",

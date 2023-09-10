@@ -1,0 +1,2 @@
+- Your beliefs about how self control works become a self fulfilling prophecy.
+- You can gradually change your beliefs to become unlimited by _adopting effortless self control strategies_.
