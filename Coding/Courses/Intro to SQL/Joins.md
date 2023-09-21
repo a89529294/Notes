@@ -53,7 +53,7 @@ USING(country);
 _left join_, _right join_, _full outer join_
 
 ### left join
-Returns all records in the left table, and records in the right table that match on the joining field.
+Returns all records in the left table, and records in the right table that match on the joining field. Every row in A will show up 1 to many times.
 
 ```plsql
 SELECT *

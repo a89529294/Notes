@@ -15,7 +15,7 @@ These days, browser default **focus indicators are applied to `:focus-visible`
 ## : focus-within
 The **`:focus-within`** [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) [pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) matches an element if the element or any of its descendants are focused. In other words, it represents an element that is itself matched by the [`:focus`](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus) pseudo-class or has a descendant that is matched by `:focus`.
 
-## When does an element receieve :focus-visible
+## When does an element receive :focus-visible
 It depends on two things, *element type* and *input device* used to select the element.
 - If it is an `input` it receives `:focus-visible` no matter what the input device is.
 - For anything else, the element receives `:focus-visible` only when selected by a *non pointer device(not mouse/trackpad)*.

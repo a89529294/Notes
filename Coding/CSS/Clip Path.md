@@ -7,7 +7,7 @@
 	}
 ```
 - `clip-path:polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%)`, each pair refers to a point. The origin is at the top left of the element, `(0,0)`. `(50% 0%)` refers to 50% along the x-axis and 0% along the y-axis. For *x-axis*, right is positive. For *y-axis*, down is positive.
-- You can *animate* clip-path, but you need to make sure the *number* of points are the *same*. If you want to animate between clip-paths with *different* number of poitns, you need to duplicate some points. Below animates from a diamond to a triangle.
+- You can *animate* clip-path, but you need to make sure the *number* of points are the *same*. If you want to animate between clip-paths with *different* number of point[]()s, you need to duplicate some points. Below animates from a diamond to a triangle.
 ```css
 	.ele {
 		clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);

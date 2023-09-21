@@ -16,12 +16,12 @@ _execution order_
 `FROM` ->`JOIN/ON` -> `WHERE` -> `GROUP BY`  -> `HAVING` -> `SELECT` -> `ORDER BY` -> `LIMIT/OFFSET`
 
 ## explanation
-1. **FROM**: Specifies the tables or data sources from which data will be retrieved.
-2. **WHERE**: Filters rows based on conditions. This reduces the set of rows that will be considered for aggregation.
-3. **GROUP BY**: Groups the filtered rows into sets based on one or more columns. The grouping defines how the data will be aggregated.
-4. **HAVING**: Filters groups of rows based on aggregate values. Groups that don't meet the HAVING criteria are excluded. This is where you apply _aggregate functions_ to filter out groups.
-5. **SELECT**: Specifies which columns or expressions to include in the result set. This is where you apply _aggregate functions_ to perform calculations on the grouped data.
-6. **DISTINCT**: Removes duplicate rows from the result set.
-7. **ORDER BY**: Sorts the rows in the result set based on specified columns.
-8. **LIMIT/OFFSET (or FETCH/FIRST)**: Limits the number of rows returned and specifies a starting point within the sorted result set.
-9. **UNION/INTERSECT/EXCEPT**: Combines or compares result sets, if applicable.
+		1. **FROM**: Specifies the tables or data sources from which data will be retrieved.
+1. **WHERE**: Filters rows based on conditions. This reduces the set of rows that will be considered for aggregation.
+2. **GROUP BY**: Groups the filtered rows into sets based on one or more columns. The grouping defines how the data will be aggregated.
+3. **HAVING**: Filters groups of rows based on aggregate values. Groups that don't meet the HAVING criteria are excluded. This is where you apply _aggregate functions_ to filter out groups.
+4. **SELECT**: Specifies which columns or expressions to include in the result set. This is where you apply _aggregate functions_ to perform calculations on the grouped data.
+5. **DISTINCT**: Removes duplicate rows from the result set.
+6. **ORDER BY**: Sorts the rows in the result set based on specified columns.
+7. **LIMIT/OFFSET (or FETCH/FIRST)**: Limits the number of rows returned and specifies a starting point within the sorted result set.
+8. **UNION/INTERSECT/EXCEPT**: Combines or compares result sets, if applicable.
