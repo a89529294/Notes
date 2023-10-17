@@ -1,39 +1,17 @@
-**Day 1: Lower Body Strength and Mobility**
+**Warm-up (2 minutes):**
 
-1. Bodyweight Squats: 3 sets of 12-15 reps
-2. Glute Bridges: 3 sets of 12-15 reps
-3. Single-Leg Glute Bridges: 3 sets of 10 reps per leg
-4. Hamstring Stretch: Hold for 30 seconds per leg
+1. **Jumping Jacks:** 1 minute Perform jumping jacks to elevate your heart rate and warm up your entire body.
+2. **Bodyweight Squats:** 1 minute Perform bodyweight squats to warm up your leg muscles and prepare for the workout.
+    
+**Workout Routine (11 minutes):** Perform each exercise for 1 minute, and then move on to the next exercise without rest. Rest for 1 minute at the end of the circuit, and then repeat the circuit once or twice depending on your fitness level.
 
-**Day 2: Core Strength and Stability**
+1. **Bodyweight Deadlifts:** Stand with your feet hip-width apart. Hinge at your hips and bend your knees slightly, lowering your torso toward the ground while keeping your back straight. Imagine you are holding a barbell as you perform the movement.
+2. **Glute Bridges:** Lie on your back with your knees bent and feet flat on the ground. Lift your hips toward the ceiling, squeezing your glutes at the top of the movement.
+3. **Single-Leg Romanian Deadlifts:** Stand on one leg, hinge at your hips, and lower your torso toward the ground while extending your opposite leg backward for balance. Return to the starting position and switch legs after 30 seconds.
+4. **Push-Ups:** Perform push-ups to strengthen your chest, shoulders, and triceps. Modify by doing knee push-ups if needed.
+5. **Plank:** Hold a plank position with your body in a straight line from head to heels. Engage your core muscles and hold the position.
+    
+**Cool Down (2 minutes):**
 
-1. Planks: 3 sets, aiming to hold each plank for 30-60 seconds
-2. Supermans: 3 sets of 12-15 reps
-3. Prone Cobra: 3 sets of 12-15 reps
-4. Hip Flexor Stretch: Hold for 30 seconds per leg
-
-**Day 3: Rest or Light Activity**
-
-**Day 4: Upper Body and Thoracic Mobility**
-
-1. Thoracic Extension Exercises (using a foam roller or towel): 3 sets, holding each extension for 20-30 seconds
-2. Push-ups: 3 sets of 10-12 reps (for overall upper body strength)
-3. Balance Exercises (e.g., single-leg stands or yoga poses): 10-15 minutes
-
-**Day 5: Core and Balance**
-
-1. Planks: 3 sets, aiming to hold each plank for 30-60 seconds
-2. Side Planks: 3 sets of 20-30 seconds per side
-3. Balance Exercises (e.g., single-leg stands or yoga poses): 10-15 minutes
-
-**Day 6: Rest or Light Activity**
-
-**Day 7: Full-Body Mobility and Stretching**
-
-1. Hip Flexor Stretch: Hold for 30 seconds per leg
-2. Hamstring Stretch: Hold for 30 seconds per leg
-3. Quadriceps Stretch: Hold for 30 seconds per leg
-4. Calf Stretch: Hold for 30 seconds per leg
-5. Full-Body Stretch Routine: Spend 15-20 minutes stretching all major muscle groups.
-
-Remember to warm up with light cardio or dynamic stretches before each workout, and cool down with static stretches after your workouts. Listen to your body, and if you experience any pain or discomfort, modify exercises or seek guidance from a fitness professional. As you progress, you can adjust the number of sets and repetitions to suit your fitness level and goals. Consistency and proper form are key to seeing improvements in your deadlift over time.
+1. **Child's Pose:** 1 minute Sit back on your heels, stretch your arms forward, and lower your chest toward the ground to stretch your back and shoulders.
+2. **Seated Forward Bend:** 1 minute Sit with your legs extended straight in front of you. Reach your arms forward and lower your chest toward your thighs to stretch your hamstrings and lower back.

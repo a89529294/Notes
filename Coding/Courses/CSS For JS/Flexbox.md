@@ -33,4 +33,3 @@ flex-basis: 0;
 6. When there is a conflict between layout modes, **positioned layout always wins.**
 7. _Margin collapse is exclusive to Flow layout._ It doesn't happen when elements are laid out inside a flexbox parent.
 8. CSS is comprised of layout modes, and each layout mode decides what each property should do. *Positioned*, *Flexbox*, and *Grid* all implement *support for z-index*. Flow layout does not.
-9. 

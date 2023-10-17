@@ -3,13 +3,13 @@
 #### Applicable to grid items
 - *justify-items* 
 	- aligns grid **items** horizontally within their cells. 
-    - `justify-items: stretch;` is the **default**.
+	- `justify-items: stretch;` is the **default**.
 - *align-items* 
 	- aligns grid **items** vertically within their cells. 
 	- `align-items: stretch;` is the **default**.
 - *place-items* combines **align-items** and **justify-items** in one property. 
 	- `place-items: <align-dir> <justify-dir>`
-    - `place-items: center stretch;` 
+	- `place-items: center stretch;` 
 	- `place-items: center;` is equivalent to `place-items: center center;`
 
 #### Applicable to grid tracks(made up of grid cells)
