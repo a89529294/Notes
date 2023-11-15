@@ -36,7 +36,7 @@ SELECT name
 FROM films
 WHERE language = 'Spanish';
 ```
-Note: strings _MUST_ be enclosed in single quotes `''`. 
+Note: strings _MUST_ be enclosed in single quotes `''`.  If you use double quotes, it means whatever's enclosed must be a identifier, like a column name.
 
 ## multiple criteria
 _OR_, _AND_, _BETWEEN_, _IN_, _NOT IN_

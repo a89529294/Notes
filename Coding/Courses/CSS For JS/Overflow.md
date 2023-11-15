@@ -17,7 +17,7 @@ Note `overflow: hidden;` is identical to `overflow: scroll;` but with the scroll
 ## overflow and positioned elements
 - *Absolutely-positioned* elements act just like static-positioned elements when it comes to overflow, _as long as that parent with overflow:auto/scroll is the containing block_.
 - Using this we can have an *absolute element pop out of scroll container!
-- Same thing applies to `fixed` elements, as long as the containing scroll container acts as a *containg block*. We can make the scroll container into one by applying `will-change: transform;` refer to [[Rendering Logic Positioned Layout]]
+- Same thing applies to `fixed` elements, as long as the containing scroll container acts as a *containing block*. We can make the scroll container into one by applying `will-change: transform;` refer to [[Rendering Logic Positioned Layout]]
 
 The trick is the `.scroll-container` is a non positioned element. The element we wish to pop out is *absolutely positioned*. Just add a *positioned* wrapper around the `.scroll-container`, then the `.tooltip` will be popped out and anchored to the *positioned* wrapper.
 ```html

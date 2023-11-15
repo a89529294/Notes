@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/work out.md",
+                "file": "Coding/Misc./Setting up Google Embed Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "google map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/work out.md",
+                "file": "Coding/Misc./Setting up Google Embed Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,33 +138,33 @@
   },
   "active": "71f1080023470935",
   "lastOpenFiles": [
+    "Coding/NextJS/How to View App on Phone.md",
+    "Coding/CSS/sticky position.md",
+    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
+    "Coding/React/Portal.md",
+    "Coding/Courses/CSS For JS/Overflow.md",
+    "Coding/Courses/CSS For JS/Typography.md",
+    "Coding/CSS/table styles.md",
+    "Coding/Misc./View App on Mobile.md",
+    "Coding/Courses/CSS For JS/Misc/background property.md",
+    "Coding/Courses/CSS For JS/Containing Block.md",
+    "Coding/NextJS/Specify port.md",
+    "Coding/HTML/Mouseenter vs Mouseover.md",
+    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
+    "Coding/Courses/Intro to SQL/Sorting.md",
+    "Coding/Courses/Intro to SQL/Querying Data.md",
+    "Coding/Courses/Intro to SQL/Writing Queries.md",
+    "Coding/Courses/Intro to SQL/Set Theory for SQL Joins.md",
+    "Coding/Courses/Intro to SQL/Execution Order.md",
+    "Coding/Courses/Intro to SQL/Arithmetic and Aliasing.md",
+    "Coding/Courses/Intro to SQL/Aggregate Functions.md",
+    "Coding/Misc./Pause JS in browser.md",
+    "Coding/Courses/CSS For JS/Misc/gradients/Conic Gradients.md",
+    "Misc/work out.md",
     "Coding/Misc./CORS.md",
     "Coding/NextJS/font/Google Fonts in NextJS.md",
     "Coding/NextJS/font/local fonts.md",
     "Coding/NextJS/font",
-    "Coding/Courses/CSS For JS/Fonts.md",
-    "Coding/CSS/Hide up down arrows on input type number.md",
-    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/Git/Head First Git/7. Searching Git Repo.md",
-    "Coding/CSS/Flex.md",
-    "Coding/Courses/Intro to SQL/Execution Order.md",
-    "Coding/Courses/Intro to SQL/Aggregate Functions.md",
-    "Coding/Courses/Intro to SQL/Joins.md",
-    "Coding/SQL/JOINS.md",
-    "Coding/Courses/Intro to SQL/Writing Queries.md",
-    "Coding/SQL/SQL.md",
-    "Coding/Misc./Debounce Vs Throttle.md",
-    "Coding/CSS/Clip Path.md",
-    "Coding/Courses/CSS For JS/3D Transforms.md",
-    "Coding/Courses/Intro to SQL/Sub Queries.md",
-    "Coding/Courses/CSS For JS/Misc/Focus.md",
-    "Coding/Courses/Intro to SQL/Querying Data.md",
-    "Coding/SQL/SQL Statement Evaluation Order.md",
-    "Coding/SQL/Relational Data Model (RDM).md",
-    "Readings/Ultra Learning/3. Directness.md",
-    "Readings/Ultra Learning/2. Focus.md",
-    "Readings/Ultra Learning/Nine Principles of Ultra Learning.md",
     "Readings/Ultra Learning",
     "Purpose/Self-Control",
     "shared-responsibility.svg",
