@@ -8,7 +8,7 @@ declare module "@tanstack/react-table" {
 	}
 }
 
-// or th ir not using shadcn
+// or th if not using shadcn
 <Tablehead
 ...
 style={{
@@ -50,4 +50,10 @@ export const emailsColumns: ColumnDef<(typeof fakeData)[number]>[] = [
 		cell: ()=><div className='pr-4'>...</div>
 	}
 ]
+```
+
+
+## make last cell take up all remaining space
+```tsx
+<td className='last-of-type:w-full'>...</td>
 ```

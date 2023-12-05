@@ -1,5 +1,10 @@
-We've discovered that types represent **sets of values**. Just like sets, types can include other types and we call this relationship **subtyping**.
+We've discovered that types represent **sets of values**. Just like sets, types can include other types and we call this relationship **sub typing**.
 
+The definitive answer is that **objects with more properties are assignable to objects with fewer properties**, but in contexts where **objects are defined inline**, TypeScript has **extra rules** to make sure we don't mistakenly assign props that we couldn't use afterward because our types would forbid us to do so.
+
+This means that you have absolutely **no guarantee** that an object of some type **does not contain** extra props. An object type is the set of objects with **at least** all properties it defines. This is why `Object.keys(...)` returns a `string[]` and not a `(keyof Obj)[]`.
+
+## Reading Property Type
 ```ts
 type User = { name: string; age: number; isAdmin: boolean };
 
@@ -7,9 +12,11 @@ type User = { name: string; age: number; isAdmin: boolean };
 type NameOrAge = User["name" | "age"];
 type NameOrAge = User["name"] | User["age"];
 ```
-If we write `User["name" | "age"]`, TS will find all keys assignable to the type `"name" | "age"` and return their value types.
+The **real reason** why it's possible to read several properties at once using a union type is because the **type** level expression `User["name"]` and the value level expression `user["name"]` **work differently**. Instead of finding the key equal to `"name"` in the type `User`, TypeScript tries to find **every key** in `User` that is **assignable** to the type `"name"`!
 
-## keyof and ValueOf
+If we write `User["name" | "age"]`, TS will find all keys assignable to the type `"name" | "age"` and return the union of their value types.
+
+## `keyof` and `ValueOf`
 ```ts
 type User = {
   name: string;

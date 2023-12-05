@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d47275f64e04cfde",
+        "id": "6abbf9052b0ba9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "bb813fa7d9efc198",
+            "id": "42f8516ed1c8115b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Node/Intro_to_Node_MS/npx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71f1080023470935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Misc./Setting up Google Embed Map.md",
+                "file": "Coding/Books/Head First Python/chapter 0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "google map",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Misc./Setting up Google Embed Map.md",
+                "file": "Coding/Books/Head First Python/chapter 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,34 +122,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "71f1080023470935",
+  "active": "42f8516ed1c8115b",
   "lastOpenFiles": [
+    "Coding/Books/Head First Python/Setup.md",
+    "Coding/Books/Head First Python/chapter 0.md",
+    "Coding/Brew/update formula.md",
+    "Coding/Brew/index.md",
+    "Coding/CSS/table styles.md",
+    "Coding/Books/Head First Python",
+    "Coding/Courses/CSS For JS/Typography.md",
+    "Coding/CSS/disable autofill style change.md",
+    "Coding/Courses/Type Level TypeScript/Objects and Records.md",
+    "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
+    "Coding/Courses/Type Level TypeScript/Misc.md",
+    "Coding/Courses/Type Level TypeScript/Types are just data.md",
+    "Coding/Courses/CSS For JS/Rendering Logic Flow Layout.md",
+    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
+    "Coding/Courses/CSS For JS/Overflow.md",
+    "Coding/Node/Intro_to_Node_MS/npx.md",
+    "Coding/CSS/Element Scroll.md",
+    "Coding/NextJS/Initializing NextJS with Shadcn.md",
+    "Coding/Misc./Setting up Google Embed Map.md",
     "Coding/NextJS/How to View App on Phone.md",
     "Coding/CSS/sticky position.md",
-    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Coding/React/Portal.md",
-    "Coding/Courses/CSS For JS/Overflow.md",
-    "Coding/Courses/CSS For JS/Typography.md",
-    "Coding/CSS/table styles.md",
     "Coding/Misc./View App on Mobile.md",
     "Coding/Courses/CSS For JS/Misc/background property.md",
     "Coding/Courses/CSS For JS/Containing Block.md",
     "Coding/NextJS/Specify port.md",
     "Coding/HTML/Mouseenter vs Mouseover.md",
-    "Coding/LearnEnough/CSS/Grid/Auto-fit vs. Auto-fill.md",
-    "Coding/Courses/Intro to SQL/Sorting.md",
-    "Coding/Courses/Intro to SQL/Querying Data.md",
-    "Coding/Courses/Intro to SQL/Writing Queries.md",
-    "Coding/Courses/Intro to SQL/Set Theory for SQL Joins.md",
-    "Coding/Courses/Intro to SQL/Execution Order.md",
-    "Coding/Courses/Intro to SQL/Arithmetic and Aliasing.md",
-    "Coding/Courses/Intro to SQL/Aggregate Functions.md",
-    "Coding/Misc./Pause JS in browser.md",
-    "Coding/Courses/CSS For JS/Misc/gradients/Conic Gradients.md",
-    "Misc/work out.md",
-    "Coding/Misc./CORS.md",
-    "Coding/NextJS/font/Google Fonts in NextJS.md",
-    "Coding/NextJS/font/local fonts.md",
     "Coding/NextJS/font",
     "Readings/Ultra Learning",
     "Purpose/Self-Control",
@@ -174,7 +161,6 @@
     "Coding/Courses/Harvard CS50X",
     "Coding/Courses/PlanetScale MySQL",
     "Coding/Courses/UI The Hard Parts",
-    "Coding/Go/A Tour of Go",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",
     "Pasted image 20230503180129.png",
