@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6abbf9052b0ba9bf",
+        "id": "48b12b91dfa527c7",
         "type": "tabs",
         "children": [
           {
-            "id": "42f8516ed1c8115b",
+            "id": "79410aac95af8a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Books/Head First Python/chapter 0.md",
+                "file": "Coding/Courses/Type Level TypeScript/Recursive Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Books/Head First Python/chapter 0.md",
+                "file": "Coding/Courses/Type Level TypeScript/Recursive Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,20 +122,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "42f8516ed1c8115b",
+  "active": "79410aac95af8a3f",
   "lastOpenFiles": [
-    "Coding/Books/Head First Python/Setup.md",
+    "Coding/Courses/Type Level TypeScript/Arrays and Tuples.md",
+    "Coding/Courses/Type Level TypeScript/Recursive Types.md",
+    "Coding/Courses/Type Level TypeScript/Code Branching with Conditional Types.md",
+    "Coding/Courses/Type Level TypeScript/Objects and Records.md",
+    "Coding/Courses/Type Level TypeScript/Types are just data.md",
+    "narrowing input types with type constraints.md",
+    "Coding/TypeScript/Function Assignability.md",
+    "Coding/Courses/Grokking the Coding Interview/Two Pointers.md",
+    "Coding/Courses/ThreeJS Journey/03 From Scratch.md",
+    "Coding/Courses/Grokking the Coding Interview",
+    "Coding/Courses/ThreeJS Journey",
     "Coding/Books/Head First Python/chapter 0.md",
+    "Coding/Books/Head First Python/Setup.md",
     "Coding/Brew/update formula.md",
     "Coding/Brew/index.md",
     "Coding/CSS/table styles.md",
     "Coding/Books/Head First Python",
     "Coding/Courses/CSS For JS/Typography.md",
     "Coding/CSS/disable autofill style change.md",
-    "Coding/Courses/Type Level TypeScript/Objects and Records.md",
     "Coding/TypeScript/{} vs object vs Record<string, never> vs unknown.md",
     "Coding/Courses/Type Level TypeScript/Misc.md",
-    "Coding/Courses/Type Level TypeScript/Types are just data.md",
     "Coding/Courses/CSS For JS/Rendering Logic Flow Layout.md",
     "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
     "Coding/Courses/CSS For JS/Overflow.md",
@@ -144,13 +153,6 @@
     "Coding/NextJS/Initializing NextJS with Shadcn.md",
     "Coding/Misc./Setting up Google Embed Map.md",
     "Coding/NextJS/How to View App on Phone.md",
-    "Coding/CSS/sticky position.md",
-    "Coding/React/Portal.md",
-    "Coding/Misc./View App on Mobile.md",
-    "Coding/Courses/CSS For JS/Misc/background property.md",
-    "Coding/Courses/CSS For JS/Containing Block.md",
-    "Coding/NextJS/Specify port.md",
-    "Coding/HTML/Mouseenter vs Mouseover.md",
     "Coding/NextJS/font",
     "Readings/Ultra Learning",
     "Purpose/Self-Control",
@@ -159,8 +161,6 @@
     "Coding/Courses/DevOps/MS Azure Fundamentals",
     "Coding/Courses/DevOps",
     "Coding/Courses/Harvard CS50X",
-    "Coding/Courses/PlanetScale MySQL",
-    "Coding/Courses/UI The Hard Parts",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",
     "Pasted image 20230503180129.png",
