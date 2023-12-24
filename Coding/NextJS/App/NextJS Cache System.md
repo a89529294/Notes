@@ -1,0 +1,4 @@
+- _Request memoization_: only applies for the duration of a users request to your server. If you are rendering two different components (to respond to the same request) and they each call a memoized function, only one of the two calls will actually call the function - the other will get the memoized data.
+- _Data cache_: is persisted across user's requests. If User A makes a request to your server and some data gets cached, then User B makes a request, User B will end up using some of the same data that User A did.
+- _Router cache_: The React Server Component Payload is stored in the client-side [Router Cache](https://nextjs.org/docs/app/building-your-application/caching#router-cache) - a separate in-memory cache, split by individual route segment. This Router Cache is used to improve the navigation experience by storing previously visited routes and prefetching future routes.
+- _Full route cache_: At build time, NextJS decides if each route is static or dynamic.

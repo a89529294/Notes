@@ -1,0 +1,2 @@
+- Composed of _vertices_(point coordinates in 3d space) and _faces_(triangles that join vertices to create surfaces)
+- Can be used for meshes but also for particles
