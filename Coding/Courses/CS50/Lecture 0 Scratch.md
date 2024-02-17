@@ -1,0 +1,1 @@
+- binary digit = bit = 0 or 1

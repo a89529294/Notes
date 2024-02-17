@@ -1,0 +1,2 @@
+_Executable files_ are just programs that you can run on your computer.
+Files with a `.sh` extension are [shell scripts](https://en.wikipedia.org/wiki/Shell_script). They're just text files that contain shell commands. You can run a file in your shell by just typing its file path.

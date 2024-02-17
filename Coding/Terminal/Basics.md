@@ -2,3 +2,4 @@
 - `chsh -s $(which zsh)` set zsh shell as default shell
 - `sudo lsof -i :3000` find process on port 3000
 - `kill -9 <PID>` kill process using PID
+- `which sh` The `which` command tells you the location of an installed command line program.

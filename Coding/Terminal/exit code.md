@@ -1,0 +1,3 @@
+- `0` means _success_
+- anything else means _error_
+- `echo $?` prints out last program's exit code

@@ -1,7 +1,7 @@
+Make sure to put the `screens` object outside of `extend`!
 ```js
 module.exports = {
 	theme: {
-		extend: {},
 		screens: {
 			xl: { max: "1279px" },
 			// => @media (max-width: 1279px) { ... }
