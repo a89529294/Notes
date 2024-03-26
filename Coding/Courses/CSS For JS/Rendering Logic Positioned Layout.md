@@ -25,7 +25,7 @@ It is positioned relative to the initial [containing block](https://developer.m
 
 In many ways, “fixed” can be thought of as _spicy absolute_. It's very similar in principle — it's taken out-of-flow and positioned according to some sort of parent boundary — but the boundary it uses is different. Instead of the closest non-static ancestor, it listens to the _“initial containing block”_, a box the size and position of the viewport.
 
-If we don't set an anchor point(no top/right etc), **they sit in their in-flow position**. 
+If we don't set an anchor point(no top/right etc), **they sit in their in-flow position**.
 	
 ## sticky positioning
 - The element is positioned according to the normal flow of the document, and then offset relative to its _nearest scrolling ancestor_ and nearest block-level ancestor.

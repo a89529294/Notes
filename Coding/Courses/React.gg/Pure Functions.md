@@ -1,9 +1,17 @@
 A **function** as a process which takes some input, an argument, and calculates some output, a return value.
-
 A **pure function** is one that given the same input, always return the same output and does nothing else.
 
-Any time a function does **anything** other than this, whether through *relying on state other than the input value* it receives or *creating an observable change to the program* itself, it's said to have a side effect.
+### What makes a function unpredictable?
+**Side effects** and **inconsistent outputs.** 
 
+#### Side Effects
+Whether through *relying on state other than the input value* it receives or *creating an observable change to the program* itself, it's said to have a __side effect__. 
+
+#### Inconsistent outputs
+1. If a function doesn't have a return value, it's unpredictable.
+2. Given the same input, doesn't consistently return the same output, it's also unpredictable.
+
+### Conclusion
 More specifically, a _pure function_ satisfies the following:
 1. Return the same result given the same arguments.
 2. Do not change the external state of the program.

@@ -1,1 +1,1 @@
-If different pieces of state update independently from one another (`hovering`, `selected`, etc.), `useState` should work fine. If your state tends to be updated together or if updating one piece of state is based on another piece of state, go with `useReducer`.
+If different pieces of state update independently from one another (`hovering`, `selected`, etc.), `useState` should work fine. If your state tends to be _updated together_ or if _updating one piece of state is based on another piece of state_, go with `useReducer`.

@@ -1,0 +1,2 @@
+A _reactive value_ is any value that can _change between re-renders_. 
+__Props, state, or any variables defined inside of a component__ are all _reactive values_ – and therefore, always _need to be included in the dependency array_ if they're used in the effect.
