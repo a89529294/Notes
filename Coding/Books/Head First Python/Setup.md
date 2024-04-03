@@ -1,2 +1,0 @@
-- `which python` shows where python is installed, since I'm using pyenv you need the next command to know the exact location.
-- `pyenv which python` 
