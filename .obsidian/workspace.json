@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "efa30248df789dd0",
+        "id": "7da57bed108367c6",
         "type": "tabs",
         "children": [
           {
-            "id": "4a9d08546a6e761d",
+            "id": "a3b63c9b3564eafe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/React/react.dev/contexts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7956f48cca20d10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Books/Advanced React/Chapter 10 Closure trick.md",
+                "file": "Coding/Courses/Web Auth/autocomplete attribute.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "branch",
+                "query": "valueof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Books/Advanced React/Chapter 10 Closure trick.md",
+                "file": "Coding/Courses/Web Auth/autocomplete attribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,44 +124,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b7956f48cca20d10",
+  "active": "a3b63c9b3564eafe",
   "lastOpenFiles": [
-    "Coding/Books/Advanced React/Chapter 9 Refs.md",
-    "Coding/Books/Advanced React/Chapter 10 Closure trick.md",
-    "Coding/React/react.dev/rules of hooks.md",
-    "Coding/React/react.dev/contexts.md",
-    "Coding/React/react.dev/React calls component and hooks.md",
-    "Coding/React/react.dev/components and hooks must be pure.md",
-    "Coding/Books/Learning Go/Chapter 1.md",
+    "Coding/Courses/Type Level TypeScript/Objects and Records.md",
+    "Coding/Courses/Web Auth/autocomplete attribute.md",
+    "Coding/Courses/Web Auth/Ways of Authenticating.md",
+    "Coding/Courses/Web Auth/Overview.md",
+    "Coding/Courses/Web Auth/Enhanced Login Form.md",
+    "Coding/Courses/Web Auth/Ways of implementing authentication.md",
+    "Work/golf.md",
+    "Coding/Misc./HTTPS.md",
+    "Coding/Courses/Web Auth/web otp.md",
+    "Coding/Courses/Aalto Full Stack Web/code repo.md",
+    "Coding/Courses/Aalto Full Stack Web/Hono bascis.md",
+    "Coding/Courses/Aalto Full Stack Web/Deploying on deno.md",
+    "Coding/Courses/Aalto Full Stack Web/How does browser resolve img src.md",
+    "Coding/framer motion/layout animation/layout group.md",
+    "Coding/framer motion/layout animation/drag to reorder.md",
+    "Coding/framer motion/layout animation/layout animation fundamentals.md",
+    "Coding/framer motion/layout animation/layout prop.md",
+    "Coding/framer motion/layout animation/fixing distortions.md",
+    "Coding/framer motion/layout animation",
+    "Coding/Courses/CSS For JS/Grid.md",
+    "Coding/CSS/Grid/Gird Misc..md",
+    "Coding/framer motion/orchestration.md",
+    "Coding/framer motion/variants.md",
+    "Coding/framer motion/motion values.md",
+    "Coding/framer motion/svg animation.md",
+    "Coding/framer motion/gestures.md",
+    "Coding/framer motion/basics.md",
+    "Coding/framer motion",
+    "Coding/Courses/Aalto Full Stack Web",
+    "Coding/tanstack router",
     "Coding/React/react.dev/components and hooks must be pure",
     "Coding/React/react.dev",
-    "Coding/Books/Advanced React/Chapter 7 Higher Order Components.md",
     "Coding/Books/Learning Go",
-    "Coding/Boot.dev/Continuous Integration.md",
     "Coding/Books/Advanced React",
-    "Coding/Git/Head First Git/2. Branches.md",
     "Coding/Boot.dev",
-    "Coding/Courses/CSS For JS/Stacking Context.md",
-    "Coding/Database/postgresql.md",
-    "Coding/Postgresql/Basic Commands.md",
     "Coding/Database",
-    "Coding/Postgresql/Connection.md",
-    "Coding/Postgresql/Setup.md",
-    "Coding/Deployment/Deployment From Scratch/Chapter 2 Bird's Eye.md",
-    "Coding/Deployment/Deployment From Scratch/Chapter 3 Operating Systems.md",
-    "Coding/Deployment/Overview.md",
-    "Coding/Terminal/show processes with highest cpu usage.md",
-    "Coding/Books/Mac Command Line/Running Programs.md",
-    "Coding/Terminal/killing a program.md",
-    "Coding/Courses/React.gg/useEffectEvent.md",
-    "Coding/Courses/CSS For JS/Misc/Focus.md",
-    "Coding/Courses/React.gg/useReducer vs. useState.md",
-    "Coding/Courses/React.gg/What needs to be put in an dependency array?.md",
-    "Coding/Courses/React.gg/Managing Effects.md",
-    "Coding/Courses/CS50",
-    "Untitled",
-    "Coding/NextJS/App/NextAuth",
-    "Coding/Courses/Grokking the Coding Interview",
     "shared-responsibility.svg",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",

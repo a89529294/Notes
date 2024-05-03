@@ -1,0 +1,7 @@
+### custom
+This is when you build your own authentication system. It involves creating a database to store user credentials, writing code to handle registration, login, password reset, etc. While this gives you full control over the authentication process, it also means you are responsible for security considerations such as password hashing and secure transmission of data. An example of this would be a traditional username/password system implemented with a backend database.
+
+### identity providers 
+This is when you use a third-party service to authenticate users. The user logs in with the third-party service (like Google, Facebook, or Twitter), and that service confirms the user’s identity to your application. This is also known as Social Login or Single Sign-On (SSO). It reduces the burden of managing user credentials but requires trust in the third-party provider. Examples include logging in with your Google or Facebook account.
+### identity as a service
+This is a cloud-based service that provides identity and access management functions to your applications. These services handle user authentication, including user provisioning, password resets, multi-factor authentication, and more. They provide APIs that you can use to integrate their services into your application. This allows you to offload the complexity of managing user identities while maintaining control over your user experience. Examples of IDaaS providers include Okta, Auth0, and Azure Active Directory.

@@ -10,23 +10,6 @@ If the answer to both of these questions is "no", then Ref is okay to use.
 ### useImperativeHandle
 1. Decide how the imperative API will look like
 2. attach a ref to it
-
-Simply put, we are attaching the returned object from the second argument to `useImperatievHandle` to the first argument's `current` property.
-In other words, we can simply do 
-```js
-React.useEffect(()=>{
-	apiRef.current = {
-		focus: () => {
-			inputRef.current?.focus();
-	      },
-	    shake: () => {
-	        setShouldShake(true);
-	      },
-	}
-},[apiRef])
-```
-
-
 ```tsx
 type Api = {
   focus: () => void;
@@ -91,6 +74,21 @@ const Form = () => {
     </form>
   );
 };
+```
+
+Simply put, we are attaching the returned object from the second argument to `useImperatievHandle` to the first argument's `current` property.
+In other words, we can simply do if we don't want to use `useImperativeHandle`
+```js
+React.useEffect(()=>{
+	apiRef.current = {
+		focus: () => {
+			inputRef.current?.focus();
+	      },
+	    shake: () => {
+	        setShouldShake(true);
+	      },
+	}
+},[apiRef])
 ```
 
 ### usePrevious
