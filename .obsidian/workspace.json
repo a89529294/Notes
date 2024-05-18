@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/Web Auth/autocomplete attribute.md",
+                "file": "Coding/Courses/CSS For JS/Grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valueof",
+                "query": "grid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/Web Auth/autocomplete attribute.md",
+                "file": "Coding/Courses/CSS For JS/Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +127,12 @@
   },
   "active": "a3b63c9b3564eafe",
   "lastOpenFiles": [
-    "Coding/Courses/Type Level TypeScript/Objects and Records.md",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md",
+    "Coding/Courses/CSS Grid & Layout Techniques/Grid Basics.md",
     "Coding/Courses/Web Auth/autocomplete attribute.md",
+    "Coding/Courses/Untitled/Untitled",
+    "Coding/Courses/CSS Grid & Layout Techniques",
+    "Coding/Courses/Type Level TypeScript/Objects and Records.md",
     "Coding/Courses/Web Auth/Ways of Authenticating.md",
     "Coding/Courses/Web Auth/Overview.md",
     "Coding/Courses/Web Auth/Enhanced Login Form.md",
@@ -151,8 +156,6 @@
     "Coding/framer motion/variants.md",
     "Coding/framer motion/motion values.md",
     "Coding/framer motion/svg animation.md",
-    "Coding/framer motion/gestures.md",
-    "Coding/framer motion/basics.md",
     "Coding/framer motion",
     "Coding/Courses/Aalto Full Stack Web",
     "Coding/tanstack router",
@@ -160,8 +163,6 @@
     "Coding/React/react.dev",
     "Coding/Books/Learning Go",
     "Coding/Books/Advanced React",
-    "Coding/Boot.dev",
-    "Coding/Database",
     "shared-responsibility.svg",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",
