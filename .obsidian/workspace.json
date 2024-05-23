@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3b63c9b3564eafe",
+            "id": "17fa32ca3125909e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Grid.md",
+                "file": "Coding/Boot.dev/docker/docker basic commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/CSS For JS/Grid.md",
+                "file": "Coding/Boot.dev/docker/docker basic commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +124,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a3b63c9b3564eafe",
+  "active": "17fa32ca3125909e",
   "lastOpenFiles": [
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
+    "Coding/Boot.dev/docker/ghost image with volume.md",
+    "Coding/Boot.dev/docker/docker basic commands.md",
+    "Coding/Boot.dev/docker/misc.md",
+    "Coding/Boot.dev/docker/volumes.md",
     "Coding/Courses/CSS Grid & Layout Techniques/Grid Basics.md",
+    "Coding/Boot.dev/docker/docker images vs docker container.md",
+    "Coding/Courses/CSS For JS/Grid.md",
+    "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
+    "Coding/CSS/Grid/Gird Misc..md",
+    "Coding/Boot.dev/docker/starting docker.md",
+    "Coding/shadcnui/date picker enable  year month dropdown.md",
+    "Coding/Boot.dev/docker",
+    "Coding/shadcnui",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md",
     "Coding/Courses/Web Auth/autocomplete attribute.md",
     "Coding/Courses/Untitled/Untitled",
     "Coding/Courses/CSS Grid & Layout Techniques",
@@ -145,24 +156,12 @@
     "Coding/Courses/Aalto Full Stack Web/Deploying on deno.md",
     "Coding/Courses/Aalto Full Stack Web/How does browser resolve img src.md",
     "Coding/framer motion/layout animation/layout group.md",
-    "Coding/framer motion/layout animation/drag to reorder.md",
-    "Coding/framer motion/layout animation/layout animation fundamentals.md",
-    "Coding/framer motion/layout animation/layout prop.md",
-    "Coding/framer motion/layout animation/fixing distortions.md",
     "Coding/framer motion/layout animation",
-    "Coding/Courses/CSS For JS/Grid.md",
-    "Coding/CSS/Grid/Gird Misc..md",
-    "Coding/framer motion/orchestration.md",
-    "Coding/framer motion/variants.md",
-    "Coding/framer motion/motion values.md",
-    "Coding/framer motion/svg animation.md",
     "Coding/framer motion",
     "Coding/Courses/Aalto Full Stack Web",
     "Coding/tanstack router",
     "Coding/React/react.dev/components and hooks must be pure",
     "Coding/React/react.dev",
-    "Coding/Books/Learning Go",
-    "Coding/Books/Advanced React",
     "shared-responsibility.svg",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",

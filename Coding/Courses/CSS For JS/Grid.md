@@ -11,7 +11,7 @@
 - `align-content` applies to the grid structure, changing the rows height. Defaults to *stretch*.
 - `align-items` applies to the child elements within each cell, without affecting the shape of the grid. Defaults to *stretch*.
 - `align-self` applies to one child element.
-
+ 
 ## both directions
 - `place-content` combines `align-content` and `justify-content`.
 - `place-items` combines `align-items` and `justify-items`.
