@@ -1,0 +1,1 @@
+There's a wide variety of _Docker images_ available, including operating systems, databases, programming language runtimes, web servers, application frameworks, and more. Docker images can encapsulate virtually any software or environment, making them versatile for a variety of use cases. Here's a breakdown of what can become a Docker image:
