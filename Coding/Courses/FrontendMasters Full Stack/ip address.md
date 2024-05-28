@@ -1,0 +1,3 @@
+- `ipconfig getifaddr en0` gets you the internal ip address used in the network created by the router
+- `traceroute google.com` first entry's ip address gives you the router's internal ip address
+- `curl -4 https://icanhazip.com/` gives you the public ip address of your router

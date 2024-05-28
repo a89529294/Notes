@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7da57bed108367c6",
+        "id": "d451cdf7f2cdfee5",
         "type": "tabs",
         "children": [
           {
-            "id": "17fa32ca3125909e",
+            "id": "590c4d785478e362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Boot.dev/docker/docker basic commands.md",
+                "file": "Coding/Courses/FrontendMasters Full Stack/How to ssh into your server.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grid",
+                "query": "z-index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 511.5
   },
   "right": {
     "id": "8904194934255bee",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Boot.dev/docker/docker basic commands.md",
+                "file": "Coding/Courses/FrontendMasters Full Stack/How to ssh into your server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,44 +124,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "17fa32ca3125909e",
+  "active": "590c4d785478e362",
   "lastOpenFiles": [
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of updating and restarting a brand new server.md",
+    "Coding/Courses/FrontendMasters Full Stack/How to ssh into your server.md",
+    "Coding/Courses/FrontendMasters Full Stack/Notes on using a single ssh public & private key pair for all server access.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of buying domain name and connecting it to DigitalOcean server.md",
+    "Coding/Courses/FrontendMasters Full Stack/Buying domain name.md",
+    "Coding/Courses/FrontendMasters Full Stack/SSH vs HTTPS.md",
+    "Coding/Courses/FrontendMasters Full Stack/check website.md",
+    "Coding/Courses/FrontendMasters Full Stack/TCP vs UDP.md",
+    "Coding/Courses/FrontendMasters Full Stack/ip address.md",
+    "Coding/Courses/FrontendMasters Full Stack/vpn.md",
+    "Coding/Courses/Web Auth/Ways of Authenticating.md",
+    "Coding/Courses/FrontendMasters Full Stack/Vim.md",
+    "Coding/Courses/FrontendMasters Full Stack/Command Line.md",
+    "Coding/Boot.dev/crytography/basics.md",
+    "Coding/Courses/FrontendMasters Full Stack",
+    "Coding/Courses/CSS For JS/Stacking Context.md",
+    "Coding/Boot.dev/crytography",
+    "Coding/framer motion/layout animation/layout group.md",
+    "Coding/Boot.dev/docker/building go web server.md",
+    "Coding/Books/Advanced React/Chapter 7 Higher Order Components.md",
+    "Coding/Books/Advanced React/Misc.md",
+    "Coding/Boot.dev/docker/docker basic commands.md",
     "Coding/Boot.dev/docker/starting docker.md",
     "Coding/Boot.dev/docker/misc.md",
     "Coding/Courses/Aalto Full Stack Web/docker/basics.md",
     "Coding/Courses/Aalto Full Stack Web/docker/docker compose file.md",
     "Coding/Courses/Aalto Full Stack Web/docker/docker images.md",
     "Coding/Boot.dev/docker/building docker images.md",
-    "Coding/Courses/Aalto Full Stack Web/docker/running docker compose.md",
     "Coding/Courses/Aalto Full Stack Web/docker",
-    "Coding/Boot.dev/docker/docker basic commands.md",
-    "Coding/Boot.dev/docker/ghost image with volume.md",
-    "Coding/Boot.dev/docker/volumes.md",
-    "Coding/Courses/CSS Grid & Layout Techniques/Grid Basics.md",
-    "Coding/Boot.dev/docker/docker images vs docker container.md",
-    "Coding/Courses/CSS For JS/Grid.md",
-    "Coding/LearnEnough/CSS/Grid/Grid-template-areas & grid-area.md",
-    "Coding/CSS/Grid/Gird Misc..md",
-    "Coding/shadcnui/date picker enable  year month dropdown.md",
     "Coding/Boot.dev/docker",
     "Coding/shadcnui",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/Courses/Web Auth/autocomplete attribute.md",
     "Coding/Courses/Untitled/Untitled",
     "Coding/Courses/CSS Grid & Layout Techniques",
-    "Coding/Courses/Type Level TypeScript/Objects and Records.md",
-    "Coding/Courses/Web Auth/Ways of Authenticating.md",
-    "Coding/Courses/Web Auth/Overview.md",
-    "Coding/Courses/Web Auth/Enhanced Login Form.md",
-    "Coding/Courses/Web Auth/Ways of implementing authentication.md",
-    "Work/golf.md",
-    "Coding/Misc./HTTPS.md",
-    "Coding/Courses/Web Auth/web otp.md",
     "Coding/framer motion/layout animation",
     "Coding/framer motion",
     "Coding/Courses/Aalto Full Stack Web",
-    "Coding/tanstack router",
-    "Coding/React/react.dev/components and hooks must be pure",
     "shared-responsibility.svg",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",

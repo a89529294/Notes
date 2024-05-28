@@ -1,0 +1,1 @@
+acts as a middleman between your router and your ISP.
