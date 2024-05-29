@@ -1,0 +1,7 @@
+1. [buy domain name and connect it to server](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20buying%20domain%20name%20and%20connecting%20it%20to%20DigitalOcean%20server)
+2. [update then restart the new server](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20updating%20and%20restarting%20a%20brand%20new%20server)
+3. [setup nginx](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20configuring%20nginx)
+4. [install node](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowChart%20of%20installing%20nodejs%20on%20server)
+5. [setup app](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20setting%20up%20application)
+6. [connect nginx and node server](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20connecting%20nginx%20and%20node)
+7. [use pm2 to run out node app](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20enabling%20pm2)
