@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d451cdf7f2cdfee5",
+        "id": "06883f8c95ebba3a",
         "type": "tabs",
         "children": [
           {
-            "id": "590c4d785478e362",
+            "id": "50563aec6df1a302",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/FrontendMasters Full Stack/nginx config file for serving react and node.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b5bc610bcb68165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling pm2.md",
+                "file": "Coding/Courses/FrontendMasters Full Stack/IMPORTANT Overview flowchart of how to setup your own server.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 553.5
   },
   "right": {
     "id": "8904194934255bee",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/FrontendMasters Full Stack/nginx config file for serving react and node.md",
+                "file": "Coding/Courses/FrontendMasters Full Stack/IMPORTANT Overview flowchart of how to setup your own server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,19 +124,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "590c4d785478e362",
+  "active": "50563aec6df1a302",
   "lastOpenFiles": [
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling pm2.md",
-    "Coding/Courses/FrontendMasters Full Stack/nginx config file for serving react and node.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of connecting nginx and node.md",
-    "Coding/Courses/FrontendMasters Full Stack/How to ssh into your server.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of adding websocket.md",
     "Coding/Courses/FrontendMasters Full Stack/IMPORTANT Overview flowchart of how to setup your own server.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of connecting nginx and node.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of adding a subdomain.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling pm2.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of CI CD.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of keeping packages up to date.md",
+    "Coding/Courses/FrontendMasters Full Stack/find & grep.md",
+    "Coding/Courses/FrontendMasters Full Stack/log files on linux.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of firewall, nmap, ufw.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of updating and restarting a brand new server.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of setting up application.md",
     "Coding/Courses/FrontendMasters Full Stack/FlowChart of installing nodejs on server.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of configuring nginx.md",
-    "Coding/Courses/FrontendMasters Full Stack/Anatomy of nginx config file.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of updating and restarting a brand new server.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of buying domain name and connecting it to DigitalOcean server.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of configuring nginx.md",
+    "Coding/Courses/FrontendMasters Full Stack/nginx config file for serving react and node.md",
+    "Coding/Courses/FrontendMasters Full Stack/Anatomy of nginx config file.md",
+    "Coding/Courses/FrontendMasters Full Stack/How to ssh into your server.md",
     "Coding/Boot.dev/docker/building go web server.md",
     "Coding/Boot.dev/docker/The deployment process.md",
     "Coding/Courses/FrontendMasters Full Stack/Notes on using a single ssh public & private key pair for all server access.md",
@@ -157,15 +152,8 @@
     "Coding/Courses/FrontendMasters Full Stack/check website.md",
     "Coding/Courses/FrontendMasters Full Stack/TCP vs UDP.md",
     "Coding/Courses/FrontendMasters Full Stack/ip address.md",
-    "Coding/Courses/FrontendMasters Full Stack/vpn.md",
-    "Coding/Courses/Web Auth/Ways of Authenticating.md",
-    "Coding/Courses/FrontendMasters Full Stack/Vim.md",
-    "Coding/Courses/FrontendMasters Full Stack/Command Line.md",
-    "Coding/Boot.dev/crytography/basics.md",
     "Coding/Courses/FrontendMasters Full Stack",
-    "Coding/Courses/CSS For JS/Stacking Context.md",
     "Coding/Boot.dev/crytography",
-    "Coding/framer motion/layout animation/layout group.md",
     "Coding/Courses/Aalto Full Stack Web/docker",
     "Coding/Boot.dev/docker",
     "Coding/shadcnui",
