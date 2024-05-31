@@ -10,3 +10,6 @@
 10. [optional ci/cd](obsidian://open?vault=Obsidian%20Vault&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20CI%20CD)
 11. [optional subdomain](obsidian://open?vault=Obsidian%20Vault&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20adding%20a%20subdomain)
 12. [optional websocket](obsidian://open?vault=Obsidian%20Vault&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20adding%20websocket)
+13. [enable https](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20enabling%20HTTPS)
+14. [optional http2, done after https](obsidian://open?vault=Obsidian%20Vault&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20enabling%20http2)
+15. [docker plus load balancing](obsidian://open?vault=Obsidian%20Vault&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20docker%20plus%20load%20balancing)

@@ -1,0 +1,1 @@
+- `htop` similar to mac's activity monitor, shows all processes
