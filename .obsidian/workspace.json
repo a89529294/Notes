@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "590c4d785478e362",
+            "id": "6b5bc610bcb68165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/FrontendMasters Full Stack/IMPORTANT Overview flowchart of how to setup your own server.md",
+                "file": "Coding/Courses/FrontendMasters Intro to DB/mongodb.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b5bc610bcb68165",
+            "id": "0ae2c57e47d36fcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling pm2.md",
+                "file": "Coding/Courses/FrontendMasters Full Stack/find & grep.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/FrontendMasters Full Stack/IMPORTANT Overview flowchart of how to setup your own server.md",
+                "file": "Coding/Courses/FrontendMasters Intro to DB/mongodb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,12 +136,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "590c4d785478e362",
+  "active": "6b5bc610bcb68165",
   "lastOpenFiles": [
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of docker plus load balancing.md",
-    "Coding/Courses/FrontendMasters Full Stack/IMPORTANT Overview flowchart of how to setup your own server.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling http2 1.md",
+    "Coding/Boot.dev/docker/ghost image with volume.md",
+    "Coding/Courses/FrontendMasters Full Stack/find & grep.md",
+    "Coding/Courses/FrontendMasters Intro to DB/mongodb.md",
+    "Coding/Boot.dev/docker/building docker images.md",
+    "Coding/Git/Mental Model.md",
+    "Coding/Courses/FrontendMasters Intro to DB",
+    "Coding/Git/Misc..md",
+    "Coding/Git/git config file.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling pm2.md",
+    "Coding/Courses/FrontendMasters Full Stack/IMPORTANT Overview flowchart of how to setup your own server.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of docker plus load balancing.md",
+    "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling http2 1.md",
     "Coding/Courses/FrontendMasters Full Stack/Misc.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling http2.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling HTTPS.md",
@@ -150,7 +158,6 @@
     "Coding/Courses/FrontendMasters Full Stack/nginx config file for serving react and node.md",
     "Coding/Misc./zip folder without including the root folder.md",
     "Coding/Courses/FrontendMasters Full Stack/log files on linux.md",
-    "Coding/Courses/FrontendMasters Full Stack/find & grep.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of keeping packages up to date.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of adding websocket.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of adding a subdomain.md",
@@ -158,12 +165,6 @@
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of connecting nginx and node.md",
     "Coding/Courses/FrontendMasters Full Stack/How to ssh into your server.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of setting up application.md",
-    "Coding/Courses/FrontendMasters Full Stack/FlowChart of installing nodejs on server.md",
-    "Coding/Courses/FrontendMasters Full Stack/Anatomy of nginx config file.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of updating and restarting a brand new server.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of buying domain name and connecting it to DigitalOcean server.md",
-    "Coding/Boot.dev/docker/building go web server.md",
-    "Coding/Boot.dev/docker/The deployment process.md",
     "Coding/Courses/FrontendMasters Full Stack",
     "Coding/Boot.dev/crytography",
     "Coding/Courses/Aalto Full Stack Web/docker",
@@ -173,7 +174,6 @@
     "Coding/Courses/CSS Grid & Layout Techniques",
     "Coding/framer motion/layout animation",
     "Coding/framer motion",
-    "Coding/Courses/Aalto Full Stack Web",
     "shared-responsibility.svg",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",
