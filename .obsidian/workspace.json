@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d451cdf7f2cdfee5",
+        "id": "809b16e4ab6f3e97",
         "type": "tabs",
         "children": [
           {
-            "id": "6b5bc610bcb68165",
+            "id": "ceb3d82c59f06a19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Coding/Courses/FrontendMasters Intro to DB/mongodb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ae2c57e47d36fcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Courses/FrontendMasters Full Stack/find & grep.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "z-index",
+                "query": "find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,35 +124,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6b5bc610bcb68165",
+  "active": "ceb3d82c59f06a19",
   "lastOpenFiles": [
-    "Coding/Boot.dev/docker/ghost image with volume.md",
-    "Coding/Courses/FrontendMasters Full Stack/find & grep.md",
+    "Coding/Courses/FrontendMasters Intro to DB/redis.md",
     "Coding/Courses/FrontendMasters Intro to DB/mongodb.md",
+    "Coding/Courses/FrontendMasters Full Stack/find & grep.md",
+    "Coding/framer motion/motion values.md",
+    "Coding/Courses/Intro to SQL/Execution Order.md",
+    "Coding/Courses/FrontendMasters Intro to DB/postgresql.md",
+    "Coding/Courses/Intro to SQL/Joins.md",
+    "Coding/Courses/FrontendMasters Intro to DB/course website.md",
+    "Coding/Courses/Intro to SQL/Querying Data.md",
+    "Coding/Courses/Intro to SQL/Aggregate Functions.md",
+    "Coding/Courses/Intro to SQL/Arithmetic and Aliasing.md",
+    "Coding/SQL/DBMS.md",
+    "Coding/SQL/JOINS.md",
+    "Coding/SQL/Relational Data Model (RDM).md",
+    "Coding/SQL/SQL Statement Evaluation Order.md",
+    "Coding/SQL/SQL.md",
+    "Coding/SQL/MISC..md",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md",
+    "Coding/Courses/The Joy of React/Full Stack React.md",
+    "Coding/Courses/The Joy of React/Modal.md",
+    "Coding/Boot.dev/docker/ghost image with volume.md",
     "Coding/Boot.dev/docker/building docker images.md",
     "Coding/Git/Mental Model.md",
     "Coding/Courses/FrontendMasters Intro to DB",
     "Coding/Git/Misc..md",
     "Coding/Git/git config file.md",
     "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling pm2.md",
-    "Coding/Courses/FrontendMasters Full Stack/IMPORTANT Overview flowchart of how to setup your own server.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of docker plus load balancing.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling http2 1.md",
-    "Coding/Courses/FrontendMasters Full Stack/Misc.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling http2.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling HTTPS.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of firewall, nmap, ufw.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of configuring nginx.md",
-    "Coding/Courses/FrontendMasters Full Stack/nginx config file for serving react and node.md",
-    "Coding/Misc./zip folder without including the root folder.md",
-    "Coding/Courses/FrontendMasters Full Stack/log files on linux.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of keeping packages up to date.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of adding websocket.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of adding a subdomain.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of CI CD.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of connecting nginx and node.md",
-    "Coding/Courses/FrontendMasters Full Stack/How to ssh into your server.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of setting up application.md",
     "Coding/Courses/FrontendMasters Full Stack",
     "Coding/Boot.dev/crytography",
     "Coding/Courses/Aalto Full Stack Web/docker",

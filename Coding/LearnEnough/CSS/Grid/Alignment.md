@@ -20,7 +20,7 @@ Note that in order for these properties to work the grid tracks total size in ei
 - *align-content* 
 	- aligns the **grid tracks** vertically. 
 	- `align-content: start;` is the **default**.
-- *place-content* acombines **align-content** and **justify-content** in one property.
+- *place-content* combines **align-content** and **justify-content** in one property.
 	- `place-content: <align-dir> <justify-dir>`
 	- `place-content: end space-between;`
 	- `place-content: center;` is equivalent to `place-content: center center;`

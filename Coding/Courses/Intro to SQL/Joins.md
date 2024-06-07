@@ -45,7 +45,7 @@ FROM prime_ministers AS p1
 INNER JOIN presidents AS p2
 USING(country);
 ```
-- if a column exist in both tables we need to prefix it with the table name. Unless the column is used in the `ON` or `USING` condition.
+- if a column exist in both tables we need to prefix it with the table name, unless the column is used in the `ON` or `USING` condition.
 - `USING(common_col1, common_col2,...)` allows for more than one column. This allows two tables to match on multiple columns with the same names.
 - `ON` allows us to join on multiple columns as well, `ON p1.country = p2.country AND p1.continent = p2.continent`.
 
