@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/FrontendMasters Intro to DB/mongodb.md",
+                "file": "Coding/Courses/FronendMasters Intro to Linux and the Command Line/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/FrontendMasters Intro to DB/mongodb.md",
+                "file": "Coding/Courses/FronendMasters Intro to Linux and the Command Line/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,14 @@
   },
   "active": "ceb3d82c59f06a19",
   "lastOpenFiles": [
-    "Coding/Courses/FrontendMasters Intro to DB/redis.md",
+    "Coding/Courses/FronendMasters Intro to Linux and the Command Line/VM Installation on Mac.md",
+    "Coding/Courses/FronendMasters Intro to Linux and the Command Line/Basics.md",
+    "Coding/Courses/FrontendMasters Full Stack/ip address.md",
     "Coding/Courses/FrontendMasters Intro to DB/mongodb.md",
+    "Coding/Courses/FronendMasters Intro to Linux and the Command Line",
+    "Coding/Courses/FronendMasters Intro to Linux and the Command Line.md",
+    "Coding/Courses/Untitled",
+    "Coding/Courses/FrontendMasters Intro to DB/redis.md",
     "Coding/Courses/FrontendMasters Full Stack/find & grep.md",
     "Coding/framer motion/motion values.md",
     "Coding/Courses/Intro to SQL/Execution Order.md",
@@ -148,11 +154,7 @@
     "Coding/Courses/The Joy of React/Modal.md",
     "Coding/Boot.dev/docker/ghost image with volume.md",
     "Coding/Boot.dev/docker/building docker images.md",
-    "Coding/Git/Mental Model.md",
     "Coding/Courses/FrontendMasters Intro to DB",
-    "Coding/Git/Misc..md",
-    "Coding/Git/git config file.md",
-    "Coding/Courses/FrontendMasters Full Stack/Flowchart of enabling pm2.md",
     "Coding/Courses/FrontendMasters Full Stack",
     "Coding/Boot.dev/crytography",
     "Coding/Courses/Aalto Full Stack Web/docker",
@@ -160,8 +162,6 @@
     "Coding/shadcnui",
     "Coding/Courses/Untitled/Untitled",
     "Coding/Courses/CSS Grid & Layout Techniques",
-    "Coding/framer motion/layout animation",
-    "Coding/framer motion",
     "shared-responsibility.svg",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",
