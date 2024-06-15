@@ -1,0 +1,2 @@
+- A resource tag consists of a name and a value. You can assign one or more tags to each Azure resource.
+- One way to __organize related resources__ is to place them in their own _subscriptions_. You can also use _resource groups_ to manage related resources. _Resource tags_ are another way to organize resources.

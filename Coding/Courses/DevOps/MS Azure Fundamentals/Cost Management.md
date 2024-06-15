@@ -1,0 +1,4 @@
+- The _pricing calculator_ and the _total cost of ownership (TCO) calculator_ are two calculators that help you understand potential Azure expenses.
+- The _pricing calculator_ is designed to give you an estimated _cost for provisioning resources in Azure_.
+- The _TCO calculator_ is designed to help you compare the costs for running an _on-premises infrastructure_ compared to an _Azure Cloud infrastructure_.
+- [pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)

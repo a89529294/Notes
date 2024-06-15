@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Courses/FronendMasters Intro to Linux and the Command Line/Basics.md",
+                "file": "Coding/Courses/FronendMasters Intro to Linux and the Command Line/VM Installation on Mac.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Courses/FronendMasters Intro to Linux and the Command Line/Basics.md",
+                "file": "Coding/Courses/FronendMasters Intro to Linux and the Command Line/VM Installation on Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,11 @@
   },
   "active": "ceb3d82c59f06a19",
   "lastOpenFiles": [
-    "Coding/Courses/FronendMasters Intro to Linux and the Command Line/VM Installation on Mac.md",
     "Coding/Courses/FronendMasters Intro to Linux and the Command Line/Basics.md",
+    "Coding/Courses/FronendMasters Intro to Linux and the Command Line/VM Installation on Mac.md",
+    "Coding/Courses/DevOps/MS Azure Fundamentals/Tags.md",
+    "Coding/Courses/DevOps/MS Azure Fundamentals/Cost Management.md",
+    "Coding/Courses/DevOps/MS Azure Fundamentals/Cloud Concepts.md",
     "Coding/Courses/FrontendMasters Full Stack/ip address.md",
     "Coding/Courses/FrontendMasters Intro to DB/mongodb.md",
     "Coding/Courses/FronendMasters Intro to Linux and the Command Line",
@@ -151,9 +154,6 @@
     "Coding/SQL/MISC..md",
     "Coding/LearnEnough/CSS/Grid/Alignment.md",
     "Coding/Courses/The Joy of React/Full Stack React.md",
-    "Coding/Courses/The Joy of React/Modal.md",
-    "Coding/Boot.dev/docker/ghost image with volume.md",
-    "Coding/Boot.dev/docker/building docker images.md",
     "Coding/Courses/FrontendMasters Intro to DB",
     "Coding/Courses/FrontendMasters Full Stack",
     "Coding/Boot.dev/crytography",
