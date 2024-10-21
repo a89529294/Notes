@@ -1,1 +1,1 @@
-`DATABASE_URL="postgresql://albert:1234@localhost:5432/jobboard?schema=public"`
+`DATABASE_URL="postgresql://postgres:postgres@localhost:5432/jobboard?schema=public"`

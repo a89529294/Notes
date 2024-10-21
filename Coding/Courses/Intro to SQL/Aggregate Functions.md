@@ -14,3 +14,5 @@ FROM films;
 If an _aggregate function_ is used in `SELECT` without `GROUP BY` in a query, then it applies to the whole table, However, if there is a `GROUP BY` then it applies on each group.
 
 Note that you cannot use _aggregate functions_ in `WHERE` clauses since `WHERE` filters individual records; `HAVING` filters grouped records. From [[Execution Order]] you can see why as well. Only after `GROUP BY` we are allowed to use _aggregate functions_.
+
+Common place to use _aggregae functions_ are `SELECT`, `HAVING`, `ORDER BY`.

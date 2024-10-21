@@ -1,0 +1,5 @@
+- `1>` redirects stdin
+- `2>` redirects stderr
+- `&>` redirects both
+- `>` replaces, `>>` appends
+- 

@@ -1,0 +1,3 @@
+- `sudo launchctl load /Library/LaunchDaemons/postgresql-16.plist` to _start_ postgresql
+- `sudo launchctl unload /Library/LaunchDaemons/postgresql-16.plist` to _stop_ postgresql
+- `sudo launchctl list | grep postgresql` if this outputs anything it means _postgresql is running_

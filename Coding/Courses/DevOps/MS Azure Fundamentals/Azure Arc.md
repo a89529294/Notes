@@ -1,0 +1,1 @@
+In utilizing Azure Resource Manager (ARM), Arc lets you extend your Azure compliance and monitoring to your _hybrid and multi-cloud configurations_. Azure Arc simplifies governance and management by delivering a consistent multi-cloud and on-premises management platform.

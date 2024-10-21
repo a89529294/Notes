@@ -18,9 +18,7 @@ The reason we are using `max-height` instead of `height` is to animate *height* 
 <div class="accordion">
   <div class="accordion-title">Hover me!</div>
   <div class="accordion-body">
-    <div>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis ullam ipsam dignissimos perspiciatis consequatur itaque maxime nihil cupiditate veniam. Perferendis!</p>
-    </div>
   </div>
 </div>
 ```
@@ -35,7 +33,7 @@ The reason we are using `max-height` instead of `height` is to animate *height* 
   grid-template-rows: 1fr;
 }
 
-.accordion-body > div {
+.accordion-body > p {
   overflow: hidden;
 }
 ```

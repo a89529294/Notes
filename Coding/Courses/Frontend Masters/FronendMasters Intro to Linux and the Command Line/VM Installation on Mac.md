@@ -16,6 +16,7 @@ brew uninstall --zap multipass
 - `multipass version`
 - `multipass find` lists all images of ubuntu
 - `multipass launch` creates and starts an instance based on the latest ubuntu lts, or you can specify an image
+- `multipass set client.primary-name=<instance-name>` now you can simply call `multipass shell` without using its name 
 - `multipass shell <instance-name>` 
 - `multipass list` lists all instances
 - `multipass delete <instance-name>`

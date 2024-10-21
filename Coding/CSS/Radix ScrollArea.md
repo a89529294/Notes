@@ -1,0 +1,1 @@
+You can use `max-height` instead of `height` by removing `height: 100%` from _ScrollArea.Root_ and _ScrollArea.Viewport_ and set `max-height` on _ScrollArea.Viewport_. 
