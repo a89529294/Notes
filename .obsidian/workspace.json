@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aad6a8de3f531f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Courses/DevOps/MS Azure Fundamentals/Governance & Compliance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "sticky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,6 +99,7 @@
               "type": "backlink",
               "state": {
                 "file": "Coding/Courses/FronendMasters Intro to Linux and the Command Line/VM Installation on Mac.md",
+                "file": "Coding/Courses/DevOps/MS Azure Fundamentals/Governance & Compliance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +138,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ceb3d82c59f06a19",
+  "active": "aad6a8de3f531f12",
   "lastOpenFiles": [
-    "Coding/Courses/FronendMasters Intro to Linux and the Command Line/Basics.md",
+    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
+    "Coding/Courses/DevOps/MS Azure Fundamentals/Governance & Compliance.md",
+    "Coding/CSS/sticky position.md",
+    "Coding/Courses/CSS For JS/Containing Block.md",
+    "Coding/LearnEnough/CSS/Grid/Alignment.md",
     "Coding/Courses/FronendMasters Intro to Linux and the Command Line/VM Installation on Mac.md",
     "Coding/Courses/DevOps/MS Azure Fundamentals/Tags.md",
     "Coding/Courses/DevOps/MS Azure Fundamentals/Cost Management.md",
@@ -152,8 +170,6 @@
     "Coding/SQL/SQL Statement Evaluation Order.md",
     "Coding/SQL/SQL.md",
     "Coding/SQL/MISC..md",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/Courses/The Joy of React/Full Stack React.md",
     "Coding/Courses/FrontendMasters Intro to DB",
     "Coding/Courses/FrontendMasters Full Stack",
     "Coding/Boot.dev/crytography",
