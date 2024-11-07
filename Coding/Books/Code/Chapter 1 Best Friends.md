@@ -1,0 +1,1 @@
+- *Code* means a system of transferring information among people and machines.

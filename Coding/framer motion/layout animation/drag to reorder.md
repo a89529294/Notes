@@ -11,9 +11,7 @@ const MyList = () => {
       axis="y"
       // Specify the full set of items within your reorder group
       values={items}
-      // Callback that passes the newly reordered list of item
-      // Note: simply passing a useState setter here is equivalent to
-      // doing `(reordereditems) => setItmes(reordereditems)`
+      // the function passed in receives the newest items
       onReorder={setItems}
     >
       {items.map((item) => (
