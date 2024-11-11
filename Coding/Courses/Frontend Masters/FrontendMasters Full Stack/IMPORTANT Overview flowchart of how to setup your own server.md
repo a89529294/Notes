@@ -1,9 +1,11 @@
-1. [buy domain name and connect it to server](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20buying%20domain%20name%20and%20connecting%20it%20to%20DigitalOcean%20server)
-2. [update then restart the new server](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20updating%20and%20restarting%20a%20brand%20new%20server)
-3. [setup nginx](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20configuring%20nginx)
-4. [install node](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowChart%20of%20installing%20nodejs%20on%20server)
-5. [setup app](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20setting%20up%20application)
-6. [connect nginx and node server](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20connecting%20nginx%20and%20node)
+1. [[Flowchart of buying domain name and connecting it to DigitalOcean server]]
+2. [[Flowchart of updating and restarting a brand new server]]
+3. [[Flowchart of configuring nginx]]
+4. [[FlowChart of installing nodejs on server]]
+5. [[Flowchart of setting up application]]
+	1. [[Flowchart of connecting github and vps]]
+6. [[Flowchart of connecting nginx and node]]
+	1. [[Flowchart of connecting react app and nginx]]
 7. [use pm2 to run out node app](obsidian://open?vault=notes&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20enabling%20pm2)
 8. [firewall, nmap, ufw](obsidian://open?vault=Obsidian%20Vault&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFirewall%2C%20nmap%2C%20ufw)
 9. [keep packages up to date](obsidian://open?vault=Obsidian%20Vault&file=Coding%2FCourses%2FFrontendMasters%20Full%20Stack%2FFlowchart%20of%20keeping%20packages%20up%20to%20date)

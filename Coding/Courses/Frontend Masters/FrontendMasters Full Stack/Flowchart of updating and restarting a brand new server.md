@@ -19,10 +19,18 @@ Just tab into `<ok>` then press enter if something pops up.
 4. `sudo cat /var/log/auth.log` check sudo access
 
 ### enable login for new user
-1. create `authorized_keys` file
-2. paste your public key (on your local machine, some file in `~/.ssh/` that ends in `.pub`)
-3. exit server (type in `exit`)
-4. login as new user `ssh albert@<do_droplet_ip>`
+1. create `authorized_keys` file in your _vps_ `~/.ssh`.
+2. `ssh-keygen -t rsa -b 4096 -C "comment to identify key"` run this _locally_ in the directory `.ssh`.  
+3. paste your public key (_from your local machine_, some file in `~/.ssh/` that ends in `.pub`) in to your _vps_ `~/.ssh/authorized_keys`.
+4. _Locally_ in `~/.ssh/config` add
+```txt
+Host my-vps 
+HostName vps_ip_address 
+User username 
+IdentityFile ~/.ssh/id_rsa
+```
+6. exit server (type in `exit`)
+7. login as new user `ssh my-vps`
 
 ### disable root login
 1. `chmod 644 ~/.ssh/authorized_keys`
