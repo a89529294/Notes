@@ -6,6 +6,7 @@ server {
     server_name acdev.lol www.acdev.lol;
 
     root /var/www/react_app;  # Path to your built React app
+    
     location / {
         try_files $uri $uri/ /index.html;
     }
