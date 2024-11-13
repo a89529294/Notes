@@ -17,7 +17,7 @@ https://easings.co/
 ![[cubic-bezier.png]]
 1. p1 is fixed at (0,0), p4 is fixed at (1,1)
 2. x-axis represents time, y-axis represents displacement
-3. (p2-x, p2-y,p3-x,p3-y)
+3. (p2_x, p2_y,p3_x,p3_y)
 4. p2 and p3 x coord is restricted between 0 and 1, y coord has no such restriction
 5. (0,500,1,500) creates a parabolic curve, (0.5,500,0.5,-500) creates a sinusoidal curve.
 6. https://css-tricks.com/advanced-css-animation-using-cubic-bezier/
