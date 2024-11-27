@@ -42,3 +42,6 @@ app.listen(3000, () => console.log('Server running on port 3000'));
 to run this either in `prod` or `env` mode, 
 `NODE_ENV=development node app.js`
 `NODE_ENV=production node app.js`
+
+## safari notes
+1. uncheck settings->privacy->prevent cross site tracking, if safari is blocking cookies during developement.
