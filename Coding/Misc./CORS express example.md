@@ -44,4 +44,4 @@ to run this either in `prod` or `env` mode,
 `NODE_ENV=production node app.js`
 
 ## safari notes
-1. uncheck settings->privacy->prevent cross site tracking, if safari is blocking cookies during developement.
+1. uncheck settings->privacy->prevent cross site tracking, if safari is blocking cookies during development.

@@ -2,7 +2,7 @@
 2. [[Flowchart of updating and restarting a brand new server]]
 3. [[Flowchart of configuring nginx]]
 4. [[FlowChart of installing nodejs on server]]
-5. [[Flowchart of setting up application]]
+5. [[Flowchart of setting up application and nodejs entry]]
 	1. [[Flowchart of connecting github and vps]]
 6. [[Flowchart of connecting nginx and node]]
 	1. [[Flowchart of connecting react app and nginx]]
