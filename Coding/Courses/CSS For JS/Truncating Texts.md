@@ -33,10 +33,9 @@ p {
 ## Single line ellipsis
 ```css
 p {
-	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	max-width: 250px;
+	white-space: nowrap;
 }
 ```
 - The reason we need to add `white-space: nowrap;` is browser wraps at *soft wrap opportunities* first then deals with overflow. By setting *nowrap* we tell the browser to deal with overflow right away.
@@ -44,10 +43,10 @@ p {
 ## Multi line ellipsis
 ```css
 p {
+    overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
-    overflow: hidden;
   }
 ```
 - If the p is a *flex/grid* child make sure to wrap it in a `div` to prevent layout issues.
