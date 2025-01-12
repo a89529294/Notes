@@ -3,7 +3,9 @@
 - Generally, the larger the animation, the longer transition duration.
 
 ## modals
-- Typically, animations consist of simple enter and exit transitions, for which an *`ease-out` animation with a duration of 200ms is suitable*.
+- Typically, animations consist of simple enter and exit transitions, 
+- for *enter* animation an *`ease-out` animation with a duration of 200ms is suitable*.
+- for *exit* animation an *`ease-in` animation with a duration of 200ms is suitable*.
 
 ## popovers
 - `ease-out` animation with a duration of 150ms

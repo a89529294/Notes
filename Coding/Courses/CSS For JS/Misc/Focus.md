@@ -17,8 +17,8 @@ The **`:focus-within`** [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ## When does an element receive :focus-visible
 It depends on two things, *element type* and *input device* used to select the element.
-- If it is an `input` it receives `:focus-visible` no matter what the input device is.
-- For anything else, the element receives `:focus-visible` only when selected by a *non pointer device(not mouse/trackpad)*.
+- If it is an `input` it receives `:focus-visible` no matter what the input device is. This includes the element being *clicked on*, *tabbed into*, or *programmatically focused*.
+- For anything else, the element receives `:focus-visible` only when selected by a *non pointer device(not mouse/trackpad)*. For example, via *keyboard navigation* or *programatic focus*. Except for being *clicked on*.
 
 ## Focus Outline
 If you wish to change the browser's default *focus outline* styles 
@@ -32,5 +32,14 @@ a:focus-visible {
 - `:focus` is always applied when user selects an element. `:focus-visible` depends on the *element type* and the user's *input device*.
 - *Browser default focus styles* are applied on the `:focus-visible` class.
 - If you want to change *focus styles*, target the `:focus-visible` class.
+
+
+✅ stands for if the element receives `focus-visible`
+
+|                          | Input | Anything Else That Is Focusable |
+| ------------------------ | ----- | ------------------------------- |
+| Clicked On               | ✅     |                                 |
+| Tabbed Into              | ✅     | ✅                               |
+| Programmatically Focused | ✅     | ✅                               |
 
 
