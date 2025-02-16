@@ -20,7 +20,7 @@
 - *min-content*,*max-content*, *fit-content* are *intrinsic* units since it depends on the element itself. In contrast *auto* is based on the parent.
 
 ## Height Algorithm
-How to make sure a wrapper is at last as tall as the view port.
+Here is one way to make sure a wrapper is at last as tall as the view port.
 ```css
 html, body {
   height: 100%;
@@ -31,5 +31,7 @@ html, body {
 ```
 1. Note you need to put `height: 100%;` on every element above the wrapper.
 2. You *cannot use % based height* in the wrapper.
+
+ **Alternatively, just make body min-height 100%.** 
 
 By default(i.e. when we don't set width/height), width looks _up_ the tree, while height looks _down_ the tree. An element's width is calculated based on its _parent's size_, but an element's _height_ is calculated based on its _children_.
