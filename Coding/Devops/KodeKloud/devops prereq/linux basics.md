@@ -22,8 +22,6 @@ id # prints id of current user
 su new_user # switch to new_user
 
 curl http://example.com/text.txt -O # download file
-
-cat /etc/*release* # to check OS
 ```
 
 ## vim 
@@ -38,7 +36,7 @@ Starts in *normal mode*, from normal you can enter *last line* or *insert mode*.
 
 - `x` to delete one char, `dd` to delete whole line
 - `yy` to copy line, `p` to paste
-- `ctrl u` to move down ~ 10 lines, `ctrl u` to move up ~ 10 lines
+- `ctrl d` to move down ~ 10 lines, `ctrl u` to move up ~ 10 lines
 - `:w` to save, `:q` to quit, `:wq` to save then quit
 - `/of` to find instances of the word of, `n` to move to next one, `N` to move to previous one
 

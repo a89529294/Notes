@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Devops/KodeKloud/devops prereq/java installation.md",
+                "file": "Coding/Devops/KodeKloud/devops prereq/apache tomcat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "java installation"
-            }
-          },
-          {
-            "id": "eeccd2913fd6ca9f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "apache tomcat"
             }
           }
         ]
@@ -50,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -62,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vim",
+                "query": "vim ExecStart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +140,15 @@
   "active": "0dc2743ac76395b6",
   "lastOpenFiles": [
     "Coding/Devops/KodeKloud/devops prereq/linux basics.md",
-    "Coding/Devops/KodeKloud/devops prereq/java installation.md",
+    "Coding/Devops/KodeKloud/devops prereq/apache tomcat.md",
+    "Coding/Devops/KodeKloud/devops prereq/java.md",
+    "Coding/Devops/KodeKloud/devops prereq/python.md",
+    "Coding/Devops/KodeKloud/devops prereq/nodejs.md",
     "Coding/Devops/KodeKloud/devops prereq/networking.md",
+    "Coding/Devops/KodeKloud/devops prereq/httpd web server.md",
+    "Coding/Cybersecurity/Google Cybersecurity/Introduction to Cybersecurity.md",
+    "Coding/Cybersecurity/Google Cybersecurity",
+    "Coding/Cybersecurity",
     "Coding/LearnEnough/TextEditor/Chapter 1 Vim & Less.md",
     "Coding/Devops/KodeKloud/devops prereq",
     "Coding/Devops/KodeKloud",
@@ -176,15 +174,8 @@
     "Coding/Courses/Animations.dev/The Easing Blueprint.md",
     "Coding/Misc./Setting up Google Embed Map.md",
     "Coding/Courses/CSS For JS/Truncating Texts.md",
-    "Coding/Courses/Frontend Masters/FrontendMasters Full Stack/Use pm2 to run Nextjs in production.md",
-    "Coding/Courses/Frontend Masters/FrontendMasters Full Stack/Flowchart of enabling pm2.md",
-    "Coding/Courses/Frontend Masters/FrontendMasters Full Stack/Flowchart of connecting github and vps.md",
-    "Coding/Courses/Frontend Masters/FrontendMasters Full Stack/Flowchart of connecting react app and nginx.md",
-    "Coding/Courses/Frontend Masters/FrontendMasters Full Stack/Flowchart of connecting react and node.md",
     "Coding/Books/Code",
     "cubic-bezier.png",
-    "Coding/Courses/Animations.dev",
-    "Coding/Courses/Frontend Masters/Web Auth/course-slides.pdf",
     "shared-responsibility.svg",
     "implicit_code_flow.webp",
     "authorization_code_flow.webp",
