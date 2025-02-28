@@ -1,4 +1,5 @@
-- `requirements.txt` is the equivalent of `package.json`, `pip install -r requirements.txt`.
+- `requirements.txt` is the equivalent of `package.json`, 
+  `pip install -r requirements.txt`.
 - `pip install flask`
 - `pip uninstall flask`
 - `pip install flask --upgrade`
@@ -28,3 +29,14 @@ rm -rf myenv
     - Activation scripts (`activate`, `deactivate`).
     - Other supporting files for the isolated environment.  
 - There is **nothing special** about `myenv` beyond its structure and purpose. You can delete it, recreate it, or even move it (though moving it is not recommended as it may break paths).
+
+## gunicorn
+a popular WSGI (Web Server Gateway Interface) HTTP server for Python web applications.
+
+- `gunicorn main:app -w 2`
+	- **`main`**: Refers to the filename (e.g., `main.py`) where your WSGI application is defined.
+	- **`app`**: Refers to the variable name (e.g., `app = Flask(__name__)`) that holds the WSGI application object.
+	- `-w 2`: 2 workers
+
+A **WSGI application** is simply a Python callable that follows the WSGI specification. Frameworks like Flask and Django wrap this concept into user-friendly objects (like `app`)
+

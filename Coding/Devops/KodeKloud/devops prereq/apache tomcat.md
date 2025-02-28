@@ -25,7 +25,7 @@ cat /etc/*release* # check os
 	1. rpm: `wget https://download.oracle.com/java/23/latest/jdk-23_linux-x64_bin.rpm` then `sudo rpm -ivh jdk-23_linux-x64_bin.rpm`. Verify installation `java -version`
 	2. tar.gz: `wget https://download.oracle.com/java/23/latest/jdk-23_linux-x64_bin.tar.gz`, then `tar -xzf jdk-23_linux-x64_bin.tar.gz` then `sudo mv jdk-23 /opt/`, then `vi ~/.bashrc` then `export JAVA_HOME=/opt/jdk-23` and `export PATH=$JAVA_HOME/bin:$PATH`. Finally `source ~/.bashrc` and `java -version`
 
-### installing apache tomcat
+### install and run apache tomcat
 1. `wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.36/bin/apache-tomcat-10.1.36.tar.gz`
 2. `tar -xvzf apache-tomcat-10.1.36.tar.gz`
 3. `./apache-tomcat-10.1.36/bin/startup.sh`

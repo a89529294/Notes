@@ -7,7 +7,7 @@ sudo firewall-cmd --permanent --add-service=https
 sudo firewall-cmd --reload
 ```
 4. You can check what is allowed or blocked by the firewall using commands like:
-    - `firewall-cmd --list-services`
+    - `firewall-cmd --list-services`, prefer this one
     - `firewall-cmd --list-ports`
     - `firewall-cmd --list-all`
 

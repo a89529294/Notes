@@ -22,6 +22,12 @@ id # prints id of current user
 su new_user # switch to new_user
 
 curl http://example.com/text.txt -O # download file
+
+ps -ef | grep gunicorn | grep -v grep # find gunicorn processes excluding grep command itself 
+
+pkill process_name
+
+kill pid
 ```
 
 ## vim 
