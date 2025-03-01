@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Devops/KodeKloud/devops prereq/centos on mac using virtualbox.md",
+                "file": "Coding/Devops/KodeKloud/devops prereq/virtual machine networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "centos on mac using virtualbox"
+              "title": "virtual machine networking"
             }
           }
         ]
@@ -139,8 +139,9 @@
   },
   "active": "60b0d138e55f8dd7",
   "lastOpenFiles": [
-    "Coding/Devops/KodeKloud/devops prereq/httpd web server.md",
     "Coding/Devops/KodeKloud/devops prereq/centos on mac using virtualbox.md",
+    "Coding/Devops/KodeKloud/devops prereq/virtual machine networking.md",
+    "Coding/Devops/KodeKloud/devops prereq/httpd web server.md",
     "Coding/Devops/KodeKloud/devops prereq/LAMP deployment.md",
     "Coding/Devops/KodeKloud/devops prereq/database.md",
     "Coding/Devops/KodeKloud/devops prereq/installing packages on CentOS.md",
@@ -171,7 +172,6 @@
     "Coding/Devops/KodeKloud",
     "Coding/Devops",
     "Coding/Courses/Untitled.md",
-    "Coding/Untitled.md",
     "Coding/Courses/DevOps With Docker/part 1",
     "Coding/Courses/DevOps With Docker",
     "Coding/Electron/Official Tutorial",
