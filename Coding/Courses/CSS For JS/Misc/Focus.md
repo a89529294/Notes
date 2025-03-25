@@ -17,7 +17,7 @@ The **`:focus-within`** [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ## When does an element receive :focus-visible
 It depends on two things, *element type* and *input device* used to select the element.
-- If it is an `input` it receives `:focus-visible` no matter what the input device is. This includes the element being *clicked on*, *tabbed into*, or *programmatically focused*.
+- Inputs usually receive :focus-visible when focused by any method, though mouse clicks might not trigger it in some browsers.
 - For anything else, the element receives `:focus-visible` only when selected by a *non pointer device(not mouse/trackpad)*. For example, via *keyboard navigation* or *programatic focus*. Except for being *clicked on*.
 
 ## Focus Outline
