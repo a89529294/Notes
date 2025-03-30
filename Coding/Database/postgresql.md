@@ -15,5 +15,4 @@ After running `psql`
 - `\dt` list all tables in a db
 - `CREATE DATABASE mydatabase;` create new db
 - `\c mydatabase` switch to another db
-- 
 
