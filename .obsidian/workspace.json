@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Devops/KodeKloud/linux/dns.md",
+                "file": "Coding/AWS/learn.cantrill.io/Tech Fundamentals/IP vs MAC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dns"
+              "title": "IP vs MAC"
             }
           }
         ]
@@ -139,8 +139,17 @@
   },
   "active": "426344e71185c91f",
   "lastOpenFiles": [
-    "Coding/Devops/KodeKloud/linux/Working with Shell II.md",
+    "Coding/AWS/learn.cantrill.io/Tech Fundamentals/Layer 2 Data Link.md",
+    "Coding/AWS/learn.cantrill.io/Tech Fundamentals/IP vs MAC.md",
+    "Coding/AWS/learn.cantrill.io/Tech Fundamentals/Layer 1 Physical.md",
+    "Coding/AWS/learn.cantrill.io/Tech Fundamentals/OSI Models.md",
+    "Coding/Devops/KodeKloud/linux/troubleshooting network connection between 2 devices.md",
+    "Coding/AWS/learn.cantrill.io/Tech Fundamentals",
+    "Coding/AWS/learn.cantrill.io",
+    "Coding/Devops/KodeKloud/linux/networking 2.md",
+    "Coding/Devops/KodeKloud/linux/networking.md",
     "Coding/Devops/KodeKloud/linux/dns.md",
+    "Coding/Devops/KodeKloud/linux/Working with Shell II.md",
     "Coding/Devops/KodeKloud/linux/Searching for Files and Directories.md",
     "Coding/Devops/KodeKloud/linux/redirect io.md",
     "Coding/Database/redis.md",
@@ -159,13 +168,6 @@
     "Coding/Devops/KodeKloud/AWS Cloud Practitioner/Cloud Computing.md",
     "Coding/AWS/AWS Eduate/Introduction to cloud 101.md",
     "Coding/Devops/KodeKloud/AWS Cloud Practitioner",
-    "Coding/Devops/KodeKloud/linux/boot target (graphical or text mode).md",
-    "Coding/Devops/KodeKloud/linux/Working with Shell.md",
-    "Coding/Devops/KodeKloud/devops prereq/centos on mac using virtualbox.md",
-    "Coding/Courses/CSS For JS/Rendering Logic Positioned Layout.md",
-    "Coding/LearnEnough/CSS/Grid/Alignment.md",
-    "Coding/Deployment/Deployment From Scratch/Chapter 3 Operating Systems.md",
-    "Coding/AWS/AWS Amplify Env Setup.md",
     "Coding/AWS/AWS Eduate",
     "Coding/AWS",
     "Coding/Devops/KodeKloud/linux",
@@ -173,8 +175,6 @@
     "Coding/Devops/FrontendMasters/Intro to Containers V2",
     "Coding/Devops/FrontendMasters",
     "Coding/Cybersecurity/Google Cybersecurity",
-    "Coding/Cybersecurity",
-    "Coding/Devops/KodeKloud/devops prereq",
     "cubic-bezier.png",
     "shared-responsibility.svg",
     "implicit_code_flow.webp",
