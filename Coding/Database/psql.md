@@ -1,0 +1,6 @@
+- `psql -d postgres` connects to database named postgres
+- info on users:
+	- `SELECT current_user;`
+	- `\du` to see all users
+- create user:
+	- `CREATE USER postgres WITH SUPERUSER PASSWORD 'password';`

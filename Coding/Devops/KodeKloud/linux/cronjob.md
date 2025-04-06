@@ -1,0 +1,5 @@
+- `crontab -e ` this will open a file for you to add your cronjob
+	- Do not add `sudo` in front
+- `00 21 * * * uptime >> ~/uptime-report.txt` run this command every day at 9pm
+	- `minute hour day month weekday command`
+- `crontab -l` lists all cronjobs

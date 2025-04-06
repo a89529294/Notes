@@ -28,7 +28,7 @@ tar -xf test.tar
 tar -zcf test.tar.gz file1.txt file2.txt
 
 # uncompress then extract
-tar -xzf test.tar.gz
+tar -xzf test.tar.gz -C /path/to/destination
 
 # instead of .tar.gz you can also use .tgz
 ```
