@@ -24,6 +24,12 @@ Filesystem      Size  Used Avail Use% Mounted on
 
 ## __prepare and use a new disk__
 
+### __0. Check if disk is a filesystem already__
+
+- `sudo file -s /dev/sdXY`, remember, if the name of disk is `sdXY`, append `/dev/`
+	- `empty` or `data` no filesystem
+	- `Linux rev 1.0 ext4 filesystem data` ext4 filesystem
+
 ### **1. Create a Partition**
 Use `gdisk` (for GPT) or `fdisk` (for MBR) to create a partition:
 `sudo gdisk /dev/vdb`

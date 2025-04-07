@@ -129,7 +129,12 @@ For a block device to be bootable:
 ## __EFS Elastic Filesystem__
 
 - A **managed NFS (v4.1)** file system for Linux workloads.
-- **Shared storage** accessible by multiple EC2 instances, containers, or Lambda functions concurrently.
+- **Shared storage** accessible by multiple EC2 instances, containers, or Lambda functions concurrently. 
+- The _efs mount target_ has to be within the _same region_, for best performance the _efs mount target_ needs to be in the _same AZ_.
+- `sudo apt update`
+- `sudo apt install -y amazon-efs-utils`
+- `sudo mount -t efs <EFS_ID>:/ /mnt/efs` You can mount the _same efs to multiple ec2_
+- `echo "<EFS_ID>:/ /mnt/efs efs _netdev,noresvport,iam,tls 0 0" | sudo tee -a /etc/fstab` 
 
 ## __Object Storage S3__
 
