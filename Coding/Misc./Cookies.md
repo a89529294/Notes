@@ -12,3 +12,22 @@
 Cookie can be set by:
 - Server with `Set-cookie` header.
 - Client side with `document.cookie`.
+
+## Examples
+
+```js
+// expressjs
+res.cookie('cookie1', 'value1', { httpOnly: true });
+res.cookie('cookie2', 'value2', { maxAge: 3600000 });
+
+// Set-Cookie: <name>=<value>; <attributes>
+// value can be anything, just serialize it and encodeURIComponent it
+
+// Set (browser side)
+const data = { cookie1: "value1", cookie2: "value2" };
+document.cookie = `data=${encodeURIComponent(JSON.stringify(data))}; Path=/`;
+
+// Read
+const cookieData = JSON.parse(decodeURIComponent(cookieValue));
+```
+

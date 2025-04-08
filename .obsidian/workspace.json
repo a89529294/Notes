@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Devops/KodeKloud/AWS Cloud Practitioner/Storage.md",
+                "file": "Coding/Devops/KodeKloud/Docker/Basic Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage"
+              "title": "Basic Commands"
             }
           }
         ]
@@ -139,11 +139,15 @@
   },
   "active": "9da9307021671021",
   "lastOpenFiles": [
+    "Coding/Misc./Cookies.md",
+    "Coding/Devops/KodeKloud/Docker/Basic Commands.md",
+    "Coding/Devops/KodeKloud/Docker/Introduction.md",
+    "Coding/Devops/KodeKloud/AWS Cloud Practitioner/Storage.md",
+    "Coding/Devops/KodeKloud/Docker",
     "Coding/Devops/KodeKloud/linux/Storage.md",
     "Coding/Courses/Animations.dev/Keyframe Animations.md",
     "Coding/Devops/KodeKloud/AWS Cloud Practitioner/S3.md",
     "Coding/Devops/KodeKloud/AWS Cloud Practitioner/Resources for Security of AWS.md",
-    "Coding/Devops/KodeKloud/AWS Cloud Practitioner/Storage.md",
     "Coding/Devops/KodeKloud/AWS Cloud Practitioner/CIDR Block.md",
     "Coding/Devops/KodeKloud/AWS Cloud Practitioner/Region, AZ, VPC, Subnet.md",
     "Coding/Devops/KodeKloud/AWS Cloud Practitioner/Subnets & NACLs.md",
@@ -162,9 +166,6 @@
     "Coding/Devops/KodeKloud/linux/Bundling & Compression.md",
     "Coding/Devops/KodeKloud/linux/LVM Logical Volume Manager.md",
     "Coding/Devops/KodeKloud/linux/systemd.md",
-    "Coding/Devops/KodeKloud/linux/cronjob.md",
-    "Coding/Devops/KodeKloud/linux/IPTables & ufw.md",
-    "Coding/Misc./View App on Mobile.md",
     "Coding/AWS/learn.cantrill.io/Tech Fundamentals",
     "Coding/AWS/learn.cantrill.io",
     "Coding/Devops/KodeKloud/AWS Cloud Practitioner",
@@ -174,7 +175,6 @@
     "Coding/Devops/KodeKloud/12 factor app",
     "Coding/Devops/FrontendMasters/Intro to Containers V2",
     "Coding/Devops/FrontendMasters",
-    "Coding/Cybersecurity/Google Cybersecurity",
     "cubic-bezier.png",
     "shared-responsibility.svg",
     "implicit_code_flow.webp",
