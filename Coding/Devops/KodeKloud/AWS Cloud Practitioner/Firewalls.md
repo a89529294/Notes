@@ -21,3 +21,14 @@ Allow Outbound: TCP 1024-65535 (HTTP response)
 
 - acts as firewall for individual resource, e.g. _ec2_, _rds_. 
 - _stateful_ firewall, so only the request needs to be allowed
+
+## **Key Differences Between UFW and Security Groups:**
+
+| Feature           | **Security Groups**                                             | **UFW (Uncomplicated Firewall)**                                   |
+| ----------------- | --------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Scope**         | AWS network-level (applies before traffic reaches the instance) | OS-level (applies on the EC2 instance itself)                      |
+| **Configuration** | Managed via AWS Console, CLI, or SDK                            | Managed via Linux commands (`ufw allow/deny`)                      |
+| **Stateful**      | Yes (return traffic is automatically allowed)                   | Yes (can be configured to allow return traffic)                    |
+| **Default Deny**  | All inbound traffic is denied by default                        | Depends on UFW configuration (`ufw enable` enforces default deny)  |
+| **Persistence**   | Automatically persists across reboots                           | Requires enabling (`ufw enable`) to persist after reboot           |
+| **Use Case**      | Controls access to/from EC2 instances at the AWS network level  | Controls traffic at the OS level (useful for additional filtering) |
