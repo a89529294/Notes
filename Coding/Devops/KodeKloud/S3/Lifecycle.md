@@ -1,0 +1,5 @@
+- [[lifecycle-transitions-v4.png]], shows objects in which storage class can be transferred to which other storage classes.
+- [constraints](https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-transition-general-considerations.html) 
+	- Objects smaller than 128 KB will not transition by default to any storage class
+	- Objects must be stored for at least 30 days before transitioning to S3 Standard-IA or S3 One Zone-IA
+	- above are just a few examples
